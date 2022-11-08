@@ -732,8 +732,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Treptow-Köpenick",
-                "Berlin",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

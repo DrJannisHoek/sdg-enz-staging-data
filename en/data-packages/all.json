@@ -792,8 +792,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Berlin",
-                "Treptow-Köpenick"
+                "Enzkreis",
+                "Land BW"
               ]
             },
             "title": "Region"
