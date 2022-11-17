@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "10-1-2/data.csv",
-      "name": "10-1-2",
+      "path": "13-2-b/data.csv",
+      "name": "13-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -13,34 +13,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "10-1-2"
+      "title": "13-2-b"
     },
     {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
+      "path": "7-2-c/data.csv",
+      "name": "7-2-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -49,59 +49,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-3-1"
-    },
-    {
-      "path": "12-4-1/data.csv",
-      "name": "12-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Status",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Bewerbung",
-                "In Bewerbung",
-                "Fairtrade-School zertifiziert",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Status"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "12-4-1"
+      "title": "7-2-c"
     },
     {
-      "path": "11-7-3/data.csv",
-      "name": "11-7-3",
+      "path": "12-3/data.csv",
+      "name": "12-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -110,36 +85,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "11-7-3"
+      "title": "12-3"
     },
     {
-      "path": "11-4-1/data.csv",
-      "name": "11-4-1",
+      "path": "16-3/data.csv",
+      "name": "16-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -148,117 +121,66 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.maintransport",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zu Fuß",
-                "Fahrrad",
-                "Motorisierter Individualverkehr",
-                "Öffentlicher Verkehr",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Hauptverkehrsmittel"
+            "title": "Region"
           },
           {
-            "name": "data.spatialtypes",
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-3"
+    },
+    {
+      "path": "8-2-c/data.csv",
+      "name": "8-2-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Binnenverkehr",
-                "Quell- u. Zielverkehr",
-                "Alle Wege",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Verkehrsströme"
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "11-4-1"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
-      "title": "5-2-1"
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-1-1"
-    },
-    {
-      "path": "13-2-1/data.csv",
-      "name": "13-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-2-1"
+      "title": "8-2-c"
     },
     {
       "path": "1-1/data.csv",
@@ -271,18 +193,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land.BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -291,14 +208,19 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
       "title": "1-1"
     },
     {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
+      "path": "12-5/data.csv",
+      "name": "12-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -307,31 +229,102 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "fLotte",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
-                "Gesamt",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "fLotte"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "13-2-2"
+      "title": "12-5"
+    },
+    {
+      "path": "4-7/data.csv",
+      "name": "4-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-7"
+    },
+    {
+      "path": "13-1-b/data.csv",
+      "name": "13-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "13-1-b"
     },
     {
       "path": "1-2-c/data.csv",
@@ -344,18 +337,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -364,14 +352,19 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
       "title": "1-2-c"
     },
     {
-      "path": "15-2-1/data.csv",
-      "name": "15-2-1",
+      "path": "12-4/data.csv",
+      "name": "12-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -379,426 +372,698 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-2-1"
-    },
-    {
-      "path": "17-2-1/data.csv",
-      "name": "17-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-2-1"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-1-1"
-    },
-    {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2-1"
-    },
-    {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-1-2"
-    },
-    {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.partner",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Albinea",
-                "Cajamarca",
-                "East Norriton",
-                "Eskisehir",
-                "Izola",
-                "Köln",
-                "Mürzzuschlag",
-                "Odernheim",
-                "Olomouc",
-                "Subotica",
-                "Veszprem",
-                "Warszawa",
-                "Gesamt",
-                ""
-              ]
-            },
-            "title": "Partnerstädte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-1-1"
-    },
-    {
-      "path": "8-2-2/data.csv",
-      "name": "8-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2-2"
-    },
-    {
-      "path": "13-1-3/data.csv",
-      "name": "13-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-1-3"
-    },
-    {
-      "path": "8-2-3/data.csv",
-      "name": "8-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2-3"
-    },
-    {
-      "path": "7-1-3/data.csv",
-      "name": "7-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-1-3"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-5-1"
-    },
-    {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-1-2"
-    },
-    {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "12-4"
+    },
+    {
+      "path": "13-1-a/data.csv",
+      "name": "13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "13-1-a"
+    },
+    {
+      "path": "8-2-b/data.csv",
+      "name": "8-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
+    },
+    {
+      "path": "11-6/data.csv",
+      "name": "11-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-6"
+    },
+    {
+      "path": "3-5/data.csv",
+      "name": "3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-5"
+    },
+    {
+      "path": "2-2/data.csv",
+      "name": "2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-2"
+    },
+    {
+      "path": "15-1/data.csv",
+      "name": "15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "15-1"
+    },
+    {
+      "path": "8-3-b/data.csv",
+      "name": "8-3-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "8-3-b"
+    },
+    {
+      "path": "12-1-b/data.csv",
+      "name": "12-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "12-1-b"
+    },
+    {
+      "path": "8-2-d/data.csv",
+      "name": "8-2-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "8-2-d"
+    },
+    {
+      "path": "15-5/data.csv",
+      "name": "15-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "15-5"
+    },
+    {
+      "path": "8-4/data.csv",
+      "name": "8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "8-4"
+    },
+    {
+      "path": "3-3/data.csv",
+      "name": "3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-3"
+    },
+    {
+      "path": "16-1/data.csv",
+      "name": "16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "16-1"
+    },
+    {
+      "path": "3-9/data.csv",
+      "name": "3-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-9"
+    },
+    {
+      "path": "10-2/data.csv",
+      "name": "10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-2"
+    },
+    {
+      "path": "9-3/data.csv",
+      "name": "9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "9-3"
+    },
+    {
+      "path": "8-1/data.csv",
+      "name": "8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "8-1"
+    },
+    {
+      "path": "10-1-c/data.csv",
+      "name": "10-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-1-c"
+    },
+    {
+      "path": "10-4/data.csv",
+      "name": "10-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -807,14 +1072,19 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "10-4-1"
+      "title": "10-4"
     },
     {
-      "path": "12-1-1/data.csv",
-      "name": "12-1-1",
+      "path": "13-1-d/data.csv",
+      "name": "13-1-d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -823,58 +1093,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-1-1"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "13-1-d"
     },
     {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
+      "path": "4-3/data.csv",
+      "name": "4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -883,34 +1129,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-1-2"
+      "title": "4-3"
     },
     {
-      "path": "4-7-1/data.csv",
-      "name": "4-7-1",
+      "path": "8-3-c/data.csv",
+      "name": "8-3-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -919,34 +1165,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "4-7-1"
+      "title": "8-3-c"
     },
     {
-      "path": "11-7-1/data.csv",
-      "name": "11-7-1",
+      "path": "9-2/data.csv",
+      "name": "9-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -955,36 +1201,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "11-7-1"
+      "title": "9-2"
     },
     {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
+      "path": "4-2/data.csv",
+      "name": "4-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -993,34 +1237,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "8-3-1"
+      "title": "4-2"
     },
     {
-      "path": "8-2-4/data.csv",
-      "name": "8-2-4",
+      "path": "3-11/data.csv",
+      "name": "3-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1029,34 +1273,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "8-2-4"
+      "title": "3-11"
     },
     {
-      "path": "7-2-3/data.csv",
-      "name": "7-2-3",
+      "path": "3-4/data.csv",
+      "name": "3-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1065,34 +1309,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-2-3"
+      "title": "3-4"
     },
     {
-      "path": "11-6-1/data.csv",
-      "name": "11-6-1",
+      "path": "7-1-c/data.csv",
+      "name": "7-1-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1101,463 +1345,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "11-6-1"
-    },
-    {
-      "path": "13-1-4/data.csv",
-      "name": "13-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
-      "title": "13-1-4"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.standort",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Öffentlicher Raum",
-                "Öffentlich zugänglich - auf privatem Grund",
-                "Gesamt",
-                ""
-              ]
-            },
-            "title": "Standort"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-1"
-    },
-    {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-6-1"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4-1"
-    },
-    {
-      "path": "10-2-1/data.csv",
-      "name": "10-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-2-1"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "2-3-1"
-    },
-    {
-      "path": "3-11-1/data.csv",
-      "name": "3-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-11-1"
-    },
-    {
-      "path": "13-1-2/data.csv",
-      "name": "13-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.antworten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ja",
-                "Nein",
-                ""
-              ]
-            },
-            "title": "Antworten"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-1-2"
-    },
-    {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "2-2-1"
-    },
-    {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-7-1"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-3-1"
-    },
-    {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.redlistcat",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausgestorben oder verschollen",
-                "Vom Aussterben bedroht",
-                "Stark gefährdet",
-                "Gefährdet",
-                "Gefährdung unbekannten Ausmaßes",
-                "Extrem selten",
-                "Vorwarnliste",
-                "Ungefährdet",
-                "Daten unzureichend",
-                "Nicht bewertet",
-                ""
-              ]
-            },
-            "title": "Gefährdungskategorien"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-1-1"
-    },
-    {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
-              ]
-            },
-            "title": "Fläche"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-5-1"
+      "title": "7-1-c"
     },
     {
       "path": "1-2-b/data.csv",
@@ -1570,18 +1381,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1590,14 +1396,19 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
       "title": "1-2-b"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
+      "path": "15-3/data.csv",
+      "name": "15-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1606,34 +1417,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.zustand",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Saprobie",
-                "Trophie",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Zustand"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "6-1-1"
+      "title": "15-3"
     },
     {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
+      "path": "3-7/data.csv",
+      "name": "3-7",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1642,131 +1453,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-1-1"
-    },
-    {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-2-1"
-    },
-    {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-3-1"
-    },
-    {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-5-1"
-    },
-    {
-      "path": "11-1-1/data.csv",
-      "name": "11-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "fLotte",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
-                "Gesamt",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "fLotte"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "11-1-1"
+      "title": "3-7"
     },
     {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
+      "path": "3-2/data.csv",
+      "name": "3-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1775,71 +1489,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "5-1-1"
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-9",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                "Gender Pay Gap",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
-      "title": "8-5-1"
+      "title": "3-2"
     },
     {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
+      "path": "4-8/data.csv",
+      "name": "4-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1848,34 +1525,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "15-4-1"
+      "title": "4-8"
     },
     {
-      "path": "10-1-3/data.csv",
-      "name": "10-1-3",
+      "path": "4-1/data.csv",
+      "name": "4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1884,34 +1561,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "10-1-3"
+      "title": "4-1"
     },
     {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
+      "path": "3-1/data.csv",
+      "name": "3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1920,63 +1597,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Ortsteil",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Alt-Treptow",
-                "Plänterwald",
-                "Baumschulenweg",
-                "Johannisthal",
-                "Niederschöneweide",
-                "Altglienicke",
-                "Adlershof",
-                "Bohnsdorf",
-                "Oberschöneweide",
-                "Köpenick",
-                "Friedrichshagen",
-                "Rahnsdorf",
-                "Grünau",
-                "Müggelheim",
-                "Schmöckwitz",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Ortsteil"
-          },
-          {
-            "name": "District",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Treptow-Köpenick",
-                ""
-              ]
-            },
-            "title": "District"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "11-2-1"
+      "title": "3-1"
     },
     {
-      "path": "12-2-1/data.csv",
-      "name": "12-2-1",
+      "path": "8-3-a/data.csv",
+      "name": "8-3-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1985,22 +1633,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "12-2-1"
+      "title": "8-3-a"
     },
     {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
+      "path": "10-1-a/data.csv",
+      "name": "10-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2009,75 +1669,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "3-6-1"
-    },
-    {
-      "path": "9-3-1/data.csv",
-      "name": "9-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-9",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.availability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 Mbit/s",
-                "16 Mbit/s",
-                "30 Mbit/s",
-                "50 Mbit/s",
-                "100 Mbit/s",
-                "200 Mbit/s",
-                "1000 Mbit/s",
-                ""
-              ]
-            },
-            "title": "Verfügbarkeit"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
-      "title": "9-3-1"
+      "title": "10-1-a"
     },
     {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
+      "path": "11-7-b/data.csv",
+      "name": "11-7-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2086,34 +1705,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-5-1"
+      "title": "11-7-b"
     },
     {
-      "path": "8-3-2/data.csv",
-      "name": "8-3-2",
+      "path": "15-4/data.csv",
+      "name": "15-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2122,34 +1741,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "8-3-2"
+      "title": "15-4"
     },
     {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
+      "path": "7-1-b/data.csv",
+      "name": "7-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2158,34 +1777,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "15-5-1"
+      "title": "7-1-b"
     },
     {
-      "path": "3-9-1/data.csv",
-      "name": "3-9-1",
+      "path": "11-3/data.csv",
+      "name": "11-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2194,72 +1813,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "3-9-1"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-1",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.noise",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Keine Werte",
-                "Gering",
-                "Mittel",
-                "Hoch",
-                ""
-              ]
-            },
-            "title": "Relative Lärmbelastung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
-      "title": "3-2-1"
+      "title": "11-3"
     },
     {
-      "path": "3-10-1/data.csv",
-      "name": "3-10-1",
+      "path": "10-3/data.csv",
+      "name": "10-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2268,34 +1849,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-10-1"
+      "title": "10-3"
     },
     {
-      "path": "12-1-2/data.csv",
-      "name": "12-1-2",
+      "path": "9-1/data.csv",
+      "name": "9-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2304,34 +1885,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "12-1-2"
+      "title": "9-1"
     },
     {
-      "path": "15-1-1/data.csv",
-      "name": "15-1-1",
+      "path": "11-5/data.csv",
+      "name": "11-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2340,30 +1921,426 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.antworten",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ja",
-                "Nein",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Antworten"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "15-1-1"
+      "title": "11-5"
+    },
+    {
+      "path": "11-4/data.csv",
+      "name": "11-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-4"
+    },
+    {
+      "path": "10-1-b/data.csv",
+      "name": "10-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-1-b"
+    },
+    {
+      "path": "14-1/data.csv",
+      "name": "14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "14-1"
+    },
+    {
+      "path": "5-1-b/data.csv",
+      "name": "5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "5-1-b"
+    },
+    {
+      "path": "2-3/data.csv",
+      "name": "2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-3"
+    },
+    {
+      "path": "7-2-b/data.csv",
+      "name": "7-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "7-2-b"
+    },
+    {
+      "path": "5-1-a/data.csv",
+      "name": "5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "5-1-a"
+    },
+    {
+      "path": "11-2/data.csv",
+      "name": "11-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-2"
+    },
+    {
+      "path": "11-7-a/data.csv",
+      "name": "11-7-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "11-7-a"
+    },
+    {
+      "path": "17-1-a/data.csv",
+      "name": "17-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "17-1-a"
+    },
+    {
+      "path": "10-5/data.csv",
+      "name": "10-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-5"
     },
     {
       "path": "2-1/data.csv",
@@ -2376,19 +2353,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "Untergewicht",
+                "",
                 "Normalgewicht",
-                "Übergewicht",
-                ""
+                "Untergewicht",
+                "Übergewicht"
               ]
             },
             "title": "Gruppe"
@@ -2397,14 +2369,19 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
       "title": "2-1"
     },
     {
-      "path": "10-5-1/data.csv",
-      "name": "10-5-1",
+      "path": "12-2/data.csv",
+      "name": "12-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2413,34 +2390,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "10-5-1"
+      "title": "12-2"
     },
     {
-      "path": "4-3-1/data.csv",
-      "name": "4-3-1",
+      "path": "8-5/data.csv",
+      "name": "8-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2449,34 +2426,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "4-3-1"
+      "title": "8-5"
     },
     {
-      "path": "3-8-1/data.csv",
-      "name": "3-8-1",
+      "path": "17-2/data.csv",
+      "name": "17-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2485,34 +2462,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-8-1"
+      "title": "17-2"
     },
     {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
+      "path": "3-6/data.csv",
+      "name": "3-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2521,35 +2498,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.air",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gering",
-                "Mittel",
-                "Hoch",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Relative Luftbelastung"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-3-1"
+      "title": "3-6"
     },
     {
-      "path": "4-8-1/data.csv",
-      "name": "4-8-1",
+      "path": "7-1-a/data.csv",
+      "name": "7-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2558,68 +2534,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "4-8-1"
-    },
-    {
-      "path": "11-8-1/data.csv",
-      "name": "11-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
-              ]
-            },
-            "title": "Fläche"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
-      "title": "11-8-1"
+      "title": "7-1-a"
     },
     {
       "path": "1-2-a/data.csv",
@@ -2632,18 +2570,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2652,14 +2585,19 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
       "title": "1-2-a"
     },
     {
-      "path": "4-6-1/data.csv",
-      "name": "4-6-1",
+      "path": "16-2/data.csv",
+      "name": "16-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2668,34 +2606,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "4-6-1"
+      "title": "16-2"
     },
     {
-      "path": "11-7-2/data.csv",
-      "name": "11-7-2",
+      "path": "11-8/data.csv",
+      "name": "11-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2704,36 +2642,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "11-7-2"
+      "title": "11-8"
     },
     {
-      "path": "8-4-1/data.csv",
-      "name": "8-4-1",
+      "path": "6-1/data.csv",
+      "name": "6-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2742,58 +2678,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Beschäftigungsquote"
-    },
-    {
-      "path": "8-3-3/data.csv",
-      "name": "8-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "8-3-3"
+      "title": "6-1"
     },
     {
-      "path": "9-2-1/data.csv",
-      "name": "9-2-1",
+      "path": "4-6/data.csv",
+      "name": "4-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2802,34 +2714,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.zug",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Innenbereich",
-                "Außenbereich",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Zugangspunkte"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "9-2-1"
+      "title": "4-6"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
+      "path": "8-2-a/data.csv",
+      "name": "8-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2838,34 +2750,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-4-1"
+      "title": "8-2-a"
     },
     {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
+      "path": "12-1-a/data.csv",
+      "name": "12-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2874,59 +2786,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-3-1"
-    },
-    {
-      "path": "3-3-2/data.csv",
-      "name": "3-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-9",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.luftg",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Feinstaub (PM10)",
-                "Ozon Stundenwerte",
-                "Ozon 8-Stundenwerte (gleitend)",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Luftgüte"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "3-3-2"
+      "title": "12-1-a"
     },
     {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
+      "path": "4-4/data.csv",
+      "name": "4-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2935,95 +2822,70 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-2-1"
-    },
-    {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "10-1-1"
-    },
-    {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-9",
-      "schema": {
-        "fields": [
+          },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
+          }
+        ]
+      },
+      "title": "4-4"
+    },
+    {
+      "path": "13-2-a/data.csv",
+      "name": "13-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
           {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Naturschutzgebiete",
-                "Landschaftsschutzgebiete",
-                "Gesamt",
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "15-3-1"
+      "title": "13-2-a"
     },
     {
-      "path": "5-7-1/data.csv",
-      "name": "5-7-1",
+      "path": "17-1-b/data.csv",
+      "name": "17-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3032,104 +2894,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "number",
+            "name": "Region",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-7-1"
-    },
-    {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-1-1"
-    },
-    {
-      "path": "7-2-2/data.csv",
-      "name": "7-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          }
-        ]
-      },
-      "title": "7-2-2"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Year",
             "type": "integer",
-            "title": "Value"
+            "title": "Year"
           }
         ]
       },
-      "title": "3-1-1"
+      "title": "17-1-b"
     },
     {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
+      "path": "3-10/data.csv",
+      "name": "3-10",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3138,22 +2930,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "16-2-1"
+      "title": "3-10"
     },
     {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
+      "path": "7-2-a/data.csv",
+      "name": "7-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3162,22 +2966,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "5-4-1"
+      "title": "7-2-a"
     },
     {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
+      "path": "11-7-c/data.csv",
+      "name": "11-7-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3186,22 +3002,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-3-2"
+      "title": "11-7-c"
     },
     {
-      "path": "9-1-2/data.csv",
-      "name": "9-1-2",
+      "path": "15-2/data.csv",
+      "name": "15-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3210,22 +3038,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "9-1-2"
+      "title": "15-2"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
+      "path": "11-1/data.csv",
+      "name": "11-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3234,22 +3074,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "6-3-1"
+      "title": "11-1"
     },
     {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
+      "path": "3-8/data.csv",
+      "name": "3-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3258,22 +3110,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "5-3-1"
+      "title": "3-8"
     },
     {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
+      "path": "13-1-c/data.csv",
+      "name": "13-1-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3282,22 +3146,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-3-1"
+      "title": "13-1-c"
     },
     {
-      "path": "7-3-3/data.csv",
-      "name": "7-3-3",
+      "path": "4-5/data.csv",
+      "name": "4-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3306,22 +3182,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "7-3-3"
+      "title": "4-5"
     },
     {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
+      "path": "5-2/data.csv",
+      "name": "5-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3330,18 +3218,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
-      "title": "6-2-1"
+      "title": "5-2"
     }
   ]
 }
