@@ -22,6 +22,7 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                "LandBW",
                 ""
               ]
             },
