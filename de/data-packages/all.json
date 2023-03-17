@@ -4147,8 +4147,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Sterbefälle je 1.000 Einwohner/-innen",
                 ""
               ]
             },
@@ -4156,7 +4155,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
