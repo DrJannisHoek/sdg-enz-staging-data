@@ -1963,7 +1963,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betrieb",
             "type": "string",
             "constraints": {
               "enum": [

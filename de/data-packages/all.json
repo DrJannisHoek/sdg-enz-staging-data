@@ -2141,7 +2141,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betrieb",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2150,7 +2150,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.betrieb"
           },
           {
             "name": "Value",
