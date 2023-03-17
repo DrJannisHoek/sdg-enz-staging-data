@@ -1854,15 +1854,16 @@
             "title": "Region"
           },
           {
-            "name": "Category",
+            "name": "grupp.armut",
             "type": "string",
             "constraints": {
               "enum": [
                 "Kinderarmut",
+                "Jugendarmut",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "grupp.armut"
           },
           {
             "name": "Value",

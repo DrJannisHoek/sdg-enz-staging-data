@@ -26,11 +26,12 @@
             }
           },
           {
-            "name": "Category",
+            "name": "grupp.armut",
             "type": "string",
             "constraints": {
               "enum": [
                 "Kinderarmut",
+                "Jugendarmut",
                 ""
               ]
             }
