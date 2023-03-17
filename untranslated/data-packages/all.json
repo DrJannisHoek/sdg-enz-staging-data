@@ -247,7 +247,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gewicht",
             "type": "string",
             "constraints": {
               "enum": [

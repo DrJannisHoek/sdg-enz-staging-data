@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gewicht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.gewicht"
           },
           {
             "name": "Value",
