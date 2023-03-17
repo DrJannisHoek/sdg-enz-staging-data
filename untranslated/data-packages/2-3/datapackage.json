@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.stickstoffüberschuss",
             "type": "string",
             "constraints": {
               "enum": [

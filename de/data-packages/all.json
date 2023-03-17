@@ -3378,7 +3378,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.stickstoffüberschuss",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3386,7 +3386,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.stickstoffüberschuss"
           },
           {
             "name": "Value",
