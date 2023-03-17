@@ -28,19 +28,20 @@
             "title": "Region"
           },
           {
-            "name": "Category",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kinderarmut",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "gruppe.beschaeftigt"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

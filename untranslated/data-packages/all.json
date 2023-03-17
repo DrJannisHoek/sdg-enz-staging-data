@@ -3,6 +3,50 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "6-2/data.csv",
+      "name": "6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "6-2"
+    },
+    {
       "path": "4-4/data.csv",
       "name": "4-4",
       "profile": "tabular-data-resource",
@@ -23,6 +67,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -61,6 +116,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -69,8 +135,8 @@
       "title": "15-5"
     },
     {
-      "path": "5-1-b/data.csv",
-      "name": "5-1-b",
+      "path": "4-3/data.csv",
+      "name": "4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -94,34 +160,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "5-1-b"
-    },
-    {
-      "path": "4-3/data.csv",
-      "name": "4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -160,6 +204,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -182,13 +237,23 @@
             "type": "integer"
           },
           {
-            "name": "Gruppe",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Untergewicht",
-                "Normalgewicht",
-                "Übergewicht",
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -202,8 +267,8 @@
       "title": "2-1"
     },
     {
-      "path": "10-5/data.csv",
-      "name": "10-5",
+      "path": "11-1-b/data.csv",
+      "name": "11-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -227,12 +292,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "10-5"
+      "title": "11-1-b"
     },
     {
       "path": "4-6/data.csv",
@@ -255,6 +331,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -293,6 +380,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -326,6 +424,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -334,8 +443,8 @@
       "title": "16-2"
     },
     {
-      "path": "11-7-c/data.csv",
-      "name": "11-7-c",
+      "path": "13-2/data.csv",
+      "name": "13-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -359,12 +468,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "11-7-c"
+      "title": "13-2"
+    },
+    {
+      "path": "4-1-b/data.csv",
+      "name": "4-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "4-1-b"
     },
     {
       "path": "4-2/data.csv",
@@ -392,6 +556,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -400,8 +575,8 @@
       "title": "4-2"
     },
     {
-      "path": "17-1-a/data.csv",
-      "name": "17-1-a",
+      "path": "15-4/data.csv",
+      "name": "15-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -425,34 +600,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "17-1-a"
-    },
-    {
-      "path": "15-4/data.csv",
-      "name": "15-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -491,12 +644,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "15-2"
+    },
+    {
+      "path": "3-8-b/data.csv",
+      "name": "3-8-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-8-b"
     },
     {
       "path": "8-4/data.csv",
@@ -519,6 +727,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -557,6 +776,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -565,8 +795,8 @@
       "title": "16-1"
     },
     {
-      "path": "1-2-c/data.csv",
-      "name": "1-2-c",
+      "path": "11-8/data.csv",
+      "name": "11-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -590,34 +820,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "1-2-c"
-    },
-    {
-      "path": "11-8/data.csv",
-      "name": "11-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -656,12 +864,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "11-3"
+    },
+    {
+      "path": "8-2/data.csv",
+      "name": "8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "8-2"
     },
     {
       "path": "11-5/data.csv",
@@ -684,6 +947,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -722,6 +996,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -730,8 +1015,8 @@
       "title": "16-3"
     },
     {
-      "path": "17-1-b/data.csv",
-      "name": "17-1-b",
+      "path": "3-3/data.csv",
+      "name": "3-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -755,34 +1040,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "17-1-b"
-    },
-    {
-      "path": "3-3/data.csv",
-      "name": "3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -821,6 +1084,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -854,6 +1128,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -862,8 +1147,8 @@
       "title": "9-3"
     },
     {
-      "path": "13-1-c/data.csv",
-      "name": "13-1-c",
+      "path": "15-3/data.csv",
+      "name": "15-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -887,34 +1172,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "13-1-c"
-    },
-    {
-      "path": "15-3/data.csv",
-      "name": "15-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -953,16 +1216,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
       "title": "1-2-b"
     },
     {
-      "path": "13-2-a/data.csv",
-      "name": "13-2-a",
+      "path": "3-6-a/data.csv",
+      "name": "3-6-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -986,16 +1260,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "13-2-a"
+      "title": "3-6-a"
     },
     {
-      "path": "8-2-c/data.csv",
-      "name": "8-2-c",
+      "path": "16-4/data.csv",
+      "name": "16-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1019,16 +1304,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-2-c"
+      "title": "16-4"
     },
     {
-      "path": "8-3-a/data.csv",
-      "name": "8-3-a",
+      "path": "3-8-a/data.csv",
+      "name": "3-8-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1052,12 +1348,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-3-a"
+      "title": "3-8-a"
+    },
+    {
+      "path": "5-3/data.csv",
+      "name": "5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "5-3"
     },
     {
       "path": "10-4/data.csv",
@@ -1085,16 +1436,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
       "title": "10-4"
     },
     {
-      "path": "11-7-b/data.csv",
-      "name": "11-7-b",
+      "path": "7-2/data.csv",
+      "name": "7-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1118,16 +1480,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "11-7-b"
+      "title": "7-2"
     },
     {
-      "path": "8-3-c/data.csv",
-      "name": "8-3-c",
+      "path": "17-1/data.csv",
+      "name": "17-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1151,12 +1524,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-3-c"
+      "title": "17-1"
     },
     {
       "path": "11-4/data.csv",
@@ -1184,12 +1568,111 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "11-4"
+    },
+    {
+      "path": "11-7/data.csv",
+      "name": "11-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "11-7"
+    },
+    {
+      "path": "9-5-b/data.csv",
+      "name": "9-5-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "9-5-b"
     },
     {
       "path": "1-2-a/data.csv",
@@ -1217,26 +1700,27 @@
             }
           },
           {
-            "name": "Category",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kinderarmut",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
       "title": "1-2-a"
     },
     {
-      "path": "8-2-d/data.csv",
-      "name": "8-2-d",
+      "path": "3-6-b/data.csv",
+      "name": "3-6-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1260,16 +1744,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-2-d"
+      "title": "3-6-b"
     },
     {
-      "path": "7-1-c/data.csv",
-      "name": "7-1-c",
+      "path": "7-3/data.csv",
+      "name": "7-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1293,34 +1788,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "7-1-c"
-    },
-    {
-      "path": "13-2-b/data.csv",
-      "name": "13-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -1331,40 +1804,7 @@
           }
         ]
       },
-      "title": "13-2-b"
-    },
-    {
-      "path": "3-11/data.csv",
-      "name": "3-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-11"
+      "title": "7-3"
     },
     {
       "path": "12-3/data.csv",
@@ -1392,6 +1832,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1400,8 +1851,8 @@
       "title": "12-3"
     },
     {
-      "path": "8-2-a/data.csv",
-      "name": "8-2-a",
+      "path": "9-6-a/data.csv",
+      "name": "9-6-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1425,12 +1876,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-2-a"
+      "title": "9-6-a"
     },
     {
       "path": "9-1/data.csv",
@@ -1453,6 +1915,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -1491,34 +1964,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "2-2"
-    },
-    {
-      "path": "3-8/data.csv",
-      "name": "3-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -1529,7 +1980,7 @@
           }
         ]
       },
-      "title": "3-8"
+      "title": "2-2"
     },
     {
       "path": "13-1-a/data.csv",
@@ -1557,6 +2008,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1565,8 +2027,8 @@
       "title": "13-1-a"
     },
     {
-      "path": "7-2-b/data.csv",
-      "name": "7-2-b",
+      "path": "10-1/data.csv",
+      "name": "10-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1590,12 +2052,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "7-2-b"
+      "title": "10-1"
+    },
+    {
+      "path": "3-5-a/data.csv",
+      "name": "3-5-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-5-a"
     },
     {
       "path": "12-5/data.csv",
@@ -1618,6 +2135,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -1656,6 +2184,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1664,8 +2203,8 @@
       "title": "11-2"
     },
     {
-      "path": "8-5/data.csv",
-      "name": "8-5",
+      "path": "11-9/data.csv",
+      "name": "11-9",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1689,12 +2228,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-5"
+      "title": "11-9"
     },
     {
       "path": "3-1/data.csv",
@@ -1722,6 +2272,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1730,8 +2291,8 @@
       "title": "3-1"
     },
     {
-      "path": "12-1-a/data.csv",
-      "name": "12-1-a",
+      "path": "4-1-a/data.csv",
+      "name": "4-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1755,34 +2316,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "12-1-a"
-    },
-    {
-      "path": "11-1/data.csv",
-      "name": "11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -1793,7 +2332,7 @@
           }
         ]
       },
-      "title": "11-1"
+      "title": "4-1-a"
     },
     {
       "path": "10-3/data.csv",
@@ -1821,6 +2360,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1829,8 +2379,8 @@
       "title": "10-3"
     },
     {
-      "path": "7-2-a/data.csv",
-      "name": "7-2-a",
+      "path": "3-5-b/data.csv",
+      "name": "3-5-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1854,16 +2404,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "7-2-a"
+      "title": "3-5-b"
     },
     {
-      "path": "1-2-a)/data.csv",
-      "name": "1-2-a)",
+      "path": "9-4/data.csv",
+      "name": "9-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1887,12 +2448,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "1-2-a)"
+      "title": "9-4"
     },
     {
       "path": "1-1/data.csv",
@@ -1928,6 +2500,50 @@
       "title": "1-1"
     },
     {
+      "path": "5-1/data.csv",
+      "name": "5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "5-1"
+    },
+    {
       "path": "9-2/data.csv",
       "name": "9-2",
       "profile": "tabular-data-resource",
@@ -1953,6 +2569,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1961,8 +2588,8 @@
       "title": "9-2"
     },
     {
-      "path": "8-3-b/data.csv",
-      "name": "8-3-b",
+      "path": "17-3/data.csv",
+      "name": "17-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1986,16 +2613,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "8-3-b"
+      "title": "17-3"
     },
     {
-      "path": "3-5/data.csv",
-      "name": "3-5",
+      "path": "9-5-a/data.csv",
+      "name": "9-5-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2019,12 +2657,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "3-5"
+      "title": "9-5-a"
     },
     {
       "path": "11-6/data.csv",
@@ -2052,12 +2701,67 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "11-6"
+    },
+    {
+      "path": "9-6-b/data.csv",
+      "name": "9-6-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "9-6-b"
     },
     {
       "path": "12-4/data.csv",
@@ -2085,111 +2789,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "12-4"
-    },
-    {
-      "path": "3-10/data.csv",
-      "name": "3-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-10"
-    },
-    {
-      "path": "10-1-a/data.csv",
-      "name": "10-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "10-1-a"
-    },
-    {
-      "path": "12-1-b/data.csv",
-      "name": "12-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "12-1-b"
     },
     {
       "path": "15-1/data.csv",
@@ -2212,6 +2828,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2250,6 +2877,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2283,78 +2921,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "4-8"
-    },
-    {
-      "path": "7-2-c/data.csv",
-      "name": "7-2-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "7-2-c"
-    },
-    {
-      "path": "5-1-a/data.csv",
-      "name": "5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "5-1-a"
     },
     {
       "path": "13-1-b/data.csv",
@@ -2377,6 +2960,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2415,6 +3009,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2423,8 +3028,8 @@
       "title": "14-1"
     },
     {
-      "path": "11-7-a/data.csv",
-      "name": "11-7-a",
+      "path": "3-6-c/data.csv",
+      "name": "3-6-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2448,12 +3053,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "11-7-a"
+      "title": "3-6-c"
     },
     {
       "path": "2-3/data.csv",
@@ -2476,6 +3092,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2514,6 +3141,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2522,8 +3160,8 @@
       "title": "10-2"
     },
     {
-      "path": "3-6/data.csv",
-      "name": "3-6",
+      "path": "6-1/data.csv",
+      "name": "6-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2547,34 +3185,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-6"
-    },
-    {
-      "path": "6-1/data.csv",
-      "name": "6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2613,6 +3229,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2646,6 +3273,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2654,8 +3292,8 @@
       "title": "3-7"
     },
     {
-      "path": "10-1-b/data.csv",
-      "name": "10-1-b",
+      "path": "12-1/data.csv",
+      "name": "12-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2679,16 +3317,27 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "10-1-b"
+      "title": "12-1"
     },
     {
-      "path": "4-1/data.csv",
-      "name": "4-1",
+      "path": "11-1-a/data.csv",
+      "name": "11-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2712,12 +3361,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "4-1"
+      "title": "11-1-a"
     },
     {
       "path": "17-2/data.csv",
@@ -2740,6 +3400,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2778,6 +3449,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2786,8 +3468,8 @@
       "title": "7-1-a"
     },
     {
-      "path": "13-1-d/data.csv",
-      "name": "13-1-d",
+      "path": "13-3/data.csv",
+      "name": "13-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2811,12 +3493,23 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "13-1-d"
+      "title": "13-3"
     },
     {
       "path": "4-7/data.csv",
@@ -2839,6 +3532,17 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2877,6 +3581,17 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -2885,8 +3600,8 @@
       "title": "12-2"
     },
     {
-      "path": "8-2-b/data.csv",
-      "name": "8-2-b",
+      "path": "5-4/data.csv",
+      "name": "5-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2910,34 +3625,12 @@
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.8-4-1-title"
-    },
-    {
-      "path": "10-1-c/data.csv",
-      "name": "10-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -2948,40 +3641,7 @@
           }
         ]
       },
-      "title": "10-1-c"
-    },
-    {
-      "path": "3-9/data.csv",
-      "name": "3-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-9"
+      "title": "5-4"
     },
     {
       "path": "7-1-b/data.csv",
@@ -3009,12 +3669,155 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
         ]
       },
       "title": "7-1-b"
+    },
+    {
+      "path": "12-6/data.csv",
+      "name": "12-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "12-6"
+    },
+    {
+      "path": "8-3/data.csv",
+      "name": "8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "8-3"
+    },
+    {
+      "path": "3-5-c/data.csv",
+      "name": "3-5-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "3-5-c"
     }
   ]
 }
