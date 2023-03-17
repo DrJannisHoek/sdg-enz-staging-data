@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -34,7 +34,6 @@
               "enum": [
                 "Konventionell bewirtschaftete Fläche [%]",
                 "Ökologisch bewirtschaftete Fläche [%]",
-                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             },
@@ -42,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
