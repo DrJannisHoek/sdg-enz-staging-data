@@ -32,8 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Diesel Pkw",
+                "Otto Pkw",
+                "Leichte Nutzfahrzeuge",
+                "Schwere Nutzfahrzeuge",
+                "Busse",
+                "Krafträder",
                 ""
               ]
             },
