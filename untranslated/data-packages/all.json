@@ -1044,7 +1044,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschecht",
             "type": "string",
             "constraints": {
               "enum": [

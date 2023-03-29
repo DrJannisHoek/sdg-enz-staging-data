@@ -1138,7 +1138,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1147,7 +1147,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.geschecht"
           },
           {
             "name": "Value",
