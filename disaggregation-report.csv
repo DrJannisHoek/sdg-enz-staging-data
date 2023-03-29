@@ -1,9 +1,10 @@
 Disaggregation,Number of indicators,Number of values
 grupp.armut,1,2
-gruppe.beschaeftigt,71,24
+gruppe.beschaeftigt,70,23
 gruppe.betrieb,1,2
 gruppe.betten,1,1
 gruppe.geschlecht,4,6
 gruppe.gewicht,1,3
+gruppe.sterbefälle,1,1
 gruppe.stickstoffüberschuss,1,1
 Region,81,3

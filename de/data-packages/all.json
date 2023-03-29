@@ -4150,7 +4150,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.sterbefälle",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4158,7 +4158,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.sterbefälle"
           },
           {
             "name": "Value",
