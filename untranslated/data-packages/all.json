@@ -1751,7 +1751,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.ambulant",
             "type": "string",
             "constraints": {
               "enum": [
