@@ -1,11 +1,12 @@
 Disaggregation,Number of indicators,Number of values
 grupp.armut,1,2
 gruppe.ambulant,1,4
-gruppe.beschaeftigt,68,15
+gruppe.beschaeftigt,67,14
 gruppe.betrieb,1,2
 gruppe.betten,1,1
 gruppe.geschlecht,4,6
 gruppe.gewicht,1,3
+gruppe.masern,1,1
 gruppe.pflege,1,4
 gruppe.sterbefälle,1,1
 gruppe.stickstoffüberschuss,1,1

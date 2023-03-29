@@ -3278,7 +3278,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.masern",
             "type": "string",
             "constraints": {
               "enum": [
