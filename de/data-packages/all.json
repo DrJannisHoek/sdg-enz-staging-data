@@ -2629,7 +2629,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2638,7 +2638,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
