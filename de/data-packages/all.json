@@ -1356,7 +1356,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -1387,7 +1387,7 @@
                 ""
               ]
             },
-            "title": "gruppe.pflege"
+            "title": "Pflegebedürftigkeit"
           },
           {
             "name": "Value",
