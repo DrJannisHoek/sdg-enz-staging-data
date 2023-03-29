@@ -1376,7 +1376,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1387,7 +1387,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.pflege"
           },
           {
             "name": "Value",

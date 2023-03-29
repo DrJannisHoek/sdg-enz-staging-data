@@ -1262,7 +1262,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
