@@ -763,7 +763,7 @@
                 ""
               ]
             },
-            "title": "Stickstoffoxidemissionen"
+            "title": "gruppe.stickstoffoxid"
           },
           {
             "name": "Value",
@@ -1487,7 +1487,7 @@
                 ""
               ]
             },
-            "title": "Feinstaubemissionen"
+            "title": "gruppe.feinstaubemissionen"
           },
           {
             "name": "Value",
