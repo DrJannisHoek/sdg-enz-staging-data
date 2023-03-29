@@ -1351,7 +1351,7 @@
             }
           },
           {
-            "name": "gruppe.feinstaubemissionen",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [

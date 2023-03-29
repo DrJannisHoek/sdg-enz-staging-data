@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.feinstaubemissionen",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
                 ""
               ]
             },
-            "title": "gruppe.feinstaubemissionen"
+            "title": "Emittenten"
           },
           {
             "name": "Value",
