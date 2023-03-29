@@ -21,27 +21,27 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "bis 25 h in Betreuung",
+                "25 bis 35 h in Betreuung",
+                "mehr als 35 h Betreuung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.betreuung"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
