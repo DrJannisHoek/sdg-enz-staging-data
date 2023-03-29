@@ -1351,7 +1351,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.feinstaubemissionen",
             "type": "string",
             "constraints": {
               "enum": [
