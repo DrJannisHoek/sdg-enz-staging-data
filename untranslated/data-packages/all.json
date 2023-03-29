@@ -2306,8 +2306,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Betreuungsumfang - Anteil in %",
                 "Betreuungsquote in %",
+                "Betreuungsumfang - Anteil in %",
                 ""
               ]
             }
