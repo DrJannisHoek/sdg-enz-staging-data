@@ -3529,7 +3529,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3537,7 +3537,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Krankenhausbetten"
           },
           {
             "name": "Value",
