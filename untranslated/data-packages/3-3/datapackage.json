@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "gruppe.geschecht",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

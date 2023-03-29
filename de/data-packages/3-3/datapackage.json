@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.geschecht",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "gruppe.geschecht"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
