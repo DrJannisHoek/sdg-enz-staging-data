@@ -750,7 +750,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.stickstoffoxid",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -763,7 +763,7 @@
                 ""
               ]
             },
-            "title": "gruppe.stickstoffoxid"
+            "title": "Emittenten"
           },
           {
             "name": "Value",

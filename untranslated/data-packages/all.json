@@ -688,7 +688,7 @@
             }
           },
           {
-            "name": "gruppe.stickstoffoxid",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
