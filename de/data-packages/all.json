@@ -1473,7 +1473,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.feinstaubemissionen",
+            "name": "gruppe.beschaeftigt",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1487,7 +1487,7 @@
                 ""
               ]
             },
-            "title": "Feinstaubemissionen"
+            "title": "gruppe.beschaeftigt"
           },
           {
             "name": "Value",
