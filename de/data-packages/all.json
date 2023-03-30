@@ -1309,7 +1309,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.grund",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1317,7 +1317,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.grund"
           },
           {
             "name": "Value",
