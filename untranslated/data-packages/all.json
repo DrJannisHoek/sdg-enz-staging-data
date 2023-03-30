@@ -160,7 +160,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.abschluss",
             "type": "string",
             "constraints": {
               "enum": [
