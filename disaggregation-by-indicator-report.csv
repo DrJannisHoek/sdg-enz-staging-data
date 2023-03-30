@@ -55,7 +55,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2,Region,1
 #4-3,"Region, gruppe.abschluss",2
 #4-4,"gruppe.sektor, gruppe.gesamt",2
-#4-5,"Region, gruppe.beschaeftigt",2
+#4-5,Region,1
 #4-6,"Region, gruppe.beschaeftigt",2
 #4-7,"Region, gruppe.beschaeftigt",2
 #4-8,"Region, gruppe.beschaeftigt",2
