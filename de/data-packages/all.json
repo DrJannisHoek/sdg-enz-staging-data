@@ -283,7 +283,7 @@
                 ""
               ]
             },
-            "title": "Art der Fehlernährung"
+            "title": "Body Mass Index (BMI)"
           },
           {
             "name": "Value",
@@ -1317,7 +1317,7 @@
                 ""
               ]
             },
-            "title": "gruppe.grund"
+            "title": "SGB XII-Quote"
           },
           {
             "name": "Value",
