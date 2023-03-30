@@ -78,7 +78,7 @@
                 ""
               ]
             },
-            "title": "gruppe.sektor"
+            "title": "Sektor"
           },
           {
             "name": "gruppe.gesamt",
@@ -89,7 +89,7 @@
                 ""
               ]
             },
-            "title": "gruppe.gesamt"
+            "title": "Gesamt"
           },
           {
             "name": "Value",
