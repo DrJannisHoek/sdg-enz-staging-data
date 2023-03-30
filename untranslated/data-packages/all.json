@@ -80,13 +80,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1703",
-                "1732",
-                "1712",
-                "1749",
-                "1830",
-                "1840",
-                "1706",
                 "Gesamt",
                 ""
               ]
@@ -94,7 +87,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
