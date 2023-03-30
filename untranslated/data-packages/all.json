@@ -65,6 +65,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Industrie und Handel",
                 "Handwerk",
                 "Landwirtschaft",
                 "Öffentlicher Dienst",
@@ -79,6 +80,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "1703",
+                "1732",
+                "1712",
+                "1749",
+                "1830",
+                "1840",
+                "1706",
                 "Gesamt",
                 ""
               ]
@@ -86,7 +94,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
