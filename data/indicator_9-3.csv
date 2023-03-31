@@ -1,13 +1,13 @@
-Year,Region,Units,Value
-2010,Enzkreis,Innovationsindex,24.6
-2012,Enzkreis,Innovationsindex,24.6
-2014,Enzkreis,Innovationsindex,25.6
-2016,Enzkreis,Innovationsindex,23.4
-2018,Enzkreis,Innovationsindex,25.4
-2020,Enzkreis,Innovationsindex,24.0
-2010,Enzkreis,Rang in BW (von 44),25
-2012,Enzkreis,Rang in BW (von 44),25
-2014,Enzkreis,Rang in BW (von 44),25
-2016,Enzkreis,Rang in BW (von 44),25
-2018,Enzkreis,Rang in BW (von 44),25
-2020,Enzkreis,Rang in BW (von 44),25
+Year,Units,Value
+2010,Innovationsindex,24.6
+2012,Innovationsindex,24.6
+2014,Innovationsindex,25.6
+2016,Innovationsindex,23.4
+2018,Innovationsindex,25.4
+2020,Innovationsindex,24.0
+2010,Rang in BW (von 44),25
+2012,Rang in BW (von 44),25
+2014,Rang in BW (von 44),25
+2016,Rang in BW (von 44),25
+2018,Rang in BW (von 44),25
+2020,Rang in BW (von 44),25
