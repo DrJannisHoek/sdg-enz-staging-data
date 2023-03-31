@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
-Beschäftigungsquote 55 - 64-Jährige,92,46
-Beschäftigungsquote,92,46
+Beschäftigungsquote 55 - 64-Jährige,90,45
+Beschäftigungsquote,90,45
 Bruttoinlandsprodukt,2,1
 EEQ Stromverbrauch [MWh],1,1
 Frauen in Teilzeit,1,1
@@ -11,6 +11,7 @@ Frauenanteil im Kreistag des Enzkreises,1,1
 "Gewerbe, sonstiges",1,1
 Index,1,1
 Industrie,1,1
+Langzeitarbeitslosenquote,2,1
 Liegenschaften Landratsamt (witterungsbereinigt),1,1
 Medianeinkommen - Frauen,1,1
 Medianeinkommen gesamt,1,1
