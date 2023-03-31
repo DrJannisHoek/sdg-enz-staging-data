@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Glasfaserversorgung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Glasfaserversorgung"
           },
           {
             "name": "Value",

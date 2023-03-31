@@ -2735,7 +2735,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Glasfaserversorgung",
             "type": "string",
             "constraints": {
               "enum": [
