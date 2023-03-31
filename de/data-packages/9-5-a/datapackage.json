@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektor",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Sektor"
           },
           {
             "name": "Value",

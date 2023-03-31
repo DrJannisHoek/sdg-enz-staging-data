@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektor",
             "type": "string",
             "constraints": {
               "enum": [
