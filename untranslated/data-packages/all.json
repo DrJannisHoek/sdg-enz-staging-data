@@ -1840,7 +1840,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Region",
@@ -1855,7 +1855,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Breitbandversorgung",
             "type": "string",
             "constraints": {
               "enum": [
