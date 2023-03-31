@@ -1,61 +1,42 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2012,Enzkreis,Unternehmensinsolvenzen (absolut),45
+2013,Enzkreis,Unternehmensinsolvenzen (absolut),39
+2014,Enzkreis,Unternehmensinsolvenzen (absolut),29
+2015,Enzkreis,Unternehmensinsolvenzen (absolut),21
+2016,Enzkreis,Unternehmensinsolvenzen (absolut),35
+2017,Enzkreis,Unternehmensinsolvenzen (absolut),32
+2018,Enzkreis,Unternehmensinsolvenzen (absolut),30
+2019,Enzkreis,Unternehmensinsolvenzen (absolut),31
+2020,Enzkreis,Unternehmensinsolvenzen (absolut),25
+2021,Enzkreis,Unternehmensinsolvenzen (absolut),29
+2012,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),2.169
+2013,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),2.017
+2014,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.796
+2015,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.869
+2016,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.672
+2017,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.902
+2018,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.945
+2019,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.819
+2020,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.724
+2021,Land Baden-Württemberg,Unternehmensinsolvenzen (absolut),1.513
+2012,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.23
+2013,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.20
+2014,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.15
+2015,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.11
+2016,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.18
+2017,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.16
+2018,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.15
+2019,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.16
+2020,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.13
+2021,Enzkreis,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.14
+2012,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.21
+2013,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.19
+2014,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.17
+2015,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.17
+2016,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.15
+2017,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.17
+2018,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.18
+2019,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.16
+2020,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.16
+2021,Land Baden-Württemberg,Unternehmensinsolvenzen (je 1.000 Einwohner/-innen),0.14
+,,,
