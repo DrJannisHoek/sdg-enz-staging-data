@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -33,8 +32,6 @@
                 "Wasserkraftanlagen - Anforderungen erfüllt",
                 "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
                 "Umsetzungsgrad",
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
