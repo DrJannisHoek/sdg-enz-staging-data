@@ -1782,7 +1782,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigtenanteil",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1790,7 +1790,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigtenanteil"
           },
           {
             "name": "Value",
