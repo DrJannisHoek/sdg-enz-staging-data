@@ -1,4 +1,4 @@
-Year,Region,gruppe.beschaeftigt,Value
+Year,Region,Units,Value
 2012,Enzkreis,Unternehmensinsolvenzen (absolut),45
 2013,Enzkreis,Unternehmensinsolvenzen (absolut),39
 2014,Enzkreis,Unternehmensinsolvenzen (absolut),29
@@ -39,4 +39,3 @@ Year,Region,gruppe.beschaeftigt,Value
 2019,Land BW,Unternehmensinsolvenzen (je 1000 Einwohner),0.16
 2020,Land BW,Unternehmensinsolvenzen (je 1000 Einwohner),0.16
 2021,Land BW,Unternehmensinsolvenzen (je 1000 Einwohner),0.14
-,,,
