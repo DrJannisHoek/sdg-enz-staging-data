@@ -449,7 +449,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -457,7 +457,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -467,15 +466,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Haushalte",
+                "Gewerbe, sonstiges",
+                "Industrie",
+                "Verkehr",
+                "CO2-Emissionen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -713,12 +715,13 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Land BW",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Erwerbsaufstocker",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1101,30 +1104,19 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Innovationsindex",
+                "Rang in BW (von 44)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1647,15 +1639,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1849,7 +1840,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -1857,6 +1848,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -1867,15 +1859,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Breitbandversorgung (>50 Mbit/s)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1907,7 +1898,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Existenzgründungen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2024,7 +2015,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -2042,15 +2033,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "geringes HH-Nettoeinkommen",
+                "mittleres HH-Nettoeinkommen",
+                "hohes HH-Nettoeinkommen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2343,7 +2335,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -2361,15 +2353,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Rel. Schulabbrecherquote von Ausländern/-innen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2430,7 +2421,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -2438,6 +2429,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -2448,15 +2440,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hochqualifizierte (am Arbeitsort)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2568,19 +2559,19 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unternehmensinsolvenzen (absolut)",
+                "Unternehmensinsolvenzen (je 1000 Einwohner)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2650,7 +2641,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             }
@@ -2660,15 +2651,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigungsanteil 1. Sektor",
+                "Beschäftigungsanteil 2. Sektor",
+                "Beschäftigungsanteil 3. Sektor",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2738,7 +2730,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -2748,8 +2739,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hausanschlüsse und Vorstreckungen für Glasfaserversorgung",
                 ""
               ]
             }
@@ -3121,15 +3111,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Rel. Beschäftigungsquote bei Ausländer/-innen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

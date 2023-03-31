@@ -1,61 +1,80 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2007.0,Enzkreis,geringes HH-Nettoeinkommen,35.0
+2008.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2009.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2010.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2011.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2012.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2013.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2014.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2015.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2016.0,Enzkreis,geringes HH-Nettoeinkommen,34.0
+2017.0,Enzkreis,geringes HH-Nettoeinkommen,33.0
+2018.0,Enzkreis,geringes HH-Nettoeinkommen,32.0
+2019.0,Enzkreis,geringes HH-Nettoeinkommen,31.0
+2007.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2008.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2009.0,Land BW,geringes HH-Nettoeinkommen,41.0
+2010.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2011.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2012.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2013.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2014.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2015.0,Land BW,geringes HH-Nettoeinkommen,42.0
+2016.0,Land BW,geringes HH-Nettoeinkommen,41.0
+2017.0,Land BW,geringes HH-Nettoeinkommen,41.0
+2018.0,Land BW,geringes HH-Nettoeinkommen,40.0
+2019.0,Land BW,geringes HH-Nettoeinkommen,39.0
+2007.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2008.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2009.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2010.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2011.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2012.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2013.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2014.0,Enzkreis,mittleres HH-Nettoeinkommen,37.0
+2015.0,Enzkreis,mittleres HH-Nettoeinkommen,37.0
+2016.0,Enzkreis,mittleres HH-Nettoeinkommen,37.0
+2017.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2018.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2019.0,Enzkreis,mittleres HH-Nettoeinkommen,38.0
+2007.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2008.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2009.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2010.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2011.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2012.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2013.0,Land BW,mittleres HH-Nettoeinkommen,35.0
+2014.0,Land BW,mittleres HH-Nettoeinkommen,35.0
+2015.0,Land BW,mittleres HH-Nettoeinkommen,35.0
+2016.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2017.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2018.0,Land BW,mittleres HH-Nettoeinkommen,36.0
+2019.0,Land BW,mittleres HH-Nettoeinkommen,37.0
+2007.0,Enzkreis,hohes HH-Nettoeinkommen,27.0
+2008.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2009.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2010.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2011.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2012.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2013.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2014.0,Enzkreis,hohes HH-Nettoeinkommen,28.0
+2015.0,Enzkreis,hohes HH-Nettoeinkommen,29.0
+2016.0,Enzkreis,hohes HH-Nettoeinkommen,29.0
+2017.0,Enzkreis,hohes HH-Nettoeinkommen,29.0
+2018.0,Enzkreis,hohes HH-Nettoeinkommen,30.0
+2019.0,Enzkreis,hohes HH-Nettoeinkommen,31.0
+2007.0,Land BW,hohes HH-Nettoeinkommen,22.0
+2008.0,Land BW,hohes HH-Nettoeinkommen,23.0
+2009.0,Land BW,hohes HH-Nettoeinkommen,23.0
+2010.0,Land BW,hohes HH-Nettoeinkommen,22.0
+2011.0,Land BW,hohes HH-Nettoeinkommen,22.0
+2012.0,Land BW,hohes HH-Nettoeinkommen,22.0
+2013.0,Land BW,hohes HH-Nettoeinkommen,22.0
+2014.0,Land BW,hohes HH-Nettoeinkommen,23.0
+2015.0,Land BW,hohes HH-Nettoeinkommen,23.0
+2016.0,Land BW,hohes HH-Nettoeinkommen,23.0
+2017.0,Land BW,hohes HH-Nettoeinkommen,24.0
+2018.0,Land BW,hohes HH-Nettoeinkommen,24.0
+2019.0,Land BW,hohes HH-Nettoeinkommen,25.0
+,,,

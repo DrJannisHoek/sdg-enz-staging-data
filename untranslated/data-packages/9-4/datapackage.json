@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -30,15 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hochqualifizierte (am Arbeitsort)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

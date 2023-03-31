@@ -1,8 +1,10 @@
 Disaggregation,Number of indicators,Number of values
+Erwerbsaufstocker,1,1
+Existenzgründungen,1,1
 grupp.armut,1,2
 gruppe.abschluss,1,3
 gruppe.ambulant,1,4
-gruppe.beschaeftigt,57,36
+gruppe.beschaeftigt,53,48
 gruppe.betreuung,1,3
 gruppe.betrieb,1,2
 gruppe.betten,1,1
@@ -17,4 +19,4 @@ gruppe.schule,1,2
 gruppe.sektor,1,6
 gruppe.sterbefälle,1,1
 gruppe.stickstoffüberschuss,1,1
-Region,80,4
+Region,79,4

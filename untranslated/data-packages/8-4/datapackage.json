@@ -20,12 +20,13 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Land BW",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Erwerbsaufstocker",
             "type": "string",
             "constraints": {
               "enum": [

@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Existenzgründungen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,7 +36,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Existenzgründungen"
           },
           {
             "name": "Value",

@@ -72,10 +72,9 @@ Indicator,Disaggregations,Number of disaggregations
 #8-1,"Region, gruppe.beschaeftigt",2
 #8-2,"Region, gruppe.beschaeftigt",2
 #8-3,"Region, gruppe.beschaeftigt",2
-#8-4,"Region, gruppe.beschaeftigt",2
-#9-1,"Region, gruppe.beschaeftigt",2
-#9-2,"Region, gruppe.beschaeftigt",2
-#9-3,"Region, gruppe.beschaeftigt",2
+#8-4,"Region, Erwerbsaufstocker",2
+#9-1,"Region, Existenzgründungen",2
+#9-2,Region,1
 #9-4,"Region, gruppe.beschaeftigt",2
 #9-5-a,"Region, gruppe.beschaeftigt",2
 #9-5-b,"Region, gruppe.beschaeftigt",2

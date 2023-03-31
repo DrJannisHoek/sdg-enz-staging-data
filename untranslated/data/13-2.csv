@@ -1,61 +1,42 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2012.0,Enzkreis,Haushalte,595616.0
+2013.0,Enzkreis,Haushalte,578933.0
+2014.0,Enzkreis,Haushalte,519915.0
+2015.0,Enzkreis,Haushalte,525639.0
+2016.0,Enzkreis,Haushalte,451348.0
+2017.0,Enzkreis,Haushalte,455395.0
+2018.0,Enzkreis,Haushalte,484318.0
+2019.0,Enzkreis,Haushalte,488817.0
+2012.0,Enzkreis,"Gewerbe, sonstiges",131797.0
+2013.0,Enzkreis,"Gewerbe, sonstiges",124106.0
+2014.0,Enzkreis,"Gewerbe, sonstiges",127055.0
+2015.0,Enzkreis,"Gewerbe, sonstiges",116016.0
+2016.0,Enzkreis,"Gewerbe, sonstiges",174947.0
+2017.0,Enzkreis,"Gewerbe, sonstiges",181473.0
+2018.0,Enzkreis,"Gewerbe, sonstiges",159175.0
+2019.0,Enzkreis,"Gewerbe, sonstiges",112801.0
+2012.0,Enzkreis,Industrie,376234.0
+2013.0,Enzkreis,Industrie,374520.0
+2014.0,Enzkreis,Industrie,370022.0
+2015.0,Enzkreis,Industrie,360008.0
+2016.0,Enzkreis,Industrie,398039.0
+2017.0,Enzkreis,Industrie,400634.0
+2018.0,Enzkreis,Industrie,385248.0
+2019.0,Enzkreis,Industrie,360205.0
+2012.0,Enzkreis,Verkehr,448394.0
+2013.0,Enzkreis,Verkehr,450824.0
+2014.0,Enzkreis,Verkehr,478816.0
+2015.0,Enzkreis,Verkehr,478769.0
+2016.0,Enzkreis,Verkehr,520799.0
+2017.0,Enzkreis,Verkehr,525202.0
+2018.0,Enzkreis,Verkehr,529223.0
+2019.0,Enzkreis,Verkehr,527476.0
+2012.0,Enzkreis,CO2-Emissionen,1552041.0
+2013.0,Enzkreis,CO2-Emissionen,1528383.0
+2014.0,Enzkreis,CO2-Emissionen,1495808.0
+2015.0,Enzkreis,CO2-Emissionen,1480432.0
+2016.0,Enzkreis,CO2-Emissionen,1545133.0
+2017.0,Enzkreis,CO2-Emissionen,1562704.0
+2018.0,Enzkreis,CO2-Emissionen,1557964.0
+2019.0,Enzkreis,CO2-Emissionen,1489299.0
+,,,
