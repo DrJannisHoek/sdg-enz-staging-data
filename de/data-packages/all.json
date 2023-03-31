@@ -2656,7 +2656,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Hochqualifizierte",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2664,7 +2664,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Hochqualifizierte"
           },
           {
             "name": "Value",

@@ -2436,7 +2436,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Hochqualifizierte",
             "type": "string",
             "constraints": {
               "enum": [
