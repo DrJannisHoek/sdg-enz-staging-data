@@ -1,12 +1,12 @@
 Year,Region,gruppe.beschaeftigt,Value
 2007,Enzkreis,Beschäftigungsquote,54.9
-2008,Enzkreis,Beschäftigungsquote,56
+2008,Enzkreis,Beschäftigungsquote,56.0
 2009,Enzkreis,Beschäftigungsquote,55.3
 2010,Enzkreis,Beschäftigungsquote,55.6
 2011,Enzkreis,Beschäftigungsquote,57.5
-2012,Enzkreis,Beschäftigungsquote,"58,5"
+2012,Enzkreis,Beschäftigungsquote,58.5
 2013,Enzkreis,Beschäftigungsquote,59.2
-2014,Enzkreis,Beschäftigungsquote,60
+2014,Enzkreis,Beschäftigungsquote,60.0
 2015,Enzkreis,Beschäftigungsquote,60.7
 2016,Enzkreis,Beschäftigungsquote,61.7
 2017,Enzkreis,Beschäftigungsquote,62.9
@@ -15,7 +15,7 @@ Year,Region,gruppe.beschaeftigt,Value
 2020,Enzkreis,Beschäftigungsquote,65.4
 2007,Land Baden-Württemberg,Beschäftigungsquote,51.5
 2008,Land Baden-Württemberg,Beschäftigungsquote,52.7
-2009,Land Baden-Württemberg,Beschäftigungsquote,"52,2"
+2009,Land Baden-Württemberg,Beschäftigungsquote,52.2
 2010,Land Baden-Württemberg,Beschäftigungsquote,52.6
 2011,Land Baden-Württemberg,Beschäftigungsquote,55.3
 2012,Land Baden-Württemberg,Beschäftigungsquote,56.3
@@ -27,7 +27,7 @@ Year,Region,gruppe.beschaeftigt,Value
 2018,Land Baden-Württemberg,Beschäftigungsquote,61.7
 2019,Land Baden-Württemberg,Beschäftigungsquote,62.8
 2020,Land Baden-Württemberg,Beschäftigungsquote,62.8
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,39
+2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,39.0
 2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,40.8
 2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,42.4
 2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,42.3
@@ -45,7 +45,7 @@ Year,Region,gruppe.beschaeftigt,Value
 2008,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,38.7
 2009,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,39.9
 2010,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,40.4
-2011,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,43
+2011,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,43.0
 2012,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,44.7
 2013,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,46.4
 2014,Land Baden-Württemberg,Beschäftigungsquote 55 - 64-Jährige,48.5
