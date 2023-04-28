@@ -1,61 +1,92 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2007.0,Enzkreis,Männer,63.0
+2008.0,Enzkreis,Männer,49.0
+2009.0,Enzkreis,Männer,51.0
+2010.0,Enzkreis,Männer,58.0
+2011.0,Enzkreis,Männer,52.0
+2012.0,Enzkreis,Männer,85.0
+2013.0,Enzkreis,Männer,86.0
+2014.0,Enzkreis,Männer,72.0
+2015.0,Enzkreis,Männer,87.0
+2016.0,Enzkreis,Männer,80.0
+2017.0,Enzkreis,Männer,70.0
+2018.0,Enzkreis,Männer,80.0
+2019.0,Enzkreis,Männer,92.0
+2020.0,Enzkreis,Männer,82.0
+2021.0,Enzkreis,Männer,106.0
+2007.0,Enzkreis,Frauen,68.0
+2008.0,Enzkreis,Frauen,54.0
+2009.0,Enzkreis,Frauen,55.0
+2010.0,Enzkreis,Frauen,68.0
+2011.0,Enzkreis,Frauen,67.0
+2012.0,Enzkreis,Frauen,87.0
+2013.0,Enzkreis,Frauen,83.0
+2014.0,Enzkreis,Frauen,91.0
+2015.0,Enzkreis,Frauen,98.0
+2016.0,Enzkreis,Frauen,99.0
+2017.0,Enzkreis,Frauen,95.0
+2018.0,Enzkreis,Frauen,81.0
+2019.0,Enzkreis,Frauen,89.0
+2020.0,Enzkreis,Frauen,83.0
+2021.0,Enzkreis,Frauen,100.0
+2007.0,Enzkreis,Unter 18-Jährige,8.0
+2008.0,Enzkreis,Unter 18-Jährige,8.0
+2009.0,Enzkreis,Unter 18-Jährige,7.0
+2010.0,Enzkreis,Unter 18-Jährige,12.0
+2011.0,Enzkreis,Unter 18-Jährige,15.0
+2012.0,Enzkreis,Unter 18-Jährige,8.0
+2013.0,Enzkreis,Unter 18-Jährige,24.0
+2014.0,Enzkreis,Unter 18-Jährige,14.0
+2015.0,Enzkreis,Unter 18-Jährige,27.0
+2016.0,Enzkreis,Unter 18-Jährige,18.0
+2017.0,Enzkreis,Unter 18-Jährige,8.0
+2018.0,Enzkreis,Unter 18-Jährige,5.0
+2019.0,Enzkreis,Unter 18-Jährige,21.0
+2020.0,Enzkreis,Unter 18-Jährige,17.0
+2021.0,Enzkreis,Unter 18-Jährige,19.0
+2007.0,Enzkreis,18- bis unter 30-Jährige,46.0
+2008.0,Enzkreis,18- bis unter 30-Jährige,42.0
+2009.0,Enzkreis,18- bis unter 30-Jährige,42.0
+2010.0,Enzkreis,18- bis unter 30-Jährige,50.0
+2011.0,Enzkreis,18- bis unter 30-Jährige,51.0
+2012.0,Enzkreis,18- bis unter 30-Jährige,83.0
+2013.0,Enzkreis,18- bis unter 30-Jährige,61.0
+2014.0,Enzkreis,18- bis unter 30-Jährige,60.0
+2015.0,Enzkreis,18- bis unter 30-Jährige,61.0
+2016.0,Enzkreis,18- bis unter 30-Jährige,56.0
+2017.0,Enzkreis,18- bis unter 30-Jährige,50.0
+2018.0,Enzkreis,18- bis unter 30-Jährige,54.0
+2019.0,Enzkreis,18- bis unter 30-Jährige,72.0
+2020.0,Enzkreis,18- bis unter 30-Jährige,72.0
+2021.0,Enzkreis,18- bis unter 30-Jährige,65.0
+2007.0,Enzkreis,30- bis unter 50-Jährige,68.0
+2008.0,Enzkreis,30- bis unter 50-Jährige,46.0
+2009.0,Enzkreis,30- bis unter 50-Jährige,53.0
+2010.0,Enzkreis,30- bis unter 50-Jährige,58.0
+2011.0,Enzkreis,30- bis unter 50-Jährige,47.0
+2012.0,Enzkreis,30- bis unter 50-Jährige,65.0
+2013.0,Enzkreis,30- bis unter 50-Jährige,75.0
+2014.0,Enzkreis,30- bis unter 50-Jährige,77.0
+2015.0,Enzkreis,30- bis unter 50-Jährige,76.0
+2016.0,Enzkreis,30- bis unter 50-Jährige,83.0
+2017.0,Enzkreis,30- bis unter 50-Jährige,76.0
+2018.0,Enzkreis,30- bis unter 50-Jährige,77.0
+2019.0,Enzkreis,30- bis unter 50-Jährige,72.0
+2020.0,Enzkreis,30- bis unter 50-Jährige,62.0
+2021.0,Enzkreis,30- bis unter 50-Jährige,99.0
+2007.0,Enzkreis,50-Jährige und älter,9.0
+2008.0,Enzkreis,50-Jährige und älter,7.0
+2009.0,Enzkreis,50-Jährige und älter,4.0
+2010.0,Enzkreis,50-Jährige und älter,6.0
+2011.0,Enzkreis,50-Jährige und älter,6.0
+2012.0,Enzkreis,50-Jährige und älter,16.0
+2013.0,Enzkreis,50-Jährige und älter,9.0
+2014.0,Enzkreis,50-Jährige und älter,12.0
+2015.0,Enzkreis,50-Jährige und älter,21.0
+2016.0,Enzkreis,50-Jährige und älter,22.0
+2017.0,Enzkreis,50-Jährige und älter,31.0
+2018.0,Enzkreis,50-Jährige und älter,25.0
+2019.0,Enzkreis,50-Jährige und älter,16.0
+2020.0,Enzkreis,50-Jährige und älter,14.0
+2021.0,Enzkreis,50-Jährige und älter,23.0
+,,,

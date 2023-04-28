@@ -1,13 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
+18- bis unter 30-Jährige,1,1
+30- bis unter 50-Jährige,1,1
+50-Jährige und älter,1,1
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
-Beschäftigungsquote 55 - 64-Jährige,64,32
-Beschäftigungsquote,64,32
+Beschäftigungsquote 55 - 64-Jährige,62,31
+Beschäftigungsquote,62,31
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
 EEQ Stromverbrauch [MWh],1,1
 Frauen in Teilzeit,1,1
-Frauen,1,1
+Frauen,2,2
 Frauenanteil im Kreistag des Enzkreises,1,1
 geringes HH-Nettoeinkommen,2,1
 "Gewerbe, sonstiges",2,2
@@ -22,7 +25,7 @@ Medianeinkommen gesamt,1,1
 Medianeinkommen - Männer,1,1
 mittleres HH-Nettoeinkommen,2,1
 Männer in Teilzeit,1,1
-Männer,1,1
+Männer,2,2
 Männeranteil im Kreistag des Enzkreises,1,1
 Normalladepunkte,1,1
 Private Haushalte,1,1
@@ -34,6 +37,7 @@ Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
 Sozialversicherungspflichtig beschäftigte Männer,1,1
 Umsetzungsgrad,2,2
+Unter 18-Jährige,1,1
 Verdienstabstand Frauen - Männer,2,1
 Verkehr,2,2
 Wasserkraftanlagen - Anforderungen erfüllt,1,1
