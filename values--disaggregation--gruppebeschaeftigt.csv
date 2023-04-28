@@ -4,8 +4,9 @@ Value,Disaggregation combinations using this value,Number of indicators
 50-Jährige und älter,1,1
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
-Beschäftigungsquote 55 - 64-Jährige,52,26
-Beschäftigungsquote,52,26
+"Berg-/Tagebau, Grube, Steinbruch",1,1
+Beschäftigungsquote 55 - 64-Jährige,50,25
+Beschäftigungsquote,50,25
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
 Durchschnittspreise: Bauland [€/m²],1,1
@@ -19,10 +20,12 @@ Frauen,2,2
 Frauenanteil im Kreistag des Enzkreises,1,1
 geringes HH-Nettoeinkommen,2,1
 "Gewerbe, sonstiges",2,2
+Gewässer,1,1
 Haushalte,1,1
 hohes HH-Nettoeinkommen,2,1
 Index,1,1
 Industrie,2,2
+Landwirtschaft,1,1
 Langzeitarbeitslosenquote,2,1
 Liegenschaften Landratsamt (witterungsbereinigt),1,1
 Medianeinkommen - Frauen,1,1
@@ -39,6 +42,8 @@ Private Haushalte,1,1
 Rel. Beschäftigungsquote bei Ausländer/-innen,2,1
 Rel. Schulabbrecherquote von Ausländern/-innen,2,1
 Schnellladepunkte,1,1
+Siedlung,1,1
+Siedlungs- und Verkehrsfläche,1,1
 Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],1,1
 Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
@@ -46,7 +51,8 @@ Sozialversicherungspflichtig beschäftigte Männer,1,1
 Umsetzungsgrad,2,2
 Unter 18-Jährige,1,1
 Verdienstabstand Frauen - Männer,2,1
-Verkehr,2,2
+Verkehr,3,3
+Wald,1,1
 Wasserkraftanlagen - Anforderungen erfüllt,1,1
 Wasserkraftanlagen - Anforderungen noch nicht erfüllt,1,1
 Wasserschutzgebiete (fachtechn. abgegrenzt),1,1
