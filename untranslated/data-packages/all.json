@@ -1713,7 +1713,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -1721,6 +1721,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Deutschland",
                 "Land BW",
                 ""
               ]
@@ -1731,15 +1732,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Durchschnittspreise: Bauland [€/m²]",
+                "Durchschnittspreise: Baureifes Land [€/m²]",
+                "Fläche: Baureifes Land [1.000 m²]",
+                "Preisindex für Bauland (Bund)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

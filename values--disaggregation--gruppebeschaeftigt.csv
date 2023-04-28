@@ -4,11 +4,14 @@ Value,Disaggregation combinations using this value,Number of indicators
 50-Jährige und älter,1,1
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
-Beschäftigungsquote 55 - 64-Jährige,60,30
-Beschäftigungsquote,60,30
+Beschäftigungsquote 55 - 64-Jährige,58,29
+Beschäftigungsquote,58,29
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
+Durchschnittspreise: Bauland [€/m²],1,1
+Durchschnittspreise: Baureifes Land [€/m²],1,1
 EEQ Stromverbrauch [MWh],1,1
+Fläche: Baureifes Land [1.000 m²],1,1
 Frauen in Teilzeit,1,1
 Frauen,2,2
 Frauenanteil im Kreistag des Enzkreises,1,1
@@ -29,6 +32,7 @@ Männer in Teilzeit,1,1
 Männer,2,2
 Männeranteil im Kreistag des Enzkreises,1,1
 Normalladepunkte,1,1
+Preisindex für Bauland (Bund),2,1
 Private Haushalte,1,1
 Rel. Beschäftigungsquote bei Ausländer/-innen,2,1
 Rel. Schulabbrecherquote von Ausländern/-innen,2,1
