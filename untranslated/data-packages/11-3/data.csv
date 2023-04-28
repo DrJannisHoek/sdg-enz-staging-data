@@ -1,61 +1,49 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2009,Enzkreis,EW/Wohnung,2.21
+2010,Enzkreis,EW/Wohnung,2.19
+2011,Enzkreis,EW/Wohnung,2.15
+2012,Enzkreis,EW/Wohnung,2.15
+2013,Enzkreis,EW/Wohnung,2.15
+2014,Enzkreis,EW/Wohnung,2.15
+2015,Enzkreis,EW/Wohnung,2.16
+2016,Enzkreis,EW/Wohnung,2.16
+2017,Enzkreis,EW/Wohnung,2.16
+2018,Enzkreis,EW/Wohnung,2.16
+2019,Enzkreis,EW/Wohnung,2.15
+2020,Enzkreis,EW/Wohnung,2.14
+2009,Land BW,EW/Wohnung,2.16
+2010,Land BW,EW/Wohnung,2.13
+2011,Land BW,EW/Wohnung,2.08
+2012,Land BW,EW/Wohnung,2.07
+2013,Land BW,EW/Wohnung,2.08
+2014,Land BW,EW/Wohnung,2.08
+2015,Land BW,EW/Wohnung,2.1
+2016,Land BW,EW/Wohnung,2.1
+2017,Land BW,EW/Wohnung,2.09
+2018,Land BW,EW/Wohnung,2.09
+2019,Land BW,EW/Wohnung,2.08
+2020,Land BW,EW/Wohnung,2.07
+2009,Enzkreis,Wohnfläche pro Person [m²],43.8
+2010,Enzkreis,Wohnfläche pro Person [m²],44.2
+2011,Enzkreis,Wohnfläche pro Person [m²],46.7
+2012,Enzkreis,Wohnfläche pro Person [m²],46.8
+2013,Enzkreis,Wohnfläche pro Person [m²],46.9
+2014,Enzkreis,Wohnfläche pro Person [m²],47.2
+2015,Enzkreis,Wohnfläche pro Person [m²],46.9
+2016,Enzkreis,Wohnfläche pro Person [m²],46.9
+2017,Enzkreis,Wohnfläche pro Person [m²],46.9
+2018,Enzkreis,Wohnfläche pro Person [m²],47.1
+2019,Enzkreis,Wohnfläche pro Person [m²],47.2
+2020,Enzkreis,Wohnfläche pro Person [m²],47.5
+2009,Land BW,Wohnfläche pro Person [m²],41.7
+2010,Land BW,Wohnfläche pro Person [m²],42.0
+2011,Land BW,Wohnfläche pro Person [m²],43.9
+2012,Land BW,Wohnfläche pro Person [m²],44.0
+2013,Land BW,Wohnfläche pro Person [m²],44.1
+2014,Land BW,Wohnfläche pro Person [m²],44.4
+2015,Land BW,Wohnfläche pro Person [m²],43.8
+2016,Land BW,Wohnfläche pro Person [m²],43.8
+2017,Land BW,Wohnfläche pro Person [m²],43.9
+2018,Land BW,Wohnfläche pro Person [m²],44.1
+2019,Land BW,Wohnfläche pro Person [m²],44.3
+2020,Land BW,Wohnfläche pro Person [m²],44.6
