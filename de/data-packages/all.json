@@ -1544,7 +1544,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -1564,8 +1564,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Krafträder",
+                "Personenkraftwagen",
+                "Kraftomnibusse",
+                "Lastkraftwagen",
+                "Zugmaschinen",
+                "Kfz je 1.000 Einwohner",
                 ""
               ]
             },
@@ -1573,7 +1577,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
