@@ -2681,7 +2681,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -2701,8 +2701,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Straßenverkehrsunfälle",
+                "Verunglückte",
+                "Getötete",
                 ""
               ]
             },
@@ -2710,7 +2711,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
