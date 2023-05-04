@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -32,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Anteil der Fahrzeuge mit nachhaltigen Antriebstechniken",
+                "Anteil der gefahrenen Kilometer mit nachhaltigen Antriebstechniken",
                 ""
               ]
             },
