@@ -1962,7 +1962,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
+                "FairTrade-Towns im Enzkreis",
                 ""
               ]
             }
