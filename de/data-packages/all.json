@@ -2128,7 +2128,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -2140,7 +2139,6 @@
             "constraints": {
               "enum": [
                 "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             },
