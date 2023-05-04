@@ -3559,8 +3559,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Abfallaufkommen",
                 ""
               ]
             }
