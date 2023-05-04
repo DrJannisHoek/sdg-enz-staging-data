@@ -32,7 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
+                "Stromverbrauch",
+                "Heizenergie",
+                "Wasserverbrauch",
+                "Straßenmeisterei",
                 "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
