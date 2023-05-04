@@ -9,8 +9,8 @@ Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
 Beförderungsfälle Regionalverkehr,1,1
 "Berg-/Tagebau, Grube, Steinbruch",1,1
-Beschäftigungsquote 55 - 64-Jährige,30,15
-Beschäftigungsquote,30,15
+Beschäftigungsquote 55 - 64-Jährige,28,14
+Beschäftigungsquote,28,14
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
 Durchschnittspreise: Bauland [€/m²],1,1
@@ -25,6 +25,7 @@ Fläche: Baureifes Land [1.000 m²],1,1
 Frauen in Teilzeit,1,1
 Frauen,2,2
 Frauenanteil im Kreistag des Enzkreises,1,1
+Fuhrpark,1,1
 Fußverkehr,2,1
 geringes HH-Nettoeinkommen,2,1
 Getötete,2,1
@@ -32,6 +33,7 @@ Getötete,2,1
 Gewinnung Grund- und Quellwasser,1,1
 Gewässer,1,1
 Haushalte,1,1
+Heizenergie,1,1
 hohes HH-Nettoeinkommen,2,1
 Index,1,1
 Industrie,2,2
@@ -66,7 +68,9 @@ Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],1,1
 Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
 Sozialversicherungspflichtig beschäftigte Männer,1,1
+Straßenmeisterei,1,1
 Straßenverkehrsunfälle,2,1
+Stromverbrauch,1,1
 Täglicher Verbrauch pro Kopf [l],2,1
 Umsetzungsgrad,2,2
 Unter 18-Jährige,1,1
@@ -81,6 +85,7 @@ Wasserkraftanlagen - Anforderungen erfüllt,1,1
 Wasserkraftanlagen - Anforderungen noch nicht erfüllt,1,1
 Wasserschutzgebiete (fachtechn. abgegrenzt),1,1
 Wasserschutzgebiete,1,1
+Wasserverbrauch,1,1
 Wohnfläche pro Person [m²],2,1
 Wohngebäude - Veränderung zum Vorjahr,1,1
 Wohnräume - Veränderung zum Vorjahr,1,1

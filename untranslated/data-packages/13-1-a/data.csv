@@ -1,61 +1,57 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2010.0,Enzkreis,Stromverbrauch,1569.0
+2011.0,Enzkreis,Stromverbrauch,1462.0
+2012.0,Enzkreis,Stromverbrauch,1475.0
+2013.0,Enzkreis,Stromverbrauch,1538.0
+2014.0,Enzkreis,Stromverbrauch,1276.0
+2015.0,Enzkreis,Stromverbrauch,1299.0
+2016.0,Enzkreis,Stromverbrauch,1289.0
+2017.0,Enzkreis,Stromverbrauch,1316.0
+2018.0,Enzkreis,Stromverbrauch,1201.0
+2019.0,Enzkreis,Stromverbrauch,1206.0
+2020.0,Enzkreis,Stromverbrauch,1264.0
+2010.0,Enzkreis,Heizenergie,465000.0
+2011.0,Enzkreis,Heizenergie,405000.0
+2012.0,Enzkreis,Heizenergie,478000.0
+2013.0,Enzkreis,Heizenergie,526000.0
+2014.0,Enzkreis,Heizenergie,374000.0
+2015.0,Enzkreis,Heizenergie,424000.0
+2016.0,Enzkreis,Heizenergie,482000.0
+2017.0,Enzkreis,Heizenergie,528000.0
+2018.0,Enzkreis,Heizenergie,487000.0
+2019.0,Enzkreis,Heizenergie,497000.0
+2020.0,Enzkreis,Heizenergie,543578.0
+2010.0,Enzkreis,Wasserverbrauch,9774.0
+2011.0,Enzkreis,Wasserverbrauch,10695.0
+2012.0,Enzkreis,Wasserverbrauch,10531.0
+2013.0,Enzkreis,Wasserverbrauch,11404.0
+2014.0,Enzkreis,Wasserverbrauch,11721.0
+2015.0,Enzkreis,Wasserverbrauch,12793.0
+2016.0,Enzkreis,Wasserverbrauch,11238.0
+2017.0,Enzkreis,Wasserverbrauch,10511.0
+2018.0,Enzkreis,Wasserverbrauch,12041.0
+2019.0,Enzkreis,Wasserverbrauch,12920.0
+2020.0,Enzkreis,Wasserverbrauch,11514.0
+2010.0,Enzkreis,Straßenmeisterei,331618.0
+2011.0,Enzkreis,Straßenmeisterei,330000.0
+2012.0,Enzkreis,Straßenmeisterei,330000.0
+2013.0,Enzkreis,Straßenmeisterei,330000.0
+2014.0,Enzkreis,Straßenmeisterei,330000.0
+2015.0,Enzkreis,Straßenmeisterei,330000.0
+2016.0,Enzkreis,Straßenmeisterei,343373.0
+2017.0,Enzkreis,Straßenmeisterei,361423.0
+2018.0,Enzkreis,Straßenmeisterei,332928.0
+2019.0,Enzkreis,Straßenmeisterei,348571.0
+2020.0,Enzkreis,Straßenmeisterei,372260.0
+2010.0,Enzkreis,Fuhrpark,99426.0
+2011.0,Enzkreis,Fuhrpark,95850.0
+2012.0,Enzkreis,Fuhrpark,102800.0
+2013.0,Enzkreis,Fuhrpark,100427.0
+2014.0,Enzkreis,Fuhrpark,94114.0
+2015.0,Enzkreis,Fuhrpark,103917.0
+2016.0,Enzkreis,Fuhrpark,184506.0
+2017.0,Enzkreis,Fuhrpark,157799.0
+2018.0,Enzkreis,Fuhrpark,122282.0
+2019.0,Enzkreis,Fuhrpark,117212.0
+2020.0,Enzkreis,Fuhrpark,105161.0
+,,,
