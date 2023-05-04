@@ -32,8 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Gewinnung Grund- und Quellwasser",
+                "Wasserabgabe an Letztverbraucher (gesamt)",
+                "Wasserabgabe an Haushalte",
+                "Täglicher Verbrauch pro Kopf [l]",
                 ""
               ]
             },
@@ -41,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

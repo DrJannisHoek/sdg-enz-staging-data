@@ -6,8 +6,8 @@ Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
 Beförderungsfälle Regionalverkehr,1,1
 "Berg-/Tagebau, Grube, Steinbruch",1,1
-Beschäftigungsquote 55 - 64-Jährige,42,21
-Beschäftigungsquote,42,21
+Beschäftigungsquote 55 - 64-Jährige,40,20
+Beschäftigungsquote,40,20
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
 Durchschnittspreise: Bauland [€/m²],1,1
@@ -25,6 +25,7 @@ Fußverkehr,2,1
 geringes HH-Nettoeinkommen,2,1
 Getötete,2,1
 "Gewerbe, sonstiges",2,2
+Gewinnung Grund- und Quellwasser,1,1
 Gewässer,1,1
 Haushalte,1,1
 hohes HH-Nettoeinkommen,2,1
@@ -61,12 +62,15 @@ Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
 Sozialversicherungspflichtig beschäftigte Männer,1,1
 Straßenverkehrsunfälle,2,1
+Täglicher Verbrauch pro Kopf [l],2,1
 Umsetzungsgrad,2,2
 Unter 18-Jährige,1,1
 Verdienstabstand Frauen - Männer,2,1
 Verkehr,3,3
 Verunglückte,2,1
 Wald,1,1
+Wasserabgabe an Haushalte,1,1
+Wasserabgabe an Letztverbraucher (gesamt),1,1
 Wasserkraftanlagen - Anforderungen erfüllt,1,1
 Wasserkraftanlagen - Anforderungen noch nicht erfüllt,1,1
 Wasserschutzgebiete (fachtechn. abgegrenzt),1,1
