@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -36,7 +35,7 @@
                 "Heizenergie",
                 "Wasserverbrauch",
                 "Straßenmeisterei",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Fuhrpark",
                 ""
               ]
             },
@@ -44,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
