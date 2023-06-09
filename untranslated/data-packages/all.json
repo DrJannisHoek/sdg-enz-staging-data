@@ -3255,7 +3255,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigungsquote",
             "type": "string",
             "constraints": {
               "enum": [
