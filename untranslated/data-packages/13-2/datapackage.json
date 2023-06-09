@@ -33,6 +33,15 @@
                 "Gewerbe sonstiges",
                 "Industrie",
                 "Verkehr",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "CO2-Emissionen",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "CO2-Emissionen",
                 ""
               ]

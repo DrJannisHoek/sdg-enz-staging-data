@@ -35,11 +35,21 @@
                 "Gewerbe sonstiges",
                 "Industrie",
                 "Verkehr",
-                "CO2-Emissionen",
                 ""
               ]
             },
             "title": "Emittenten"
+          },
+          {
+            "name": "CO2-Emissionen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2-Emissionen",
+                ""
+              ]
+            },
+            "title": "CO2-Emissionen"
           },
           {
             "name": "Value",
