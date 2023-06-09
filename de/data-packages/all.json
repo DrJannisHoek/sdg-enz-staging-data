@@ -3959,6 +3959,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emissionen",
+                "Gesamtemissionen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
