@@ -3960,19 +3960,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Emittenten",
             "type": "string",
             "constraints": {
               "enum": [
                 "Haushalte",
-                "Gewerbe, sonstiges",
+                "Gewerbe sonstiges",
                 "Industrie",
                 "Verkehr",
                 "CO2-Emissionen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Emittenten"
           },
           {
             "name": "Value",
