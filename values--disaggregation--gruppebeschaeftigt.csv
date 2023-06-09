@@ -1,7 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-18- bis unter 30-Jährige,1,1
-30- bis unter 50-Jährige,1,1
-50-Jährige und älter,1,1
 Abfallaufkommen,2,1
 Anteil der Fahrzeuge mit nachhaltigen Antriebstechniken,1,1
 Anteil der gefahrenen Kilometer mit nachhaltigen Antriebstechniken,1,1
@@ -26,7 +23,7 @@ Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,2,1
 Flora-Fauna-Habitat-Gebiete (FFH),1,1
 Fläche: Baureifes Land [1.000 m²],1,1
 Frauen in Teilzeit,1,1
-Frauen,2,2
+Frauen,1,1
 Frauenanteil im Kreistag des Enzkreises,1,1
 Fußverkehr,2,1
 Getötete,2,1
@@ -52,7 +49,7 @@ Medianeinkommen gesamt,1,1
 Medianeinkommen - Männer,1,1
 Mietpreise,1,1
 Männer in Teilzeit,1,1
-Männer,2,2
+Männer,1,1
 Männeranteil im Kreistag des Enzkreises,1,1
 Naturdenkmal,1,1
 Naturpark,1,1
@@ -81,7 +78,6 @@ Straßenverkehrsunfälle,2,1
 Streuobstwiesenfläche,1,1
 Täglicher Verbrauch pro Kopf [l],2,1
 Umsetzungsgrad,2,2
-Unter 18-Jährige,1,1
 Unterstützer der WIN-Charta,1,1
 Unterstützer des Klimaschutzpaktes BW,1,1
 Unzerschnittene Freiraumflächen [>50 km2],2,1

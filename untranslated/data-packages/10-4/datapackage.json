@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Region",
@@ -25,12 +25,21 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
                 "Männer",
                 "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Alter",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Unter 18-Jährige",
                 "18- bis unter 30-Jährige",
                 "30- bis unter 50-Jährige",
@@ -41,7 +50,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
