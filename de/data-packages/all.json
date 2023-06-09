@@ -3648,7 +3648,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -3663,7 +3663,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Mietpreise",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3671,7 +3671,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Mietpreise"
           },
           {
             "name": "Value",
