@@ -3008,7 +3008,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Preisentwicklung",
             "type": "string",
             "constraints": {
               "enum": [

@@ -3279,7 +3279,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Preisentwicklung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3290,7 +3290,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Preisentwicklung"
           },
           {
             "name": "Value",
