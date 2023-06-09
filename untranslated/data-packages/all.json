@@ -3635,8 +3635,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emissionen",
-                "Gesamtemissionen",
+                "CO2-Emissionen nach Emittenten [t]",
+                "CO2-Emissionen insgesamt [t]",
                 ""
               ]
             }
