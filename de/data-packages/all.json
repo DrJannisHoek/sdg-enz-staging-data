@@ -1446,7 +1446,7 @@
             "title": "Region"
           },
           {
-            "name": "Geschlecht",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
