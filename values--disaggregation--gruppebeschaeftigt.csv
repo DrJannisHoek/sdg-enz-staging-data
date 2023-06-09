@@ -7,25 +7,28 @@ Anteil der Fahrzeuge mit nachhaltigen Antriebstechniken,1,1
 Anteil der gefahrenen Kilometer mit nachhaltigen Antriebstechniken,1,1
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
+Bannwald,1,1
 Beförderungsfälle Regionalverkehr,1,1
 "Berg-/Tagebau, Grube, Steinbruch",1,1
-Beschäftigungsquote 55 - 64-Jährige,26,13
-Beschäftigungsquote,26,13
+Beschäftigungsquote 55 - 64-Jährige,4,2
+Beschäftigungsquote,4,2
+Bodenschutz,1,1
 Bruttoinlandsprodukt,2,1
 CO2-Emissionen,1,1
 Durchschnittspreise: Bauland [€/m²],1,1
 Durchschnittspreise: Baureifes Land [€/m²],1,1
 EEQ Stromverbrauch [MWh],1,1
+Erholungswald Stufe 2,1,1
 EW/Wohnung,2,1
 Fahrplan-km/Jahr,1,1
 "Fahrrad, Pedelec, E-Bike",2,1
 FairTrade-Towns im Enzkreis,1,1
 Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,2,1
+Flora-Fauna-Habitat-Gebiete (FFH),1,1
 Fläche: Baureifes Land [1.000 m²],1,1
 Frauen in Teilzeit,1,1
 Frauen,2,2
 Frauenanteil im Kreistag des Enzkreises,1,1
-Fuhrpark,2,2
 Fußverkehr,2,1
 geringes HH-Nettoeinkommen,2,1
 Getötete,2,1
@@ -33,13 +36,17 @@ Getötete,2,1
 Gewinnung Grund- und Quellwasser,1,1
 Gewässer,1,1
 Haushalte,1,1
-Heizenergie,2,2
 hohes HH-Nettoeinkommen,2,1
+Immissionsschutz,1,1
 Index,1,1
 Industrie,2,2
 Kfz je 1.000 Einwohner,2,1
+Klimaschutz,1,1
 Kraftomnibusse,1,1
 Krafträder,1,1
+Landschaftsqualität (Hemerobie-Index),4,1
+Landschaftsschutzgebiet,1,1
+Landschaftsschutzgebiete,1,1
 Landwirtschaft,1,1
 Langzeitarbeitslosenquote,2,1
 Lastkraftwagen,1,1
@@ -52,43 +59,60 @@ mittleres HH-Nettoeinkommen,2,1
 Männer in Teilzeit,1,1
 Männer,2,2
 Männeranteil im Kreistag des Enzkreises,1,1
+Naturdenkmal,1,1
+Naturpark,1,1
+Naturparks,1,1
+Naturschutzgebiet,1,1
+Naturschutzgebiete,1,1
 Normalladepunkte,1,1
+Ordentliche Aufwendungen,1,1
 Personenkraftwagen,1,1
 PKW als Fahrer,2,1
 PKW als Mitfahrer,2,1
 Preisindex für Bauland (Bund),2,1
 Private Haushalte,1,1
+Realisiertes Steuerpotenzial je Einwohner,2,1
 Recycling-Papier in der Kreisverwaltung,1,1
 Rel. Beschäftigungsquote bei Ausländer/-innen,2,1
 Rel. Schulabbrecherquote von Ausländern/-innen,2,1
 Schnellladepunkte,1,1
+Schonwald,1,1
+Sichtschutz,1,1
 Siedlung,1,1
 Siedlungs- und Verkehrsfläche,1,1
 Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],1,1
 Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
 Sozialversicherungspflichtig beschäftigte Männer,1,1
-Straßenmeisterei,2,2
 Straßenverkehrsunfälle,2,1
-Stromverbrauch,2,2
+Streuobstwiesenfläche,1,1
 Täglicher Verbrauch pro Kopf [l],2,1
 Umsetzungsgrad,2,2
 Unter 18-Jährige,1,1
 Unterstützer der WIN-Charta,1,1
+Unterstützer des Klimaschutzpaktes BW,1,1
+Unzerschnittene Freiraumflächen [>50 km2],2,1
 Verdienstabstand Frauen - Männer,2,1
 Verkehr,3,3
+Verschuldung im Kernhaushalt,1,1
 Verunglückte,2,1
+Vogelschutz-Gebiete (SPA),1,1
+Wahlbeteiligung,1,1
 Wald,1,1
+Waldrefugien,1,1
+Wasser- und Quellschutzgebiete,1,1
 Wasserabgabe an Haushalte,1,1
 Wasserabgabe an Letztverbraucher (gesamt),1,1
 Wasserkraftanlagen - Anforderungen erfüllt,1,1
 Wasserkraftanlagen - Anforderungen noch nicht erfüllt,1,1
 Wasserschutzgebiete (fachtechn. abgegrenzt),1,1
 Wasserschutzgebiete,1,1
-Wasserverbrauch,2,2
 Wohnfläche pro Person [m²],2,1
 Wohngebäude - Veränderung zum Vorjahr,1,1
 Wohnräume - Veränderung zum Vorjahr,1,1
 Wohnungen - Veränderung zum Vorjahr,1,1
+Zeichnungskommunen der Agenda 2030 [abs.],1,1
+Zeichnungskommunen der Agenda 2030 [Anteil %],1,1
 Zugmaschinen,1,1
 ÖPNV,2,1
+übriges Kreisgebiet,1,1

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -20,7 +20,9 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt PF",
                 "Land BW",
+                "Bundesrepublik Deutschland",
                 ""
               ]
             }
@@ -30,15 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Landschaftsqualität (Hemerobie-Index)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       }

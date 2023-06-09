@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -32,8 +31,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Wasser- und Quellschutzgebiete",
+                "Naturpark",
+                "Erholungswald Stufe 2",
+                "Landschaftsschutzgebiet",
+                "Bodenschutz",
+                "Immissionsschutz",
+                "Naturschutzgebiet",
+                "Waldrefugien",
+                "Klimaschutz",
+                "Schonwald",
+                "Sichtschutz",
+                "Naturdenkmal",
+                "Bannwald",
                 ""
               ]
             },
@@ -41,7 +51,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

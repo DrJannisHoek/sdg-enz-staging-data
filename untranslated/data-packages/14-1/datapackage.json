@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Region",
@@ -26,19 +26,18 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.Anschlussgrad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

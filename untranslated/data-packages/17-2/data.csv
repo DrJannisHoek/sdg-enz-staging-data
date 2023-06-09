@@ -1,61 +1,50 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2011.0,Enzkreis,Aufgewendete Eigenmittel [€],9342.0
+2012.0,Enzkreis,Aufgewendete Eigenmittel [€],4787.0
+2013.0,Enzkreis,Aufgewendete Eigenmittel [€],7910.0
+2014.0,Enzkreis,Aufgewendete Eigenmittel [€],2208.0
+2015.0,Enzkreis,Aufgewendete Eigenmittel [€],13260.0
+2016.0,Enzkreis,Aufgewendete Eigenmittel [€],5331.0
+2017.0,Enzkreis,Aufgewendete Eigenmittel [€],3159.0
+2018.0,Enzkreis,Aufgewendete Eigenmittel [€],19251.0
+2019.0,Enzkreis,Aufgewendete Eigenmittel [€],11797.0
+2020.0,Enzkreis,Aufgewendete Eigenmittel [€],20853.0
+2021.0,Enzkreis,Aufgewendete Eigenmittel [€],44051.0
+2022.0,Enzkreis,Aufgewendete Eigenmittel [€],37070.0
+2011.0,Enzkreis,Akquirierte Fördermittel [€],0.0
+2012.0,Enzkreis,Akquirierte Fördermittel [€],0.0
+2013.0,Enzkreis,Akquirierte Fördermittel [€],39552.0
+2014.0,Enzkreis,Akquirierte Fördermittel [€],20435.0
+2015.0,Enzkreis,Akquirierte Fördermittel [€],1000.0
+2016.0,Enzkreis,Akquirierte Fördermittel [€],109333.0
+2017.0,Enzkreis,Akquirierte Fördermittel [€],95494.0
+2018.0,Enzkreis,Akquirierte Fördermittel [€],213986.0
+2019.0,Enzkreis,Akquirierte Fördermittel [€],82314.0
+2020.0,Enzkreis,Akquirierte Fördermittel [€],95842.0
+2021.0,Enzkreis,Akquirierte Fördermittel [€],170484.0
+2022.0,Enzkreis,Akquirierte Fördermittel [€],407417.0
+2011.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],9342.0
+2012.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],14129.0
+2013.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],22038.0
+2014.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],24246.0
+2015.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],37507.0
+2016.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],42837.0
+2017.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],45996.0
+2018.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],65248.0
+2019.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],77045.0
+2020.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],97897.0
+2021.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],141949.0
+2022.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],179019.0
+2011.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],0.0
+2012.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],0.0
+2013.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],39552.0
+2014.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],59987.0
+2015.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],60987.0
+2016.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],170320.0
+2017.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],265814.0
+2018.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],479800.0
+2019.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],562114.0
+2020.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],657956.0
+2021.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],828440.0
+2022.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],1235857.0
+,,,

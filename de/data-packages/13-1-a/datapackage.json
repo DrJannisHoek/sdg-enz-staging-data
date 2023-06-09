@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Emittenten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Emittenten"
           },
           {
             "name": "Value",
