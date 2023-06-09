@@ -559,7 +559,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schulabbrecherquote",
             "type": "string",
             "constraints": {
               "enum": [
@@ -567,7 +567,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Schulabbrecherquote"
           },
           {
             "name": "Value",

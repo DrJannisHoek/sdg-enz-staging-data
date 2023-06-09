@@ -513,7 +513,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schulabbrecherquote",
             "type": "string",
             "constraints": {
               "enum": [
