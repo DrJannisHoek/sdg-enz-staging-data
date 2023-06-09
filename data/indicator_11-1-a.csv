@@ -1,4 +1,4 @@
-Year,Region,gruppe.beschaeftigt,Value
+Year,Region,Mietpreise,Value
 2010,Enzkreis,Mietpreise,5.5
 2011,Enzkreis,Mietpreise,5.5
 2012,Enzkreis,Mietpreise,6.5
@@ -10,4 +10,3 @@ Year,Region,gruppe.beschaeftigt,Value
 2018,Enzkreis,Mietpreise,7.5
 2019,Enzkreis,Mietpreise,8.5
 2020,Enzkreis,Mietpreise,8.5
-,,,
