@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "Preisentwicklung",
+            "name": "Entwicklung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Preisentwicklung"
+            "title": "Entwicklung"
           },
           {
             "name": "Value",
