@@ -1326,7 +1326,7 @@
             }
           },
           {
-            "name": "gruppe.geschlecht",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
