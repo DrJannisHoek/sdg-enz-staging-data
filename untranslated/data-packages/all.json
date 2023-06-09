@@ -2568,7 +2568,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Einkommensklassen",
             "type": "string",
             "constraints": {
               "enum": [
