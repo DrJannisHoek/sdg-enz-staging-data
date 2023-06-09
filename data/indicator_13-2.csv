@@ -1,4 +1,4 @@
-Year,Region,gruppe.Emittenten,Value
+Year,Region,Emittenten,Value
 2012,Enzkreis,Haushalte,595616
 2013,Enzkreis,Haushalte,578933
 2014,Enzkreis,Haushalte,519915
@@ -7,14 +7,14 @@ Year,Region,gruppe.Emittenten,Value
 2017,Enzkreis,Haushalte,455395
 2018,Enzkreis,Haushalte,484318
 2019,Enzkreis,Haushalte,488817
-2012,Enzkreis,Gewerbe, sonstiges,131797
-2013,Enzkreis,Gewerbe, sonstiges,124106
-2014,Enzkreis,Gewerbe, sonstiges,127055
-2015,Enzkreis,Gewerbe, sonstiges,116016
-2016,Enzkreis,Gewerbe, sonstiges,174947
-2017,Enzkreis,Gewerbe, sonstiges,181473
-2018,Enzkreis,Gewerbe, sonstiges,159175
-2019,Enzkreis,Gewerbe, sonstiges,112801
+2012,Enzkreis,Gewerbe sonstiges,131797
+2013,Enzkreis,Gewerbe sonstiges,124106
+2014,Enzkreis,Gewerbe sonstiges,127055
+2015,Enzkreis,Gewerbe sonstiges,116016
+2016,Enzkreis,Gewerbe sonstiges,174947
+2017,Enzkreis,Gewerbe sonstiges,181473
+2018,Enzkreis,Gewerbe sonstiges,159175
+2019,Enzkreis,Gewerbe sonstiges,112801
 2012,Enzkreis,Industrie,376234
 2013,Enzkreis,Industrie,374520
 2014,Enzkreis,Industrie,370022
