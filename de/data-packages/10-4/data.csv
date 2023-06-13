@@ -1,19 +1,4 @@
 Year,Units,Region,Geschlecht,Alter,Value
-2007,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,63
-2008,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,49
-2009,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,51
-2010,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,58
-2011,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,52
-2012,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,85
-2013,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,86
-2014,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,72
-2015,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,87
-2016,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,80
-2017,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,70
-2018,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,80
-2019,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,92
-2020,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,82
-2021,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,106
 2007,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,68
 2008,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,54
 2009,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,55
@@ -29,6 +14,21 @@ Year,Units,Region,Geschlecht,Alter,Value
 2019,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,89
 2020,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,83
 2021,Anzahl der Personen nach Geschlecht,Enzkreis,Frauen,,100
+2007,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,63
+2008,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,49
+2009,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,51
+2010,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,58
+2011,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,52
+2012,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,85
+2013,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,86
+2014,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,72
+2015,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,87
+2016,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,80
+2017,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,70
+2018,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,80
+2019,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,92
+2020,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,82
+2021,Anzahl der Personen nach Geschlecht,Enzkreis,Männer,,106
 2007,Anzahl der Personen nach Alter,Enzkreis,,Unter 18-Jährige,8
 2008,Anzahl der Personen nach Alter,Enzkreis,,Unter 18-Jährige,8
 2009,Anzahl der Personen nach Alter,Enzkreis,,Unter 18-Jährige,7

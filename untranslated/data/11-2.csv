@@ -1,8 +1,4 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,420
-2008,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,271
-2009,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,265
-2010,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,379
+Year,Region,Neubauaktivität,Value
 2011,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,267
 2012,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,308
 2013,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,316
@@ -14,10 +10,6 @@ Year,Region,gruppe.beschaeftigt,Value
 2019,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,224
 2020,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,340
 2021,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,296
-2007,Enzkreis,Wohnungen - Veränderung zum Vorjahr,548
-2008,Enzkreis,Wohnungen - Veränderung zum Vorjahr,415
-2009,Enzkreis,Wohnungen - Veränderung zum Vorjahr,418
-2010,Enzkreis,Wohnungen - Veränderung zum Vorjahr,541
 2011,Enzkreis,Wohnungen - Veränderung zum Vorjahr,342
 2012,Enzkreis,Wohnungen - Veränderung zum Vorjahr,416
 2013,Enzkreis,Wohnungen - Veränderung zum Vorjahr,441
@@ -29,10 +21,6 @@ Year,Region,gruppe.beschaeftigt,Value
 2019,Enzkreis,Wohnungen - Veränderung zum Vorjahr,464
 2020,Enzkreis,Wohnungen - Veränderung zum Vorjahr,540
 2021,Enzkreis,Wohnungen - Veränderung zum Vorjahr,450
-2007,Enzkreis,Wohnräume - Veränderung zum Vorjahr,3190
-2008,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2273
-2009,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2237
-2010,Enzkreis,Wohnräume - Veränderung zum Vorjahr,8601
 2011,Enzkreis,Wohnräume - Veränderung zum Vorjahr,1935
 2012,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2307
 2013,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2418

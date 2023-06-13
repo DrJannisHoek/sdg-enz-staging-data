@@ -786,7 +786,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Neubauaktivität",
             "type": "string",
             "constraints": {
               "enum": [
@@ -796,7 +796,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Neubauaktivität"
           },
           {
             "name": "Value",
@@ -1462,8 +1462,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Männer",
                 "Frauen",
+                "Männer",
                 ""
               ]
             },
@@ -3267,6 +3267,19 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittspreise",
+                "Fläche - baureifes Land",
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -3279,18 +3292,39 @@
             "title": "Region"
           },
           {
-            "name": "Entwicklung",
+            "name": "Durchschnittspreise",
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittspreise: Bauland [€/m²]",
-                "Durchschnittspreise: Baureifes Land [€/m²]",
-                "Fläche: Baureifes Land [1.000 m²]",
+                "Bauland [€/m²]",
+                "Baureifes Land [€/m²]",
+                ""
+              ]
+            },
+            "title": "Durchschnittspreise"
+          },
+          {
+            "name": "Preisindex",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Preisindex für Bauland (Bund)",
                 ""
               ]
             },
-            "title": "Entwicklung"
+            "title": "Preisindex"
+          },
+          {
+            "name": "Fläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fläche - Baureifes Land [1.000 m²]",
+                "Fläche: Baureifes Land [1.000 m²]",
+                ""
+              ]
+            },
+            "title": "Fläche"
           },
           {
             "name": "Value",

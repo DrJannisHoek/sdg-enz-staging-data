@@ -25,7 +25,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Neubauaktivität",
             "type": "string",
             "constraints": {
               "enum": [
