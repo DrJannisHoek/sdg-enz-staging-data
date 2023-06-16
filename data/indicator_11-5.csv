@@ -1,36 +1,51 @@
-Year,Region,Nutzungsart,Value
-2015,Enzkreis,Siedlungs- und Verkehrsfläche,9267
-2016,Enzkreis,Siedlungs- und Verkehrsfläche,9292
-2017,Enzkreis,Siedlungs- und Verkehrsfläche,9336
-2018,Enzkreis,Siedlungs- und Verkehrsfläche,9378
-2019,Enzkreis,Siedlungs- und Verkehrsfläche,9417
-2020,Enzkreis,Siedlungs- und Verkehrsfläche,9437
-2021,Enzkreis,Siedlungs- und Verkehrsfläche,9470
-2015,Enzkreis,Landwirtschaft,25309
-2016,Enzkreis,Landwirtschaft,25284
-2017,Enzkreis,Landwirtschaft,25231
-2018,Enzkreis,Landwirtschaft,25196
-2019,Enzkreis,Landwirtschaft,25131
-2020,Enzkreis,Landwirtschaft,25119
-2021,Enzkreis,Landwirtschaft,25086
-2015,Enzkreis,Gewässer,327
-2016,Enzkreis,Gewässer,327
-2017,Enzkreis,Gewässer,328
-2018,Enzkreis,Gewässer,328
-2019,Enzkreis,Gewässer,338
-2020,Enzkreis,Gewässer,339
-2021,Enzkreis,Gewässer,340
-2015,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",86
-2016,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",86
-2017,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",86
-2018,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",86
-2019,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",85
-2020,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",92
-2021,Enzkreis,"Berg-/Tagebau, Grube, Steinbruch",90
-2015,Enzkreis,Wald,21827
-2016,Enzkreis,Wald,21818
-2017,Enzkreis,Wald,21826
-2018,Enzkreis,Wald,21820
-2019,Enzkreis,Wald,21833
-2020,Enzkreis,Wald,21817
-2021,Enzkreis,Wald,21818
+Year,Unit,Nutzungsart,Value
+2015,Nutzungsarten,Siedlungs- und Verkehrsfläche,9267
+2016,Nutzungsarten,Siedlungs- und Verkehrsfläche,9292
+2017,Nutzungsarten,Siedlungs- und Verkehrsfläche,9336
+2018,Nutzungsarten,Siedlungs- und Verkehrsfläche,9378
+2019,Nutzungsarten,Siedlungs- und Verkehrsfläche,9417
+2020,Nutzungsarten,Siedlungs- und Verkehrsfläche,9437
+2021,Nutzungsarten,Siedlungs- und Verkehrsfläche,9470
+2015,Nutzungsarten,Landwirtschaft,25309
+2016,Nutzungsarten,Landwirtschaft,25284
+2017,Nutzungsarten,Landwirtschaft,25231
+2018,Nutzungsarten,Landwirtschaft,25196
+2019,Nutzungsarten,Landwirtschaft,25131
+2020,Nutzungsarten,Landwirtschaft,25119
+2021,Nutzungsarten,Landwirtschaft,25086
+2015,Nutzungsarten,Gewässer,327
+2016,Nutzungsarten,Gewässer,327
+2017,Nutzungsarten,Gewässer,328
+2018,Nutzungsarten,Gewässer,328
+2019,Nutzungsarten,Gewässer,338
+2020,Nutzungsarten,Gewässer,339
+2021,Nutzungsarten,Gewässer,340
+2015,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
+2016,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
+2017,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
+2018,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
+2019,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",85
+2020,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",92
+2021,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",90
+2015,Nutzungsarten,Wald,21827
+2016,Nutzungsarten,Wald,21818
+2017,Nutzungsarten,Wald,21826
+2018,Nutzungsarten,Wald,21820
+2019,Nutzungsarten,Wald,21833
+2020,Nutzungsarten,Wald,21817
+2021,Nutzungsarten,Wald,21818
+2015,Siedlungs- und verkehrsfläche,Siedlung,5880
+2016,Siedlungs- und verkehrsfläche,Siedlung,5902
+2017,Siedlungs- und verkehrsfläche,Siedlung,5942
+2018,Siedlungs- und verkehrsfläche,Siedlung,5982
+2019,Siedlungs- und verkehrsfläche,Siedlung,5995
+2020,Siedlungs- und verkehrsfläche,Siedlung,6019
+2021,Siedlungs- und verkehrsfläche,Siedlung,6050
+2015,Siedlungs- und verkehrsfläche,Verkehr,3473
+2016,Siedlungs- und verkehrsfläche,Verkehr,3475
+2017,Siedlungs- und verkehrsfläche,Verkehr,3480
+2018,Siedlungs- und verkehrsfläche,Verkehr,3482
+2019,Siedlungs- und verkehrsfläche,Verkehr,3507
+2020,Siedlungs- und verkehrsfläche,Verkehr,3510
+2021,Siedlungs- und verkehrsfläche,Verkehr,3510
+,,,
