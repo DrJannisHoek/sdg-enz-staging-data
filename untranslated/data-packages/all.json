@@ -2358,7 +2358,7 @@
             }
           },
           {
-            "name": "Nutzung",
+            "name": "Nutzungsart",
             "type": "string",
             "constraints": {
               "enum": [

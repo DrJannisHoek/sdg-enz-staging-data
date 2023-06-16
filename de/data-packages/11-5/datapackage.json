@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "Nutzung",
+            "name": "Nutzungsart",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Nutzung"
+            "title": "Nutzungsart"
           },
           {
             "name": "Value",
