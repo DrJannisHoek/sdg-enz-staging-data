@@ -1,4 +1,4 @@
-Year,Unit,Nutzungsart,Value
+Year,Unit,Nutzungsarten,Value
 2015,Nutzungsarten,Siedlungs- und Verkehrsfläche,9267
 2016,Nutzungsarten,Siedlungs- und Verkehrsfläche,9292
 2017,Nutzungsarten,Siedlungs- und Verkehrsfläche,9336
@@ -34,18 +34,18 @@ Year,Unit,Nutzungsart,Value
 2019,Nutzungsarten,Wald,21833
 2020,Nutzungsarten,Wald,21817
 2021,Nutzungsarten,Wald,21818
-2015,Siedlungs- und verkehrsfläche,Siedlung,5880
-2016,Siedlungs- und verkehrsfläche,Siedlung,5902
-2017,Siedlungs- und verkehrsfläche,Siedlung,5942
-2018,Siedlungs- und verkehrsfläche,Siedlung,5982
-2019,Siedlungs- und verkehrsfläche,Siedlung,5995
-2020,Siedlungs- und verkehrsfläche,Siedlung,6019
-2021,Siedlungs- und verkehrsfläche,Siedlung,6050
-2015,Siedlungs- und verkehrsfläche,Verkehr,3473
-2016,Siedlungs- und verkehrsfläche,Verkehr,3475
-2017,Siedlungs- und verkehrsfläche,Verkehr,3480
-2018,Siedlungs- und verkehrsfläche,Verkehr,3482
-2019,Siedlungs- und verkehrsfläche,Verkehr,3507
-2020,Siedlungs- und verkehrsfläche,Verkehr,3510
-2021,Siedlungs- und verkehrsfläche,Verkehr,3510
+2015,Siedlungs- und Verkehrsfläche,Siedlung,5880
+2016,Siedlungs- und Verkehrsfläche,Siedlung,5902
+2017,Siedlungs- und Verkehrsfläche,Siedlung,5942
+2018,Siedlungs- und Verkehrsfläche,Siedlung,5982
+2019,Siedlungs- und Verkehrsfläche,Siedlung,5995
+2020,Siedlungs- und Verkehrsfläche,Siedlung,6019
+2021,Siedlungs- und Verkehrsfläche,Siedlung,6050
+2015,Siedlungs- und Verkehrsfläche,Verkehr,3473
+2016,Siedlungs- und Verkehrsfläche,Verkehr,3475
+2017,Siedlungs- und Verkehrsfläche,Verkehr,3480
+2018,Siedlungs- und Verkehrsfläche,Verkehr,3482
+2019,Siedlungs- und Verkehrsfläche,Verkehr,3507
+2020,Siedlungs- und Verkehrsfläche,Verkehr,3510
+2021,Siedlungs- und Verkehrsfläche,Verkehr,3510
 ,,,
