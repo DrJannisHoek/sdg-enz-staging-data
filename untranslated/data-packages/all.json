@@ -2320,7 +2320,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nutzungsarten",
+                "Flächeninanspruchnahme",
                 "Siedlungs- und Verkehrsfläche",
                 ""
               ]

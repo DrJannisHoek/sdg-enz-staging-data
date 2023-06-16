@@ -1,39 +1,39 @@
 Year,Units,Nutzungsarten,Value
-2015.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9267.0
-2016.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9292.0
-2017.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9336.0
-2018.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9378.0
-2019.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9417.0
-2020.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9437.0
-2021.0,Nutzungsarten,Siedlungs- und Verkehrsfläche,9470.0
-2015.0,Nutzungsarten,Landwirtschaft,25309.0
-2016.0,Nutzungsarten,Landwirtschaft,25284.0
-2017.0,Nutzungsarten,Landwirtschaft,25231.0
-2018.0,Nutzungsarten,Landwirtschaft,25196.0
-2019.0,Nutzungsarten,Landwirtschaft,25131.0
-2020.0,Nutzungsarten,Landwirtschaft,25119.0
-2021.0,Nutzungsarten,Landwirtschaft,25086.0
-2015.0,Nutzungsarten,Gewässer,327.0
-2016.0,Nutzungsarten,Gewässer,327.0
-2017.0,Nutzungsarten,Gewässer,328.0
-2018.0,Nutzungsarten,Gewässer,328.0
-2019.0,Nutzungsarten,Gewässer,338.0
-2020.0,Nutzungsarten,Gewässer,339.0
-2021.0,Nutzungsarten,Gewässer,340.0
-2015.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86.0
-2016.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86.0
-2017.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86.0
-2018.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86.0
-2019.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",85.0
-2020.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",92.0
-2021.0,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",90.0
-2015.0,Nutzungsarten,Wald,21827.0
-2016.0,Nutzungsarten,Wald,21818.0
-2017.0,Nutzungsarten,Wald,21826.0
-2018.0,Nutzungsarten,Wald,21820.0
-2019.0,Nutzungsarten,Wald,21833.0
-2020.0,Nutzungsarten,Wald,21817.0
-2021.0,Nutzungsarten,Wald,21818.0
+2015.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9267.0
+2016.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9292.0
+2017.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9336.0
+2018.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9378.0
+2019.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9417.0
+2020.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9437.0
+2021.0,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9470.0
+2015.0,Flächeninanspruchnahme,Landwirtschaft,25309.0
+2016.0,Flächeninanspruchnahme,Landwirtschaft,25284.0
+2017.0,Flächeninanspruchnahme,Landwirtschaft,25231.0
+2018.0,Flächeninanspruchnahme,Landwirtschaft,25196.0
+2019.0,Flächeninanspruchnahme,Landwirtschaft,25131.0
+2020.0,Flächeninanspruchnahme,Landwirtschaft,25119.0
+2021.0,Flächeninanspruchnahme,Landwirtschaft,25086.0
+2015.0,Flächeninanspruchnahme,Gewässer,327.0
+2016.0,Flächeninanspruchnahme,Gewässer,327.0
+2017.0,Flächeninanspruchnahme,Gewässer,328.0
+2018.0,Flächeninanspruchnahme,Gewässer,328.0
+2019.0,Flächeninanspruchnahme,Gewässer,338.0
+2020.0,Flächeninanspruchnahme,Gewässer,339.0
+2021.0,Flächeninanspruchnahme,Gewässer,340.0
+2015.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86.0
+2016.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86.0
+2017.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86.0
+2018.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86.0
+2019.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",85.0
+2020.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",92.0
+2021.0,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",90.0
+2015.0,Flächeninanspruchnahme,Wald,21827.0
+2016.0,Flächeninanspruchnahme,Wald,21818.0
+2017.0,Flächeninanspruchnahme,Wald,21826.0
+2018.0,Flächeninanspruchnahme,Wald,21820.0
+2019.0,Flächeninanspruchnahme,Wald,21833.0
+2020.0,Flächeninanspruchnahme,Wald,21817.0
+2021.0,Flächeninanspruchnahme,Wald,21818.0
 2015.0,Siedlungs- und Verkehrsfläche,Siedlung,5880.0
 2016.0,Siedlungs- und Verkehrsfläche,Siedlung,5902.0
 2017.0,Siedlungs- und Verkehrsfläche,Siedlung,5942.0
