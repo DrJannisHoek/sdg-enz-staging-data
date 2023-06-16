@@ -2189,7 +2189,7 @@
             "constraints": {
               "enum": [
                 "Straßenverkehrsunfälle",
-                "Getötete",
+                "Getötete je 100.000 Einwohner",
                 ""
               ]
             }
