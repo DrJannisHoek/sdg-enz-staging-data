@@ -2917,8 +2917,18 @@
             "constraints": {
               "enum": [
                 "Gewinnung und Abgabe",
-                "Täglicher Verbrauch pro Kopf [l] - Enzkreis",
-                "Täglicher Verbrauch pro Kopf [l] - Land BW",
+                "Täglicher Verbrauch pro Kopf [l]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

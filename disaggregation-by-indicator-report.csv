@@ -15,7 +15,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6,"Region, Fahrzeugart",2
 #11-7,"Region, Verkehrsmittel",2
 #11-8,"Region, Schadensart",2
-#12-1,Wassergewinnung und -konsum,1
+#12-1,"Region, Wassergewinnung und -konsum",2
 #12-2,"Region, gruppe.beschaeftigt",2
 #12-3,"Region, gruppe.beschaeftigt",2
 #12-4,"Region, gruppe.beschaeftigt",2

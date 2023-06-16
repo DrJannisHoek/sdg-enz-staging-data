@@ -21,12 +21,23 @@
             "constraints": {
               "enum": [
                 "Gewinnung und Abgabe",
-                "Täglicher Verbrauch pro Kopf [l] - Enzkreis",
-                "Täglicher Verbrauch pro Kopf [l] - Land BW",
+                "Täglicher Verbrauch pro Kopf [l]",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Wassergewinnung und -konsum",
