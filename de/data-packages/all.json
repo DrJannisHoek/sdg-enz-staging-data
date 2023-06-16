@@ -2569,8 +2569,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche Enzkreis",
-                "Verkehrsfläche Enzkreis",
+                "Siedlungsfläche Enzkreis [ha]",
+                "Verkehrsfläche Enzkreis [ha]",
                 ""
               ]
             },
