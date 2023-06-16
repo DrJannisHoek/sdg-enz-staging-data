@@ -9,7 +9,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-1-a,"Region, Mietpreise",2
 #11-1-b,"Region, Durchschnittspreise, Preisindex, Fläche",4
 #11-2,"Region, Neubauaktivität",2
-#11-3,"Region, gruppe.beschaeftigt",2
+#11-3,"Region, Belegungsdichte",2
 #11-4,Region,1
 #11-5,"Region, Nutzung",2
 #11-6,"Region, gruppe.beschaeftigt",2

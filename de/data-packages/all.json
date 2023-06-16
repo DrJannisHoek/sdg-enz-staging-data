@@ -2624,7 +2624,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Belegungsdichte",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2633,7 +2633,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Belegungsdichte"
           },
           {
             "name": "Value",
