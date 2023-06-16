@@ -15,6 +15,17 @@
             "type": "number"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straßenverkehrsunfälle",
+                "Getötete",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -26,13 +37,12 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schadensart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Straßenverkehrsunfälle",
-                "Verunglückte",
-                "Getötete",
+                "Unfälle gesamt",
+                "Verunglückte bei Unfällen",
                 ""
               ]
             }

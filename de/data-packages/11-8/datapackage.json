@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straßenverkehrsunfälle",
+                "Getötete",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -28,17 +40,16 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schadensart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Straßenverkehrsunfälle",
-                "Verunglückte",
-                "Getötete",
+                "Unfälle gesamt",
+                "Verunglückte bei Unfällen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Schadensart"
           },
           {
             "name": "Value",
