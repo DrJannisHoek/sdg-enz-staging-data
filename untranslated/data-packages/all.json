@@ -1646,20 +1646,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittspreise",
+                "Durchschnittspreise (Enzkreis)",
                 "Fläche - Baureifes Land [1.000 m²]",
-                "Index",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Deutschland",
+                "Preisindex für Bauland (Deutschland)",
                 ""
               ]
             }
@@ -1671,16 +1660,6 @@
               "enum": [
                 "Bauland [€/m²]",
                 "Baureifes Land [€/m²]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Preisindex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Preisindex für Bauland (Bund)",
                 ""
               ]
             }
