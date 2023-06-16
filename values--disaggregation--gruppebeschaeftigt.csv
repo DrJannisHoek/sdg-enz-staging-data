@@ -6,7 +6,6 @@ Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
 Bannwald,1,1
 Beförderungsfälle Regionalverkehr,1,1
-"Berg-/Tagebau, Grube, Steinbruch",1,1
 Beschäftigungsquote 55 - 64-Jährige,4,2
 Beschäftigungsquote,4,2
 Bodenschutz,1,1
@@ -25,7 +24,6 @@ Fußverkehr,2,1
 Getötete,2,1
 "Gewerbe, sonstiges",1,1
 Gewinnung Grund- und Quellwasser,1,1
-Gewässer,1,1
 Immissionsschutz,1,1
 Index,1,1
 Industrie,1,1
@@ -36,7 +34,6 @@ Krafträder,1,1
 Landschaftsqualität (Hemerobie-Index),4,1
 Landschaftsschutzgebiet,1,1
 Landschaftsschutzgebiete,1,1
-Landwirtschaft,1,1
 Langzeitarbeitslosenquote,2,1
 Lastkraftwagen,1,1
 Liegenschaften Landratsamt (witterungsbereinigt),1,1
@@ -62,8 +59,6 @@ Recycling-Papier in der Kreisverwaltung,1,1
 Schnellladepunkte,1,1
 Schonwald,1,1
 Sichtschutz,1,1
-Siedlung,1,1
-Siedlungs- und Verkehrsfläche,1,1
 Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],1,1
 Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
@@ -76,12 +71,11 @@ Unterstützer der WIN-Charta,1,1
 Unterstützer des Klimaschutzpaktes BW,1,1
 Unzerschnittene Freiraumflächen [>50 km2],2,1
 Verdienstabstand Frauen - Männer,2,1
-Verkehr,2,2
+Verkehr,1,1
 Verschuldung im Kernhaushalt,1,1
 Verunglückte,2,1
 Vogelschutz-Gebiete (SPA),1,1
 Wahlbeteiligung,1,1
-Wald,1,1
 Waldrefugien,1,1
 Wasser- und Quellschutzgebiete,1,1
 Wasserabgabe an Haushalte,1,1

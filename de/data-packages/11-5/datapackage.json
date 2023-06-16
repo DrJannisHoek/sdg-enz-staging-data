@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -27,7 +27,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Nutzung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,16 +36,14 @@
                 "Gewässer",
                 "Berg-/Tagebau, Grube, Steinbruch",
                 "Wald",
-                "Siedlung",
-                "Verkehr",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Nutzung"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
