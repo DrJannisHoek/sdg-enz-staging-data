@@ -1647,7 +1647,7 @@
             "constraints": {
               "enum": [
                 "Durchschnittspreise",
-                "Fläche - baureifes Land",
+                "Fläche - Baureifes Land [1.000 m²]",
                 "Index",
                 ""
               ]
@@ -1681,17 +1681,6 @@
             "constraints": {
               "enum": [
                 "Preisindex für Bauland (Bund)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Fläche",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fläche - Baureifes Land [1.000 m²]",
-                "Fläche: Baureifes Land [1.000 m²]",
                 ""
               ]
             }
