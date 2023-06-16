@@ -3437,8 +3437,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land BW",
                 "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
