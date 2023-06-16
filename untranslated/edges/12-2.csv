@@ -1,2 +1,3 @@
 From,To
-Region,gruppe.beschaeftigt
+Unit,Abfallart
+Abfallart,Region

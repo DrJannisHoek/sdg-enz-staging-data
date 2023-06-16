@@ -297,8 +297,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kommunales Abfallaufkommen (gesamt)",
+                "Aufkommen je Abfallstrom [kg/EW]",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Region",
@@ -313,19 +325,28 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Abfallart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abfallaufkommen",
+                "Abfallaufkommen [kg/EW]",
+                "Haus- und Sperrmüll",
+                "Haus- und Sperrmüll ",
+                "Wertstoffe",
+                "Abfälle aus der Biotonne und Grünabfälle",
+                "Abfälle aus der Biotonne und Grünabfälle ",
+                "Gewerbe-, Baustellenabfälle",
+                "Elektro-/Elektronikaltgeräte",
+                "Sonstige Abfälle",
+                "Sonstige Abfälle ",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Abfallart"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
