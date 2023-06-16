@@ -1,39 +1,39 @@
 Year,Units,Nutzungsarten,Value
-2015,Nutzungsarten,Siedlungs- und Verkehrsfläche,9267
-2016,Nutzungsarten,Siedlungs- und Verkehrsfläche,9292
-2017,Nutzungsarten,Siedlungs- und Verkehrsfläche,9336
-2018,Nutzungsarten,Siedlungs- und Verkehrsfläche,9378
-2019,Nutzungsarten,Siedlungs- und Verkehrsfläche,9417
-2020,Nutzungsarten,Siedlungs- und Verkehrsfläche,9437
-2021,Nutzungsarten,Siedlungs- und Verkehrsfläche,9470
-2015,Nutzungsarten,Landwirtschaft,25309
-2016,Nutzungsarten,Landwirtschaft,25284
-2017,Nutzungsarten,Landwirtschaft,25231
-2018,Nutzungsarten,Landwirtschaft,25196
-2019,Nutzungsarten,Landwirtschaft,25131
-2020,Nutzungsarten,Landwirtschaft,25119
-2021,Nutzungsarten,Landwirtschaft,25086
-2015,Nutzungsarten,Gewässer,327
-2016,Nutzungsarten,Gewässer,327
-2017,Nutzungsarten,Gewässer,328
-2018,Nutzungsarten,Gewässer,328
-2019,Nutzungsarten,Gewässer,338
-2020,Nutzungsarten,Gewässer,339
-2021,Nutzungsarten,Gewässer,340
-2015,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
-2016,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
-2017,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
-2018,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",86
-2019,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",85
-2020,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",92
-2021,Nutzungsarten,"Berg-/Tagebau, Grube, Steinbruch",90
-2015,Nutzungsarten,Wald,21827
-2016,Nutzungsarten,Wald,21818
-2017,Nutzungsarten,Wald,21826
-2018,Nutzungsarten,Wald,21820
-2019,Nutzungsarten,Wald,21833
-2020,Nutzungsarten,Wald,21817
-2021,Nutzungsarten,Wald,21818
+2015,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9267
+2016,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9292
+2017,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9336
+2018,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9378
+2019,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9417
+2020,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9437
+2021,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,9470
+2015,Flächeninanspruchnahme,Landwirtschaft,25309
+2016,Flächeninanspruchnahme,Landwirtschaft,25284
+2017,Flächeninanspruchnahme,Landwirtschaft,25231
+2018,Flächeninanspruchnahme,Landwirtschaft,25196
+2019,Flächeninanspruchnahme,Landwirtschaft,25131
+2020,Flächeninanspruchnahme,Landwirtschaft,25119
+2021,Flächeninanspruchnahme,Landwirtschaft,25086
+2015,Flächeninanspruchnahme,Gewässer,327
+2016,Flächeninanspruchnahme,Gewässer,327
+2017,Flächeninanspruchnahme,Gewässer,328
+2018,Flächeninanspruchnahme,Gewässer,328
+2019,Flächeninanspruchnahme,Gewässer,338
+2020,Flächeninanspruchnahme,Gewässer,339
+2021,Flächeninanspruchnahme,Gewässer,340
+2015,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86
+2016,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86
+2017,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86
+2018,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",86
+2019,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",85
+2020,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",92
+2021,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",90
+2015,Flächeninanspruchnahme,Wald,21827
+2016,Flächeninanspruchnahme,Wald,21818
+2017,Flächeninanspruchnahme,Wald,21826
+2018,Flächeninanspruchnahme,Wald,21820
+2019,Flächeninanspruchnahme,Wald,21833
+2020,Flächeninanspruchnahme,Wald,21817
+2021,Flächeninanspruchnahme,Wald,21818
 2015,Siedlungs- und Verkehrsfläche,Siedlung,5880
 2016,Siedlungs- und Verkehrsfläche,Siedlung,5902
 2017,Siedlungs- und Verkehrsfläche,Siedlung,5942
