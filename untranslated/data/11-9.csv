@@ -1,23 +1,24 @@
-Year,Region,gruppe.beschaeftigt,Value
-2012,Enzkreis,Beförderungsfälle Regionalverkehr,10849000.0
-2013,Enzkreis,Beförderungsfälle Regionalverkehr,11529000.0
-2014,Enzkreis,Beförderungsfälle Regionalverkehr,11476000.0
-2015,Enzkreis,Beförderungsfälle Regionalverkehr,11522000.0
-2016,Enzkreis,Beförderungsfälle Regionalverkehr,11605000.0
-2017,Enzkreis,Beförderungsfälle Regionalverkehr,11617000.0
-2018,Enzkreis,Beförderungsfälle Regionalverkehr,11629000.0
-2019,Enzkreis,Beförderungsfälle Regionalverkehr,11640000.0
-2020,Enzkreis,Beförderungsfälle Regionalverkehr,10193000.0
-2021,Enzkreis,Beförderungsfälle Regionalverkehr,10196000.0
-2022,Enzkreis,Beförderungsfälle Regionalverkehr,
-2012,Enzkreis,Fahrplan-km/Jahr,7189000.0
-2013,Enzkreis,Fahrplan-km/Jahr,7189000.0
-2014,Enzkreis,Fahrplan-km/Jahr,7376000.0
-2015,Enzkreis,Fahrplan-km/Jahr,7376000.0
-2016,Enzkreis,Fahrplan-km/Jahr,7469000.0
-2017,Enzkreis,Fahrplan-km/Jahr,7469000.0
-2018,Enzkreis,Fahrplan-km/Jahr,7566000.0
-2019,Enzkreis,Fahrplan-km/Jahr,8073000.0
-2020,Enzkreis,Fahrplan-km/Jahr,8073000.0
-2021,Enzkreis,Fahrplan-km/Jahr,8132000.0
-2022,Enzkreis,Fahrplan-km/Jahr,8642000.0
+Year,Units,Value
+2012.0,Beförderungsfälle Regionalverkehr,10849000.0
+2013.0,Beförderungsfälle Regionalverkehr,11529000.0
+2014.0,Beförderungsfälle Regionalverkehr,11476000.0
+2015.0,Beförderungsfälle Regionalverkehr,11522000.0
+2016.0,Beförderungsfälle Regionalverkehr,11605000.0
+2017.0,Beförderungsfälle Regionalverkehr,11617000.0
+2018.0,Beförderungsfälle Regionalverkehr,11629000.0
+2019.0,Beförderungsfälle Regionalverkehr,11640000.0
+2020.0,Beförderungsfälle Regionalverkehr,10193000.0
+2021.0,Beförderungsfälle Regionalverkehr,10196000.0
+2022.0,Beförderungsfälle Regionalverkehr,
+2012.0,Fahrplan-km/Jahr,7189000.0
+2013.0,Fahrplan-km/Jahr,7189000.0
+2014.0,Fahrplan-km/Jahr,7376000.0
+2015.0,Fahrplan-km/Jahr,7376000.0
+2016.0,Fahrplan-km/Jahr,7469000.0
+2017.0,Fahrplan-km/Jahr,7469000.0
+2018.0,Fahrplan-km/Jahr,7566000.0
+2019.0,Fahrplan-km/Jahr,8073000.0
+2020.0,Fahrplan-km/Jahr,8073000.0
+2021.0,Fahrplan-km/Jahr,8132000.0
+2022.0,Fahrplan-km/Jahr,8642000.0
+,,

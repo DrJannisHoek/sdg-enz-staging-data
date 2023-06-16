@@ -3466,20 +3466,10 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

@@ -3779,22 +3779,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3803,7 +3792,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
           },
           {
             "name": "Value",
