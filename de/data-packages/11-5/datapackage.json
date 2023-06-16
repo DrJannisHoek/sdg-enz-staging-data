@@ -12,19 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Nutzungsarten",
+                "Siedlungs- und verkehrsfläche",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Unit"
           },
           {
             "name": "Nutzungsart",
@@ -36,6 +37,8 @@
                 "Gewässer",
                 "Berg-/Tagebau, Grube, Steinbruch",
                 "Wald",
+                "Siedlung",
+                "Verkehr",
                 ""
               ]
             },
@@ -43,7 +46,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

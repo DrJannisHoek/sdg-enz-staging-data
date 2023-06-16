@@ -2313,14 +2313,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
-            "name": "Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Nutzungsarten",
+                "Siedlungs- und verkehrsfläche",
                 ""
               ]
             }
@@ -2335,13 +2336,15 @@
                 "Gewässer",
                 "Berg-/Tagebau, Grube, Steinbruch",
                 "Wald",
+                "Siedlung",
+                "Verkehr",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
