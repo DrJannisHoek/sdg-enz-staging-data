@@ -15,6 +15,17 @@
             "type": "number"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kfz-Zulassungen Enzkreis",
+                "Kfz je 1.000 Einwohner",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -26,7 +37,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Verkehrsmittel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +46,6 @@
                 "Kraftomnibusse",
                 "Lastkraftwagen",
                 "Zugmaschinen",
-                "Kfz je 1.000 Einwohner",
                 ""
               ]
             }
