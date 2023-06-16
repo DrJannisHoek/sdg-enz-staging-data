@@ -3250,7 +3250,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Verkehrsmittel",
             "type": "string",
             "constraints": {
               "enum": [
