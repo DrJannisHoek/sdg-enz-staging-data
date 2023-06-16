@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
                 "Land BW",
+                "Enzkreis",
                 ""
               ]
             }
