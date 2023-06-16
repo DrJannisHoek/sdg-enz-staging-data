@@ -1782,7 +1782,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Region",
@@ -1791,16 +1791,6 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Wohngebäude",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie",
                 ""
               ]
             }

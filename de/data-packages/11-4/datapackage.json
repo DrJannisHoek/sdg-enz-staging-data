@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -26,17 +26,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Wohngebäude",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie",
-                ""
-              ]
-            },
-            "title": "Wohngebäude"
           },
           {
             "name": "Value",
