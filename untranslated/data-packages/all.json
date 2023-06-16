@@ -2321,13 +2321,13 @@
             "constraints": {
               "enum": [
                 "Nutzungsarten",
-                "Siedlungs- und verkehrsfläche",
+                "Siedlungs- und Verkehrsfläche",
                 ""
               ]
             }
           },
           {
-            "name": "Nutzungsart",
+            "name": "Nutzungsarten",
             "type": "string",
             "constraints": {
               "enum": [
