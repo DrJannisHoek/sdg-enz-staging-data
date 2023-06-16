@@ -3435,7 +3435,7 @@
             "title": "Region"
           },
           {
-            "name": "Verkehrsmittel",
+            "name": "Fahrzeugart",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3447,7 +3447,7 @@
                 ""
               ]
             },
-            "title": "Verkehrsmittel"
+            "title": "Fahrzeugart"
           },
           {
             "name": "Value",

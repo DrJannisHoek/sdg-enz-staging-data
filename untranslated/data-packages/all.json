@@ -3150,7 +3150,7 @@
             }
           },
           {
-            "name": "Verkehrsmittel",
+            "name": "Fahrzeugart",
             "type": "string",
             "constraints": {
               "enum": [
