@@ -1,4 +1,4 @@
-Year,Region,gruppe.beschaeftigt,Value
+Year,Region,Nutzung,Value
 2015,Enzkreis,Siedlungs- und Verkehrsfläche,9267
 2016,Enzkreis,Siedlungs- und Verkehrsfläche,9292
 2017,Enzkreis,Siedlungs- und Verkehrsfläche,9336
@@ -34,18 +34,3 @@ Year,Region,gruppe.beschaeftigt,Value
 2019,Enzkreis,Wald,21833
 2020,Enzkreis,Wald,21817
 2021,Enzkreis,Wald,21818
-2015,Enzkreis,Siedlung,5880
-2016,Enzkreis,Siedlung,5902
-2017,Enzkreis,Siedlung,5942
-2018,Enzkreis,Siedlung,5982
-2019,Enzkreis,Siedlung,5995
-2020,Enzkreis,Siedlung,6019
-2021,Enzkreis,Siedlung,6050
-2015,Enzkreis,Verkehr,3473
-2016,Enzkreis,Verkehr,3475
-2017,Enzkreis,Verkehr,3480
-2018,Enzkreis,Verkehr,3482
-2019,Enzkreis,Verkehr,3507
-2020,Enzkreis,Verkehr,3510
-2021,Enzkreis,Verkehr,3510
-,,,
