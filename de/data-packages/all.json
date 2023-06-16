@@ -3173,34 +3173,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Gewinnung und Abgabe",
+                "Täglicher Verbrauch pro Kopf [l] - Enzkreis",
+                "Täglicher Verbrauch pro Kopf [l] - Land BW",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Wassergewinnung und -konsum",
             "type": "string",
             "constraints": {
               "enum": [
                 "Gewinnung Grund- und Quellwasser",
                 "Wasserabgabe an Letztverbraucher (gesamt)",
                 "Wasserabgabe an Haushalte",
-                "Täglicher Verbrauch pro Kopf [l]",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Wassergewinnung und -konsum"
           },
           {
             "name": "Value",
