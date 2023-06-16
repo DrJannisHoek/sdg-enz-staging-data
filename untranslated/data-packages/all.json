@@ -2321,7 +2321,7 @@
             "constraints": {
               "enum": [
                 "Flächeninanspruchnahme",
-                "Siedlungs- und Verkehrsfläche",
+                "Flächenversiegelung",
                 ""
               ]
             }
@@ -2336,6 +2336,15 @@
                 "Gewässer",
                 "Berg-/Tagebau, Grube, Steinbruch",
                 "Wald",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Siedlungs- und Verkehrsfläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Siedlungsfläche Enzkreis",
                 "Verkehrsfläche Enzkreis",
                 ""
