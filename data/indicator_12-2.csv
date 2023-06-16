@@ -1,25 +1,98 @@
-Year,Region,gruppe.beschaeftigt,Value
-2010,Enzkreis,Abfallaufkommen,588
-2011,Enzkreis,Abfallaufkommen,592
-2012,Enzkreis,Abfallaufkommen,603
-2013,Enzkreis,Abfallaufkommen,587
-2014,Enzkreis,Abfallaufkommen,591
-2015,Enzkreis,Abfallaufkommen,590
-2016,Enzkreis,Abfallaufkommen,645
-2017,Enzkreis,Abfallaufkommen,634
-2018,Enzkreis,Abfallaufkommen,659
-2019,Enzkreis,Abfallaufkommen,610
-2020,Enzkreis,Abfallaufkommen,616
-2021,Enzkreis,Abfallaufkommen,601
-2010,Land BW,Abfallaufkommen,475
-2011,Land BW,Abfallaufkommen,497
-2012,Land BW,Abfallaufkommen,492
-2013,Land BW,Abfallaufkommen,486
-2014,Land BW,Abfallaufkommen,501
-2015,Land BW,Abfallaufkommen,492
-2016,Land BW,Abfallaufkommen,494
-2017,Land BW,Abfallaufkommen,490
-2018,Land BW,Abfallaufkommen,485
-2019,Land BW,Abfallaufkommen,487
-2020,Land BW,Abfallaufkommen,495
-2021,Land BW,Abfallaufkommen,496
+Year,Unit,Region,Abfallart,Value
+2010,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],588
+2011,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],592
+2012,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],603
+2013,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],587
+2014,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],591
+2015,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],590
+2016,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],645
+2017,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],634
+2018,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],659
+2019,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],610
+2020,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],616
+2021,Kommunales Abfallaufkommen (gesamt),Enzkreis,Abfallaufkommen [kg/EW],601
+2010,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],475
+2011,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],497
+2012,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],492
+2013,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],486
+2014,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],501
+2015,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],492
+2016,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],494
+2017,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],490
+2018,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],485
+2019,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],487
+2020,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],495
+2021,Kommunales Abfallaufkommen (gesamt),Land BW,Abfallaufkommen [kg/EW],496
+2010,Aufkommen je Abfallstrom [kg/EW],,Haus- und Sperrmüll,
+2011,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2012,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2013,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2014,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2015,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2016,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2017,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2018,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2019,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2020,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2021,Aufkommen je Abfallstrom [kg/EW],,"Haus- und Sperrmüll ",
+2010,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2011,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2012,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2013,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2014,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2015,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2016,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2017,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2018,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2019,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2020,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2021,Aufkommen je Abfallstrom [kg/EW],,Wertstoffe,
+2010,Aufkommen je Abfallstrom [kg/EW],,Abfälle aus der Biotonne und Grünabfälle,
+2011,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2012,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2013,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2014,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2015,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2016,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2017,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2018,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2019,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2020,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2021,Aufkommen je Abfallstrom [kg/EW],,"Abfälle aus der Biotonne und Grünabfälle ",
+2010,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2011,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2012,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2013,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2014,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2015,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2016,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2017,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2018,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2019,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2020,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2021,Aufkommen je Abfallstrom [kg/EW],,"Gewerbe-, Baustellenabfälle",
+2010,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2011,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2012,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2013,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2014,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2015,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2016,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2017,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2018,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2019,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2020,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2021,Aufkommen je Abfallstrom [kg/EW],,Elektro-/Elektronikaltgeräte,
+2010,Aufkommen je Abfallstrom [kg/EW],,Sonstige Abfälle,
+2011,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2012,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2013,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2014,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2015,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2016,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2017,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2018,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2019,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2020,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+2021,Aufkommen je Abfallstrom [kg/EW],,"Sonstige Abfälle ",
+,,,,
