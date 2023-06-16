@@ -1,27 +1,28 @@
-Year,Units,Wassergewinnung und -konsum,Value
-2007,Gewinnung und Abgabe,Gewinnung Grund- und Quellwasser,7461
-2010,Gewinnung und Abgabe,Gewinnung Grund- und Quellwasser,6862
-2013,Gewinnung und Abgabe,Gewinnung Grund- und Quellwasser,6256
-2016,Gewinnung und Abgabe,Gewinnung Grund- und Quellwasser,6659
-2019,Gewinnung und Abgabe,Gewinnung Grund- und Quellwasser,7178
-2007,Gewinnung und Abgabe,Wasserabgabe an Letztverbraucher (gesamt),9402
-2010,Gewinnung und Abgabe,Wasserabgabe an Letztverbraucher (gesamt),9231
-2013,Gewinnung und Abgabe,Wasserabgabe an Letztverbraucher (gesamt),9154
-2016,Gewinnung und Abgabe,Wasserabgabe an Letztverbraucher (gesamt),9533
-2019,Gewinnung und Abgabe,Wasserabgabe an Letztverbraucher (gesamt),9971
-2007,Gewinnung und Abgabe,Wasserabgabe an Haushalte,7618
-2010,Gewinnung und Abgabe,Wasserabgabe an Haushalte,7559
-2013,Gewinnung und Abgabe,Wasserabgabe an Haushalte,7487
-2016,Gewinnung und Abgabe,Wasserabgabe an Haushalte,7976
-2019,Gewinnung und Abgabe,Wasserabgabe an Haushalte,8756
-2007,Täglicher Verbrauch pro Kopf [l] - Enzkreis,,106.8
-2010,Täglicher Verbrauch pro Kopf [l] - Enzkreis,,106.8
-2013,Täglicher Verbrauch pro Kopf [l] - Enzkreis,,106.4
-2016,Täglicher Verbrauch pro Kopf [l] - Enzkreis,,110.5
-2019,Täglicher Verbrauch pro Kopf [l] - Enzkreis,,136.4
-2007,Täglicher Verbrauch pro Kopf [l] - Land BW,,115.9
-2010,Täglicher Verbrauch pro Kopf [l] - Land BW,,114.8
-2013,Täglicher Verbrauch pro Kopf [l] - Land BW,,115.6
-2016,Täglicher Verbrauch pro Kopf [l] - Land BW,,118.1
-2019,Täglicher Verbrauch pro Kopf [l] - Land BW,,149.3
-,,,
+Year,Units,Region,Wassergewinnung und -konsum,Value
+2007,Gewinnung und Abgabe,,Gewinnung Grund- und Quellwasser,7461
+2010,Gewinnung und Abgabe,,Gewinnung Grund- und Quellwasser,6862
+2013,Gewinnung und Abgabe,,Gewinnung Grund- und Quellwasser,6256
+2016,Gewinnung und Abgabe,,Gewinnung Grund- und Quellwasser,6659
+2019,Gewinnung und Abgabe,,Gewinnung Grund- und Quellwasser,7178
+2007,Gewinnung und Abgabe,,Wasserabgabe an Letztverbraucher (gesamt),9402
+2010,Gewinnung und Abgabe,,Wasserabgabe an Letztverbraucher (gesamt),9231
+2013,Gewinnung und Abgabe,,Wasserabgabe an Letztverbraucher (gesamt),9154
+2016,Gewinnung und Abgabe,,Wasserabgabe an Letztverbraucher (gesamt),9533
+2019,Gewinnung und Abgabe,,Wasserabgabe an Letztverbraucher (gesamt),9971
+2007,Gewinnung und Abgabe,,Wasserabgabe an Haushalte,7618
+2010,Gewinnung und Abgabe,,Wasserabgabe an Haushalte,7559
+2013,Gewinnung und Abgabe,,Wasserabgabe an Haushalte,7487
+2016,Gewinnung und Abgabe,,Wasserabgabe an Haushalte,7976
+2019,Gewinnung und Abgabe,,Wasserabgabe an Haushalte,8756
+2007,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.8
+2010,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.8
+2013,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.4
+2016,Täglicher Verbrauch pro Kopf [l],Enzkreis,,110.5
+2019,Täglicher Verbrauch pro Kopf [l],Enzkreis,,136.4
+2007,Täglicher Verbrauch pro Kopf [l],Land BW,,115.9
+2010,Täglicher Verbrauch pro Kopf [l],Land BW,,114.8
+2013,Täglicher Verbrauch pro Kopf [l],Land BW,,115.6
+2016,Täglicher Verbrauch pro Kopf [l],Land BW,,118.1
+2019,Täglicher Verbrauch pro Kopf [l],Land BW,,149.3
+,,,,
+,,,,
