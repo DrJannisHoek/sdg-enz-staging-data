@@ -2573,8 +2573,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Einwohner pro Wohnung",
+                "Wohnfläche pro Person [m²]",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Region",
@@ -2587,18 +2599,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Belegungsdichte",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EW/Wohnung",
-                "Wohnfläche pro Person [m²]",
-                ""
-              ]
-            },
-            "title": "Belegungsdichte"
           },
           {
             "name": "Value",

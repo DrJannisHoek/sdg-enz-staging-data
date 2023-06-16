@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Einwohner pro Wohnung",
+                "Wohnfläche pro Person [m²]",
+                ""
+              ]
+            }
           },
           {
             "name": "Region",
@@ -21,17 +32,6 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Belegungsdichte",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EW/Wohnung",
-                "Wohnfläche pro Person [m²]",
                 ""
               ]
             }
