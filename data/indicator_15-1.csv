@@ -1,18 +1,18 @@
-Year,Region,gruppe.beschaeftigt,Value
-2009,Enzkreis,Landschaftsqualität (Hemerobie-Index),3.91
-2012,Enzkreis,Landschaftsqualität (Hemerobie-Index),4.02
-2015,Enzkreis,Landschaftsqualität (Hemerobie-Index),4.02
-2018,Enzkreis,Landschaftsqualität (Hemerobie-Index),"4,04"
-2009,Stadt PF,Landschaftsqualität (Hemerobie-Index),3.92
-2012,Stadt PF,Landschaftsqualität (Hemerobie-Index),3.97
-2015,Stadt PF,Landschaftsqualität (Hemerobie-Index),3.98
-2018,Stadt PF,Landschaftsqualität (Hemerobie-Index),3.98
-2009,Land BW,Landschaftsqualität (Hemerobie-Index),3.90
-2012,Land BW,Landschaftsqualität (Hemerobie-Index),4.11
-2015,Land BW,Landschaftsqualität (Hemerobie-Index),4.14
-2018,Land BW,Landschaftsqualität (Hemerobie-Index),4.15
-2009,Bundesrepublik Deutschland,Landschaftsqualität (Hemerobie-Index),4.10
-2012,Bundesrepublik Deutschland,Landschaftsqualität (Hemerobie-Index),4.10
-2015,Bundesrepublik Deutschland,Landschaftsqualität (Hemerobie-Index),4.20
-2018,Bundesrepublik Deutschland,Landschaftsqualität (Hemerobie-Index),4.15
+Year,Region,Landschaftsqualität,Value
+2009,Enzkreis,Hemerobie-Index,3.91
+2012,Enzkreis,Hemerobie-Index,4.02
+2015,Enzkreis,Hemerobie-Index,4.02
+2018,Enzkreis,Hemerobie-Index,"4,04"
+2009,Stadt PF,Hemerobie-Index,3.92
+2012,Stadt PF,Hemerobie-Index,3.97
+2015,Stadt PF,Hemerobie-Index,3.98
+2018,Stadt PF,Hemerobie-Index,3.98
+2009,Land BW,Hemerobie-Index,3.90
+2012,Land BW,Hemerobie-Index,4.11
+2015,Land BW,Hemerobie-Index,4.14
+2018,Land BW,Hemerobie-Index,4.15
+2009,Deutschland,Hemerobie-Index,4.10
+2012,Deutschland,Hemerobie-Index,4.10
+2015,Deutschland,Hemerobie-Index,4.20
+2018,Deutschland,Hemerobie-Index,4.15
 ,,,
