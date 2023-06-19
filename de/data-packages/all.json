@@ -3061,7 +3061,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unterstützer der WIN-Charta",
+                "Unterstützer im Enzkreis",
                 ""
               ]
             },
