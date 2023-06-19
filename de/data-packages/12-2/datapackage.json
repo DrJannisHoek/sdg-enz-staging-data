@@ -28,23 +28,10 @@
             "title": "Units"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Abfallart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abfallaufkommen [kg/EW]",
                 "Haus- und Sperrmüll",
                 "Haus- und Sperrmüll ",
                 "Wertstoffe",
@@ -58,6 +45,18 @@
               ]
             },
             "title": "Abfallart"
+          },
+          {
+            "name": "Abfallaufkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abfallaufkommen [kg/EW] - Enzkreis",
+                "Abfallaufkommen [kg/EW] - Land BW",
+                ""
+              ]
+            },
+            "title": "Abfallaufkommen"
           },
           {
             "name": "Value",
