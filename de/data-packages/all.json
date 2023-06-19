@@ -1944,18 +1944,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Nachhaltige Antriebstechniken",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1964,7 +1953,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Nachhaltige Antriebstechniken"
           },
           {
             "name": "Value",
