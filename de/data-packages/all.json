@@ -3101,34 +3101,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "WIN-Charta Baden-Württemberg",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Unterstützer der WIN-Charta im Enzkreis",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unterstützer der WIN-Charta",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "WIN-Charta Baden-Württemberg"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
