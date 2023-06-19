@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
             "name": "FairTrade-Towns",
             "type": "string",
             "constraints": {
