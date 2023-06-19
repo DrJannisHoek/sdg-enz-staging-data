@@ -15,11 +15,21 @@
             "type": "number"
           },
           {
-            "name": "Fairtrade Towns",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fairtrade Towns im Enzkreis",
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Engagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fairtrade Towns",
                 ""
               ]
             }

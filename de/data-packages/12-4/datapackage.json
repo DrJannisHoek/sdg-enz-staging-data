@@ -16,15 +16,26 @@
             "title": "Jahr"
           },
           {
-            "name": "Fairtrade Towns",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fairtrade Towns im Enzkreis",
+                "Enzkreis",
                 ""
               ]
             },
-            "title": "Fairtrade Towns"
+            "title": "Region"
+          },
+          {
+            "name": "Engagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fairtrade Towns",
+                ""
+              ]
+            },
+            "title": "Engagement"
           },
           {
             "name": "Value",

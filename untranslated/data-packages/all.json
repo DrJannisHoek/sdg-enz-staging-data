@@ -147,11 +147,21 @@
             "type": "number"
           },
           {
-            "name": "Fairtrade Towns",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fairtrade Towns im Enzkreis",
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Engagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fairtrade Towns",
                 ""
               ]
             }
@@ -1009,11 +1019,21 @@
             "type": "number"
           },
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Recyclingpapier",
             "type": "string",
             "constraints": {
               "enum": [
-                "Recyclingpapier in der Kreisverwaltung",
+                "Anteil in der Kreisverwaltung",
                 ""
               ]
             }
@@ -2823,11 +2843,21 @@
             "type": "number"
           },
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
             "name": "WIN-Charta Baden-Württemberg",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unterstützer der WIN-Charta im Enzkreis",
+                "Unterstützer der WIN-Charta",
                 ""
               ]
             }

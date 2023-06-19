@@ -15,11 +15,21 @@
             "type": "number"
           },
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Recyclingpapier",
             "type": "string",
             "constraints": {
               "enum": [
-                "Recyclingpapier in der Kreisverwaltung",
+                "Anteil in der Kreisverwaltung",
                 ""
               ]
             }
