@@ -3726,7 +3726,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -3741,17 +3741,17 @@
                 "Enzkreis",
                 "Stadt PF",
                 "Land BW",
-                "Bundesrepublik Deutschland",
+                "Deutschland",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Landschaftsqualität",
             "type": "string",
             "constraints": {
               "enum": [
-                "Landschaftsqualität (Hemerobie-Index)",
+                "Hemerobie-Index",
                 ""
               ]
             }
