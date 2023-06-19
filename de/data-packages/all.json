@@ -1418,18 +1418,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Klimaschutzpakt",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1437,7 +1426,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Klimaschutzpakt"
           },
           {
             "name": "Value",

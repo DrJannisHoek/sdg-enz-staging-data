@@ -1300,17 +1300,7 @@
             "type": "number"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Klimaschutzpakt",
             "type": "string",
             "constraints": {
               "enum": [
