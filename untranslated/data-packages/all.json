@@ -157,7 +157,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "FairTrade-Towns",
             "type": "string",
             "constraints": {
               "enum": [
