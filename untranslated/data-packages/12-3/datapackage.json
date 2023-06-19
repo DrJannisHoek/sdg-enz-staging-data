@@ -15,7 +15,7 @@
             "type": "number"
           },
           {
-            "name": "WIN-Charta Baden-Württemberg",
+            "name": "WIN-Charta BW",
             "type": "string",
             "constraints": {
               "enum": [

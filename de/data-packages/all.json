@@ -3046,7 +3046,7 @@
             "title": "Jahr"
           },
           {
-            "name": "WIN-Charta Baden-Württemberg",
+            "name": "WIN-Charta BW",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3054,7 +3054,7 @@
                 ""
               ]
             },
-            "title": "WIN-Charta Baden-Württemberg"
+            "title": "WIN-Charta BW"
           },
           {
             "name": "Value",
