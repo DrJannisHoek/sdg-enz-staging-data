@@ -3591,27 +3591,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Nutzung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Streuobstwiesenfläche Enzkreis",
+                "übriges Kreisgebiet Enzkreis",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Streuobstwiesenfläche",
-                "übriges Kreisgebiet",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Nutzung"
           },
           {
             "name": "Value",
