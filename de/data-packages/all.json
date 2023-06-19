@@ -4060,25 +4060,14 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Stadt PF",
-                "Land BW",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Landschaftsqualität",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hemerobie-Index",
+                "Hemerobie-Index Enzkreis",
+                "Hemerobie-Index Stadt PF",
+                "Hemerobie-Index Land BW",
+                "Hemerobie-Index Deutschland",
                 ""
               ]
             },
