@@ -3068,17 +3068,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "WIN-Charta Baden-Württemberg",
             "type": "string",
             "constraints": {

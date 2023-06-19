@@ -15,16 +15,6 @@
             "type": "number"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
             "name": "WIN-Charta Baden-Württemberg",
             "type": "string",
             "constraints": {
