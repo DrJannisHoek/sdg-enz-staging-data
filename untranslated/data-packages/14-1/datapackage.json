@@ -15,22 +15,12 @@
             "type": "number"
           },
           {
-            "name": "Region",
+            "name": "Abwasserentsorgung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.Anschlussgrad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen",
+                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis",
+                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW",
                 ""
               ]
             }
