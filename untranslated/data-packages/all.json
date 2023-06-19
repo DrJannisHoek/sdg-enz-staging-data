@@ -1009,21 +1009,11 @@
             "type": "number"
           },
           {
-            "name": "Region",
+            "name": "Recyclingpapier",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Recycling-Papier in der Kreisverwaltung",
+                "Recyclingpapier in der Kreisverwaltung",
                 ""
               ]
             }
