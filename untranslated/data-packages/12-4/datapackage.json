@@ -15,11 +15,11 @@
             "type": "number"
           },
           {
-            "name": "FairTrade-Towns",
+            "name": "Fairtrade Towns",
             "type": "string",
             "constraints": {
               "enum": [
-                "FairTrade-Towns im Enzkreis",
+                "Fairtrade Towns im Enzkreis",
                 ""
               ]
             }
