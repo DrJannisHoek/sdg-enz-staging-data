@@ -15,11 +15,11 @@
             "type": "number"
           },
           {
-            "name": "Klimaschutzpakt",
+            "name": "Klimaschutzpakt BW",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unterstützer des Klimaschutzpaktes BW",
+                "Unterstützer im Enzkreis",
                 ""
               ]
             }
