@@ -16,17 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Engagement",
             "type": "string",
             "constraints": {
