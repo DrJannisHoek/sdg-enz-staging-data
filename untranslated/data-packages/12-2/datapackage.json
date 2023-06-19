@@ -31,14 +31,12 @@
             "constraints": {
               "enum": [
                 "Haus- und Sperrmüll",
-                "Haus- und Sperrmüll ",
                 "Wertstoffe",
                 "Abfälle aus der Biotonne und Grünabfälle",
                 "Abfälle aus der Biotonne und Grünabfälle ",
-                "Gewerbe-, Baustellenabfälle",
+                "Gewerbe- und Baustellenabfälle",
                 "Elektro-/Elektronikaltgeräte",
                 "Sonstige Abfälle",
-                "Sonstige Abfälle ",
                 ""
               ]
             }
