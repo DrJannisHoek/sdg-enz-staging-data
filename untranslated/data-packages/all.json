@@ -1244,7 +1244,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Abwasserentsorgung",
@@ -1277,7 +1277,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Klimaschutzpakt BW",
@@ -1291,7 +1291,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
