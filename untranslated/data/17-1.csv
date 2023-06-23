@@ -1,25 +1,25 @@
-Year,Region,gruppe.beschaeftigt,Value
-2011,Enzkreis,Entwicklungspolitische Projekte (Anzahl),2.0
-2012,Enzkreis,Entwicklungspolitische Projekte (Anzahl),3.0
-2013,Enzkreis,Entwicklungspolitische Projekte (Anzahl),4.0
-2014,Enzkreis,Entwicklungspolitische Projekte (Anzahl),3.0
-2015,Enzkreis,Entwicklungspolitische Projekte (Anzahl),5.0
-2016,Enzkreis,Entwicklungspolitische Projekte (Anzahl),3.0
-2017,Enzkreis,Entwicklungspolitische Projekte (Anzahl),4.0
-2018,Enzkreis,Entwicklungspolitische Projekte (Anzahl),5.0
-2019,Enzkreis,Entwicklungspolitische Projekte (Anzahl),11.0
-2020,Enzkreis,Entwicklungspolitische Projekte (Anzahl),11.0
-2021,Enzkreis,Entwicklungspolitische Projekte (Anzahl),13.0
-2022,Enzkreis,Entwicklungspolitische Projekte (Anzahl),13.0
-2011,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.1
-2012,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.16
-2013,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.21
-2014,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
-2015,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.26
-2016,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
-2017,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.2
-2018,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.25
-2019,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
-2020,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
-2021,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65
-2022,Enzkreis,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65
+Year,Units,gruppe.beschaeftigt,Value
+2011,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,2.0
+2012,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2013,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,4.0
+2014,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2015,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,5.0
+2016,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2017,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,4.0
+2018,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,5.0
+2019,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,11.0
+2020,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,11.0
+2021,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,13.0
+2022,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,13.0
+2011,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.1
+2012,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.16
+2013,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.21
+2014,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
+2015,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.26
+2016,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
+2017,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.2
+2018,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.25
+2019,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
+2020,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
+2021,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65
+2022,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65

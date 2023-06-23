@@ -15,11 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Anzahl Projekte",
+                "Projekte je 10 tsd. Einwohner",
                 ""
               ]
             }
@@ -29,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Entwicklungspolitische Projekte (Anzahl)",
+                "Anzahl entwicklungspolitischer Projekte",
                 "Entwicklungspolitische Projekte (je 10 tsd. EW)",
                 ""
               ]
