@@ -3514,7 +3514,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -3523,7 +3523,7 @@
             "constraints": {
               "enum": [
                 "Streuobstwiesenfläche Enzkreis",
-                "übriges Kreisgebiet Enzkreis",
+                "Übriges Kreisgebiet Enzkreis",
                 ""
               ]
             },
@@ -3531,7 +3531,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
