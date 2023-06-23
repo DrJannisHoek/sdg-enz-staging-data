@@ -1,21 +1,17 @@
-Year,Region,gruppe.beschaeftigt,Value
-2012,Enzkreis,Ordentliche Aufwendungen,154919
-2013,Enzkreis,Ordentliche Aufwendungen,166725
-2014,Enzkreis,Ordentliche Aufwendungen,177426
-2015,Enzkreis,Ordentliche Aufwendungen,186350
-2016,Enzkreis,Ordentliche Aufwendungen,218622
-2017,Enzkreis,Ordentliche Aufwendungen,218609
-2018,Enzkreis,Ordentliche Aufwendungen,229988
-2019,Enzkreis,Ordentliche Aufwendungen,234352
-2020,Enzkreis,Ordentliche Aufwendungen,245917
-2021,Enzkreis,Ordentliche Aufwendungen,259837
-2012,Enzkreis,Verschuldung im Kernhaushalt,27690
-2013,Enzkreis,Verschuldung im Kernhaushalt,31087
-2014,Enzkreis,Verschuldung im Kernhaushalt,27941
-2015,Enzkreis,Verschuldung im Kernhaushalt,31191
-2016,Enzkreis,Verschuldung im Kernhaushalt,38983
-2017,Enzkreis,Verschuldung im Kernhaushalt,34113
-2018,Enzkreis,Verschuldung im Kernhaushalt,29263
-2019,Enzkreis,Verschuldung im Kernhaushalt,27209
-2020,Enzkreis,Verschuldung im Kernhaushalt,21877
-2021,Enzkreis,Verschuldung im Kernhaushalt,17907
+Year,Region,Steuerpotenzial,Value
+2013,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,982
+2014,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1041
+2015,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1083
+2016,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1103
+2017,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1175
+2018,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1227
+2019,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1284
+2020,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1281
+2013,Land BW,Realisiertes Steuerpotenzial je Einwohner,1178
+2014,Land BW,Realisiertes Steuerpotenzial je Einwohner,1250
+2015,Land BW,Realisiertes Steuerpotenzial je Einwohner,1295
+2016,Land BW,Realisiertes Steuerpotenzial je Einwohner,1335
+2017,Land BW,Realisiertes Steuerpotenzial je Einwohner,1417
+2018,Land BW,Realisiertes Steuerpotenzial je Einwohner,1475
+2019,Land BW,Realisiertes Steuerpotenzial je Einwohner,1537
+2020,Land BW,Realisiertes Steuerpotenzial je Einwohner,1541
