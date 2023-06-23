@@ -1772,22 +1772,22 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Steuerpotenzial",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ordentliche Aufwendungen",
-                "Verschuldung im Kernhaushalt",
+                "Realisiertes Steuerpotenzial je Einwohner",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Steuerpotenzial"
           },
           {
             "name": "Value",
