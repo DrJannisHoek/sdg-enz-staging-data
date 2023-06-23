@@ -1818,8 +1818,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ordentliche Aufwendungen",
-                "Verschuldung im Kernhaushalt",
+                "Ordentliche Aufwendungen (Enzkreis)",
+                "Verschuldung im Kernhaushalt (Enzkreis)",
                 ""
               ]
             },
