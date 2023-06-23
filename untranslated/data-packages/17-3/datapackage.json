@@ -12,32 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Zeichnungskommunen [abs.]",
+                "Zeichnungskommunen  [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Agenda.2030",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeichnungskommunen der Agenda 2030 [abs.]",
-                "Zeichnungskommunen der Agenda 2030 [Anteil %]",
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.]",
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [%]",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
