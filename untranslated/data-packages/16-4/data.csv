@@ -1,7 +1,6 @@
-Year,Region,gruppe.beschaeftigt,Value
-1999.0,Enzkreis,Wahlbeteiligung,54.0
-2004.0,Enzkreis,Wahlbeteiligung,52.0
-2009.0,Enzkreis,Wahlbeteiligung,51.0
-2014.0,Enzkreis,Wahlbeteiligung,50.0
-2019.0,Enzkreis,Wahlbeteiligung,61.0
-,,,
+Year,Politische.Partizipation,Value
+1999,Wahlbeteiligung bei Kreistagswahlen (Enzkreis),54
+2004,Wahlbeteiligung bei Kreistagswahlen (Enzkreis),52
+2009,Wahlbeteiligung bei Kreistagswahlen (Enzkreis),51
+2014,Wahlbeteiligung bei Kreistagswahlen (Enzkreis),50
+2019,Wahlbeteiligung bei Kreistagswahlen (Enzkreis),61

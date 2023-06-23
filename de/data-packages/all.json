@@ -597,34 +597,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Politische.Partizipation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Wahlbeteiligung bei Kreistagswahlen (Enzkreis)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wahlbeteiligung",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Politische.Partizipation"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
