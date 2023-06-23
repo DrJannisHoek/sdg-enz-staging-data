@@ -1,22 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Anteil EEQ am Stromverbrauch [%],1,1
 Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
-Bannwald,1,1
 Beschäftigungsquote 55 - 64-Jährige,4,2
 Beschäftigungsquote,4,2
-Bodenschutz,1,1
 Bruttoinlandsprodukt,2,1
 EEQ Stromverbrauch [MWh],1,1
-Erholungswald Stufe 2,1,1
 Frauen in Teilzeit,1,1
 Frauen,1,1
 Frauenanteil im Kreistag des Enzkreises,1,1
 "Gewerbe, sonstiges",1,1
-Immissionsschutz,1,1
 Index,1,1
 Industrie,1,1
-Klimaschutz,1,1
-Landschaftsschutzgebiet,1,1
 Langzeitarbeitslosenquote,2,1
 Liegenschaften Landratsamt (witterungsbereinigt),1,1
 Medianeinkommen - Frauen,1,1
@@ -25,16 +19,11 @@ Medianeinkommen - Männer,1,1
 Männer in Teilzeit,1,1
 Männer,1,1
 Männeranteil im Kreistag des Enzkreises,1,1
-Naturdenkmal,1,1
-Naturpark,1,1
-Naturschutzgebiet,1,1
 Normalladepunkte,1,1
 Ordentliche Aufwendungen,1,1
 Private Haushalte,1,1
 Realisiertes Steuerpotenzial je Einwohner,2,1
 Schnellladepunkte,1,1
-Schonwald,1,1
-Sichtschutz,1,1
 Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],1,1
 Sozialversicherungspflichtig beschäftigte Frauen,1,1
 Sozialversicherungspflichtig beschäftigte Frauen [%],1,1
@@ -44,8 +33,6 @@ Verdienstabstand Frauen - Männer,2,1
 Verkehr,1,1
 Verschuldung im Kernhaushalt,1,1
 Wahlbeteiligung,1,1
-Waldrefugien,1,1
-Wasser- und Quellschutzgebiete,1,1
 Wasserkraftanlagen - Anforderungen erfüllt,1,1
 Wasserkraftanlagen - Anforderungen noch nicht erfüllt,1,1
 Wasserschutzgebiete (fachtechn. abgegrenzt),1,1
