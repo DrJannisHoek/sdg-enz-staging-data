@@ -1448,7 +1448,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Entwicklungspol.Engagement",
             "type": "string",
             "constraints": {
               "enum": [

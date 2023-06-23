@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Entwicklungspol.Engagement",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Entwicklungspol.Engagement"
           },
           {
             "name": "Value",
