@@ -1704,22 +1704,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Mitteleinsatz (pro Jahr)",
+                "Mitteleinsatz (kumuliert)",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Eigenmittel.Fördermittel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1730,11 +1731,11 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Eigenmittel.Fördermittel"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

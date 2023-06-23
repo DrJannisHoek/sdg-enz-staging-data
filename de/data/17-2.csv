@@ -1,50 +1,49 @@
-Year,Region,gruppe.beschaeftigt,Value
-2011.0,Enzkreis,Aufgewendete Eigenmittel [€],9342.0
-2012.0,Enzkreis,Aufgewendete Eigenmittel [€],4787.0
-2013.0,Enzkreis,Aufgewendete Eigenmittel [€],7910.0
-2014.0,Enzkreis,Aufgewendete Eigenmittel [€],2208.0
-2015.0,Enzkreis,Aufgewendete Eigenmittel [€],13260.0
-2016.0,Enzkreis,Aufgewendete Eigenmittel [€],5331.0
-2017.0,Enzkreis,Aufgewendete Eigenmittel [€],3159.0
-2018.0,Enzkreis,Aufgewendete Eigenmittel [€],19251.0
-2019.0,Enzkreis,Aufgewendete Eigenmittel [€],11797.0
-2020.0,Enzkreis,Aufgewendete Eigenmittel [€],20853.0
-2021.0,Enzkreis,Aufgewendete Eigenmittel [€],44051.0
-2022.0,Enzkreis,Aufgewendete Eigenmittel [€],37070.0
-2011.0,Enzkreis,Akquirierte Fördermittel [€],0.0
-2012.0,Enzkreis,Akquirierte Fördermittel [€],0.0
-2013.0,Enzkreis,Akquirierte Fördermittel [€],39552.0
-2014.0,Enzkreis,Akquirierte Fördermittel [€],20435.0
-2015.0,Enzkreis,Akquirierte Fördermittel [€],1000.0
-2016.0,Enzkreis,Akquirierte Fördermittel [€],109333.0
-2017.0,Enzkreis,Akquirierte Fördermittel [€],95494.0
-2018.0,Enzkreis,Akquirierte Fördermittel [€],213986.0
-2019.0,Enzkreis,Akquirierte Fördermittel [€],82314.0
-2020.0,Enzkreis,Akquirierte Fördermittel [€],95842.0
-2021.0,Enzkreis,Akquirierte Fördermittel [€],170484.0
-2022.0,Enzkreis,Akquirierte Fördermittel [€],407417.0
-2011.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],9342.0
-2012.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],14129.0
-2013.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],22038.0
-2014.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],24246.0
-2015.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],37507.0
-2016.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],42837.0
-2017.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],45996.0
-2018.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],65248.0
-2019.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],77045.0
-2020.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],97897.0
-2021.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],141949.0
-2022.0,Enzkreis,Aufgewendete Eigenmittel (kumuliert) [€],179019.0
-2011.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],0.0
-2012.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],0.0
-2013.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],39552.0
-2014.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],59987.0
-2015.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],60987.0
-2016.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],170320.0
-2017.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],265814.0
-2018.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],479800.0
-2019.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],562114.0
-2020.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],657956.0
-2021.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],828440.0
-2022.0,Enzkreis,Akquirierte Fördermittel (kumuliert) [€],1235857.0
-,,,
+Year,Units,Eigenmittel.Fördermittel,Value
+2011,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],9342
+2012,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],4787
+2013,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],7910
+2014,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],2208
+2015,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],13260
+2016,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],5331
+2017,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],3159
+2018,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],19251
+2019,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],11797
+2020,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],20853
+2021,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],44051
+2022,Mitteleinsatz (pro Jahr),Aufgewendete Eigenmittel [€],37070
+2011,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],0
+2012,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],0
+2013,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],39552
+2014,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],20435
+2015,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],1000
+2016,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],109333
+2017,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],95494
+2018,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],213986
+2019,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],82314
+2020,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],95842
+2021,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],170484
+2022,Mitteleinsatz (pro Jahr),Akquirierte Fördermittel [€],407417
+2011,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],9342
+2012,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],14129
+2013,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],22038
+2014,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],24246
+2015,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],37507
+2016,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],42837
+2017,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],45996
+2018,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],65248
+2019,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],77045
+2020,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],97897
+2021,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],141949
+2022,Mitteleinsatz (kumuliert),Aufgewendete Eigenmittel (kumuliert) [€],179019
+2011,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],0
+2012,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],0
+2013,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],39552
+2014,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],59987
+2015,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],60987
+2016,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],170320
+2017,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],265814
+2018,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],479800
+2019,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],562114
+2020,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],657956
+2021,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],828440
+2022,Mitteleinsatz (kumuliert),Akquirierte Fördermittel (kumuliert) [€],1235857
