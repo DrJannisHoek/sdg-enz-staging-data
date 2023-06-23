@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Steuerpotenzial",
             "type": "string",
             "constraints": {
               "enum": [
-                "Realisiertes Steuerpotenzial je Einwohner",
+                "Realisiertes Steuerpotenzial je Einwohner - Enzkreis",
+                "Realisiertes Steuerpotenzial je Einwohner - Land BW",
                 ""
               ]
             }

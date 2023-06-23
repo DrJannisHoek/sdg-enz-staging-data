@@ -15,22 +15,12 @@
             "type": "number"
           },
           {
-            "name": "Region",
+            "name": "Straftaten",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Realisiertes Steuerpotenzial je Einwohner",
+                "Straftaten je 1.000 Einwohner/-innen (Enzkreis)",
+                "Straftaten je 1.000 Einwohner/-innen (Land BW)",
                 ""
               ]
             }

@@ -1767,23 +1767,12 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Steuerpotenzial",
             "type": "string",
             "constraints": {
               "enum": [
-                "Realisiertes Steuerpotenzial je Einwohner",
+                "Realisiertes Steuerpotenzial je Einwohner - Enzkreis",
+                "Realisiertes Steuerpotenzial je Einwohner - Land BW",
                 ""
               ]
             },
@@ -3021,27 +3010,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Straftaten",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Straftaten je 1.000 Einwohner/-innen (Enzkreis)",
+                "Straftaten je 1.000 Einwohner/-innen (Land BW)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Realisiertes Steuerpotenzial je Einwohner",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Straftaten"
           },
           {
             "name": "Value",

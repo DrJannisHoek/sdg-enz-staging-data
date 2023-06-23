@@ -1,18 +1,18 @@
-Year,Region,gruppe.beschaeftigt,Value
-2013.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,982.0
-2014.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1041.0
-2015.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1083.0
-2016.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1103.0
-2017.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1175.0
-2018.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1227.0
-2019.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1284.0
-2020.0,Enzkreis,Realisiertes Steuerpotenzial je Einwohner,1281.0
-2013.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1178.0
-2014.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1250.0
-2015.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1295.0
-2016.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1335.0
-2017.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1417.0
-2018.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1475.0
-2019.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1537.0
-2020.0,Land BW,Realisiertes Steuerpotenzial je Einwohner,1541.0
-,,,
+Year,Straftaten,Value
+2013.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),982.0
+2014.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1041.0
+2015.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1083.0
+2016.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1103.0
+2017.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1175.0
+2018.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1227.0
+2019.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1284.0
+2020.0,Straftaten je 1.000 Einwohner/-innen (Enzkreis),1281.0
+2013.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1178.0
+2014.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1250.0
+2015.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1295.0
+2016.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1335.0
+2017.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1417.0
+2018.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1475.0
+2019.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1537.0
+2020.0,Straftaten je 1.000 Einwohner/-innen (Land BW),1541.0
+,,
