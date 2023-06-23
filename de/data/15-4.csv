@@ -1,7 +1,6 @@
-Year,Region,gruppe.beschaeftigt,Value
-2022.0,Enzkreis,Naturparks,47.0
-2022.0,Enzkreis,Landschaftsschutzgebiete,21.0
-2022.0,Enzkreis,Flora-Fauna-Habitat-Gebiete (FFH),18.0
-2022.0,Enzkreis,Vogelschutz-Gebiete (SPA),4.0
-2022.0,Enzkreis,Naturschutzgebiete,3.0
-,,,
+Year,Schutzgebiet,Value
+2022,Naturparks,47
+2022,Landschaftsschutzgebiete,21
+2022,Flora-Fauna-Habitat-Gebiete (FFH),18
+2022,Vogelschutz-Gebiete (SPA),4
+2022,Naturschutzgebiete,3

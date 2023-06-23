@@ -353,22 +353,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schutzgebiet",
             "type": "string",
             "constraints": {
               "enum": [
@@ -380,11 +369,11 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Schutzgebiet"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
