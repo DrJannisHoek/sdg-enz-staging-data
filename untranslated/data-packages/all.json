@@ -33,7 +33,6 @@
             "constraints": {
               "enum": [
                 "Sozialversicherungspflichtig beschäftigte Männer (abs.)",
-                "Sozialversicherungspflichtig beschäftigte Frauen  (abs.)",
                 "Sozialversicherungspflichtig beschäftigte Frauen (abs.)",
                 "Männer in Teilzeit (abs.)",
                 "Frauen in Teilzeit (abs.)",
