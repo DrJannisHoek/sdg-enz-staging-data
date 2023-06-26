@@ -69,20 +69,6 @@ Year,Units,Region,Fahrzeugart,Value
 2019,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6383
 2020,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6425
 2021,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6497
-2008,Kfz je 1.000 Einwohner,Land BW,,634
-2009,Kfz je 1.000 Einwohner,Land BW,,638
-2010,Kfz je 1.000 Einwohner,Land BW,,646
-2011,Kfz je 1.000 Einwohner,Land BW,,655
-2012,Kfz je 1.000 Einwohner,Land BW,,682
-2013,Kfz je 1.000 Einwohner,Land BW,,690
-2014,Kfz je 1.000 Einwohner,Land BW,,700
-2015,Kfz je 1.000 Einwohner,Land BW,,702
-2016,Kfz je 1.000 Einwohner,Land BW,,705
-2017,Kfz je 1.000 Einwohner,Land BW,,715
-2018,Kfz je 1.000 Einwohner,Land BW,,723
-2019,Kfz je 1.000 Einwohner,Land BW,,733
-2020,Kfz je 1.000 Einwohner,Land BW,,744
-2021,Kfz je 1.000 Einwohner,Land BW,,753
 2008,Kfz je 1.000 Einwohner,Enzkreis,,683
 2009,Kfz je 1.000 Einwohner,Enzkreis,,689
 2010,Kfz je 1.000 Einwohner,Enzkreis,,699
@@ -97,3 +83,17 @@ Year,Units,Region,Fahrzeugart,Value
 2019,Kfz je 1.000 Einwohner,Enzkreis,,796
 2020,Kfz je 1.000 Einwohner,Enzkreis,,807
 2021,Kfz je 1.000 Einwohner,Enzkreis,,819
+2008,Kfz je 1.000 Einwohner,Land BW,,634
+2009,Kfz je 1.000 Einwohner,Land BW,,638
+2010,Kfz je 1.000 Einwohner,Land BW,,646
+2011,Kfz je 1.000 Einwohner,Land BW,,655
+2012,Kfz je 1.000 Einwohner,Land BW,,682
+2013,Kfz je 1.000 Einwohner,Land BW,,690
+2014,Kfz je 1.000 Einwohner,Land BW,,700
+2015,Kfz je 1.000 Einwohner,Land BW,,702
+2016,Kfz je 1.000 Einwohner,Land BW,,705
+2017,Kfz je 1.000 Einwohner,Land BW,,715
+2018,Kfz je 1.000 Einwohner,Land BW,,723
+2019,Kfz je 1.000 Einwohner,Land BW,,733
+2020,Kfz je 1.000 Einwohner,Land BW,,744
+2021,Kfz je 1.000 Einwohner,Land BW,,753
