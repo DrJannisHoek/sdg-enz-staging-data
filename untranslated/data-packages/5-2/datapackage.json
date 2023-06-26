@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medianeinkommen",
-                "Verdienstabstand",
+                "Medianeinkommen [€]",
+                "Verdienstabstand [%]",
                 ""
               ]
             }
