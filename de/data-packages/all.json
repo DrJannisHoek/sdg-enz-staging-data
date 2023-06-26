@@ -1470,28 +1470,29 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
+                "Relative Armut von Frauen und Männern",
                 "Index",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
+          },
+          {
+            "name": "Armutsproportionen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen (Enzkreis)",
+                "Männer (Enzkreis)",
+                "Index",
+                ""
+              ]
+            },
+            "title": "Armutsproportionen"
           },
           {
             "name": "Value",

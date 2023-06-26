@@ -15,22 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Relative Armut von Frauen und Männern",
+                "Index",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Armutsproportionen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauen",
-                "Männer",
+                "Frauen (Enzkreis)",
+                "Männer (Enzkreis)",
                 "Index",
                 ""
               ]
