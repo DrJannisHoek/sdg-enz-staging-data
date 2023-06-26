@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "ÖPNV",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beförderungsfälle Regionalverkehr (Enzkreis)",
-                "Fahrplan-km/Jahr (Enzkreis)",
+                "Beförderungsfälle Regionalverkehr [abs.]",
+                "Fahrplan-km/Jahr [abs.]",
                 ""
               ]
             },
-            "title": "ÖPNV"
+            "title": "Units"
           },
           {
             "name": "Value",
