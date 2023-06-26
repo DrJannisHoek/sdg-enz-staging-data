@@ -2426,15 +2426,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "ÖPNV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beförderungsfälle Regionalverkehr",
-                "Fahrplan-km/Jahr",
+                "Beförderungsfälle Regionalverkehr (Enzkreis)",
+                "Fahrplan-km/Jahr (Enzkreis)",
                 ""
               ]
             }

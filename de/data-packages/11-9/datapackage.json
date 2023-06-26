@@ -12,20 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
+            "name": "ÖPNV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beförderungsfälle Regionalverkehr",
-                "Fahrplan-km/Jahr",
+                "Beförderungsfälle Regionalverkehr (Enzkreis)",
+                "Fahrplan-km/Jahr (Enzkreis)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "ÖPNV"
           },
           {
             "name": "Value",
