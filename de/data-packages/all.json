@@ -2908,18 +2908,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Geschlechterverhältnis",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2928,7 +2917,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Geschlechterverhältnis"
           },
           {
             "name": "Value",
