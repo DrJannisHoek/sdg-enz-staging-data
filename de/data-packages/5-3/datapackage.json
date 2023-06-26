@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "Relative Armut von Frauen und Männern",
-                "Index",
+                "Armutsproportionen",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Armutsproportionen",
+            "name": "Verhältnis",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Armutsproportionen"
+            "title": "Verhältnis"
           },
           {
             "name": "Value",
