@@ -1,24 +1,23 @@
-Year,Units,Value
-2012,Beförderungsfälle Regionalverkehr,"10849000 "
-2013,Beförderungsfälle Regionalverkehr,"11529000 "
-2014,Beförderungsfälle Regionalverkehr,"11476000 "
-2015,Beförderungsfälle Regionalverkehr,"11522000 "
-2016,Beförderungsfälle Regionalverkehr,"11605000 "
-2017,Beförderungsfälle Regionalverkehr,"11617000 "
-2018,Beförderungsfälle Regionalverkehr,"11629000 "
-2019,Beförderungsfälle Regionalverkehr,"11640000 "
-2020,Beförderungsfälle Regionalverkehr,"10193000 "
-2021,Beförderungsfälle Regionalverkehr,"10196000 "
-2022,Beförderungsfälle Regionalverkehr,
-2012,Fahrplan-km/Jahr,7189000
-2013,Fahrplan-km/Jahr,7189000
-2014,Fahrplan-km/Jahr,7376000
-2015,Fahrplan-km/Jahr,7376000
-2016,Fahrplan-km/Jahr,7469000
-2017,Fahrplan-km/Jahr,7469000
-2018,Fahrplan-km/Jahr,7566000
-2019,Fahrplan-km/Jahr,8073000
-2020,Fahrplan-km/Jahr,8073000
-2021,Fahrplan-km/Jahr,8132000
-2022,Fahrplan-km/Jahr,8642000
-,,
+Year,ÖPNV,Value
+2012,Beförderungsfälle Regionalverkehr (Enzkreis),"10849000 "
+2013,Beförderungsfälle Regionalverkehr (Enzkreis),"11529000 "
+2014,Beförderungsfälle Regionalverkehr (Enzkreis),"11476000 "
+2015,Beförderungsfälle Regionalverkehr (Enzkreis),"11522000 "
+2016,Beförderungsfälle Regionalverkehr (Enzkreis),"11605000 "
+2017,Beförderungsfälle Regionalverkehr (Enzkreis),"11617000 "
+2018,Beförderungsfälle Regionalverkehr (Enzkreis),"11629000 "
+2019,Beförderungsfälle Regionalverkehr (Enzkreis),"11640000 "
+2020,Beförderungsfälle Regionalverkehr (Enzkreis),"10193000 "
+2021,Beförderungsfälle Regionalverkehr (Enzkreis),"10196000 "
+2022,Beförderungsfälle Regionalverkehr (Enzkreis),
+2012,Fahrplan-km/Jahr (Enzkreis),7189000
+2013,Fahrplan-km/Jahr (Enzkreis),7189000
+2014,Fahrplan-km/Jahr (Enzkreis),7376000
+2015,Fahrplan-km/Jahr (Enzkreis),7376000
+2016,Fahrplan-km/Jahr (Enzkreis),7469000
+2017,Fahrplan-km/Jahr (Enzkreis),7469000
+2018,Fahrplan-km/Jahr (Enzkreis),7566000
+2019,Fahrplan-km/Jahr (Enzkreis),8073000
+2020,Fahrplan-km/Jahr (Enzkreis),8073000
+2021,Fahrplan-km/Jahr (Enzkreis),8132000
+2022,Fahrplan-km/Jahr (Enzkreis),8642000
