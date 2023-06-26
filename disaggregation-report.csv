@@ -14,6 +14,7 @@ CO2-Emissionen,1,1
 Durchschnittspreise,1,2
 Eigenmittel.Fördermittel,1,4
 Einkommensklassen,1,3
+Einkommensverteilung,1,5
 Emittenten,3,9
 Engagement,1,1
 Entwicklungspol.Engagement,1,2
@@ -26,7 +27,7 @@ Glasfaserversorgung,1,1
 grupp.armut,1,2
 gruppe.abschluss,1,3
 gruppe.ambulant,1,4
-gruppe.beschaeftigt,12,28
+gruppe.beschaeftigt,11,24
 gruppe.betreuung,1,3
 gruppe.betrieb,1,2
 gruppe.betten,1,1
@@ -51,7 +52,7 @@ Nutzung,1,2
 Nutzungsarten,1,5
 Politische.Partizipation,1,1
 Recyclingpapier,1,1
-Region,59,4
+Region,58,4
 Schadensart,1,2
 Schulabbrecherquote,1,1
 Schutzgebiet,1,5
