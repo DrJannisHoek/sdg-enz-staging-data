@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasserkraftanlagen",
+                "Wasserkraftanlagen [Anzahl]",
                 "Umsetzungsgrad [%]",
                 ""
               ]
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasserkraftanlagen - Anforderungen erfüllt",
-                "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
+                "Wasserkraftanlagen erfüllen Anforderungen",
+                "Wasserkraftanlagen erfüllen Anforderungen noch nicht",
                 ""
               ]
             }
