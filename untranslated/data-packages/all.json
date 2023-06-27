@@ -836,8 +836,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Endenergieverbrauch",
-                "Anteil Erneuerbarer Energien",
+                "Endenergieverbrauch [kWh]",
+                "Anteil Erneuerbarer Energien [%]",
                 ""
               ]
             }
