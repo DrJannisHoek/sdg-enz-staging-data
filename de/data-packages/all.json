@@ -2050,7 +2050,7 @@
             "constraints": {
               "enum": [
                 "Private Haushalte",
-                "Gewerbe, sonstiges",
+                "Gewerbe und sonstiges",
                 "Industrie",
                 "Verkehr",
                 ""
