@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relative Armut von Frauen und Männern",
+                "Relative Armut von Frauen und Männern [%]",
                 "Armutsproportionen",
                 ""
               ]
