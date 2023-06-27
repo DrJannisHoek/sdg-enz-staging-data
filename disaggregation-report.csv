@@ -28,7 +28,7 @@ Glasfaserversorgung,1,1
 grupp.armut,1,2
 gruppe.abschluss,1,3
 gruppe.ambulant,1,4
-gruppe.beschaeftigt,7,14
+gruppe.beschaeftigt,6,12
 gruppe.betreuung,1,3
 gruppe.betrieb,1,2
 gruppe.betten,1,1
@@ -45,6 +45,7 @@ gruppe.sterbefälle,1,1
 gruppe.stickstoffüberschuss,1,1
 Hochqualifizierte,1,1
 Klimaschutzpakt BW,1,1
+Landratsamt,1,2
 Landschaftsqualität,1,4
 Mietpreise,1,1
 Nachhaltige Antriebstechniken,1,2
@@ -53,7 +54,7 @@ Nutzung,1,2
 Nutzungsarten,1,5
 Politische.Partizipation,1,1
 Recyclingpapier,1,1
-Region,54,4
+Region,53,4
 Schadensart,1,2
 Schulabbrecherquote,1,1
 Schutzgebiet,1,5

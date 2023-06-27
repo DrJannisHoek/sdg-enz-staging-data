@@ -832,17 +832,18 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Endenergieverbrauch",
+                "Anteil Erneuerbarer Energien",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Landratsamt",
             "type": "string",
             "constraints": {
               "enum": [

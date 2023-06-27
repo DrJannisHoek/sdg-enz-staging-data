@@ -1,6 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Anteil EEQ am Stromverbrauch [%],1,1
-Anteil Erneuerbarer Energien (Liegenschaften Landratsamt),1,1
 Beschäftigungsquote 55 - 64-Jährige,2,1
 Beschäftigungsquote,2,1
 Bruttoinlandsprodukt,2,1
@@ -8,7 +7,6 @@ EEQ Stromverbrauch [MWh],1,1
 "Gewerbe, sonstiges",1,1
 Industrie,1,1
 Langzeitarbeitslosenquote,2,1
-Liegenschaften Landratsamt (witterungsbereinigt),1,1
 Normalladepunkte,1,1
 Private Haushalte,1,1
 Schnellladepunkte,1,1
