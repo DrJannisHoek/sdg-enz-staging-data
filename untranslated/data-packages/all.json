@@ -1521,7 +1521,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -1529,7 +1529,7 @@
             "type": "integer"
           },
           {
-            "name": "E-Ladepunkte",
+            "name": "Ladesäuleninfrastruktur",
             "type": "string",
             "constraints": {
               "enum": [
