@@ -2119,18 +2119,19 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "EEQ-Verbrauch [MWh]",
+                "EEQ-Anteil [%]",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "EEQ",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2139,7 +2140,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "EEQ"
           },
           {
             "name": "Value",
