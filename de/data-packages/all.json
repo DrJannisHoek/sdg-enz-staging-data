@@ -3846,7 +3846,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Breitbandversorgung (>50 Mbit/s)",
+                "Breitbandversorgung (≥50 Mbit/s)",
                 ""
               ]
             },
