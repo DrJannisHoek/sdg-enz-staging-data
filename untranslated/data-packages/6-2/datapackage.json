@@ -15,23 +15,33 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Wasserkraftanlagen",
+                "Umsetzungsgrad [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Wiederherstellung.WKA",
             "type": "string",
             "constraints": {
               "enum": [
                 "Wasserkraftanlagen - Anforderungen erfüllt",
                 "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
-                "Umsetzungsgrad",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Umsetzungsgrad.WKA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umsetzungsgrad der Wiederherstellung [%]",
                 ""
               ]
             }
