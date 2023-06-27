@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "E-Ladepunkte",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normalladepunkte",
-                "Schnellladepunkte",
+                "Normalladepunkte (Enzkreis)",
+                "Schnellladepunkte (Enzkreis)",
                 ""
               ]
             }

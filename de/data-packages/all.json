@@ -1666,27 +1666,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "E-Ladepunkte",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Normalladepunkte (Enzkreis)",
+                "Schnellladepunkte (Enzkreis)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normalladepunkte",
-                "Schnellladepunkte",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "E-Ladepunkte"
           },
           {
             "name": "Value",
