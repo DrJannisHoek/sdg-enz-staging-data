@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Durchschnittspreise (Enzkreis)",
-                "Fläche - Baureifes Land [1.000 m²]",
+                "Fläche - Baureifes Land (Enzkreis)",
                 "Preisindex für Bauland (Deutschland)",
                 ""
               ]
@@ -39,6 +39,28 @@
               ]
             },
             "title": "Durchschnittspreise"
+          },
+          {
+            "name": "Fläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fläche - Baureifes Land Enzkreis  [1.000 m²]",
+                ""
+              ]
+            },
+            "title": "Fläche"
+          },
+          {
+            "name": "Preisentwicklung Deutschland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Preisindex Deutschland",
+                ""
+              ]
+            },
+            "title": "Preisentwicklung Deutschland"
           },
           {
             "name": "Value",
