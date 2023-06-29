@@ -2780,7 +2780,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Umsetzungsgrad der Wiederherstellung [%]",
+                "Wiederherstellung erfolgt [%]",
+                "Wiederherstellung noch nicht erfolgt [%]",
                 ""
               ]
             }
