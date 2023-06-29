@@ -1,4 +1,5 @@
 Year,Units,Wiederherstellung.WKA,Umsetzungsgrad.WKA,Value
 2022,Wasserkraftanlagen [Anzahl],Wasserkraftanlagen erfüllen Anforderungen,,12
 2022,Wasserkraftanlagen [Anzahl],Wasserkraftanlagen erfüllen Anforderungen noch nicht,,18
-2022,Umsetzungsgrad [%],,Umsetzungsgrad der Wiederherstellung [%],40
+2022,Umsetzungsgrad [%],,Wiederherstellung erfolgt [%],40
+2022,Umsetzungsgrad [%],,Wiederherstellung noch nicht erfolgt [%],60
