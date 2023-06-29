@@ -2905,17 +2905,6 @@
             "title": "Units"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {

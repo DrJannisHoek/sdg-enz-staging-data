@@ -26,16 +26,6 @@
             }
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
