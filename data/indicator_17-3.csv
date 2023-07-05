@@ -1,18 +1,17 @@
-Year,Region,gruppe.beschaeftigt,Value
-2015,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2016,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2017,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2018,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2019,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2020,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2021,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],0
-2022,Enzkreis,Zeichnungskommunen der Agenda 2030 [abs.],4
-2015,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2016,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2017,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2018,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2019,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2020,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2021,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],0
-2022,Enzkreis,Zeichnungskommunen der Agenda 2030 [Anteil %],14
-,,,
+Year,Units,Agenda.2030,Value
+2015,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2016,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2017,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2018,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2019,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2020,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2021,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],0
+2022,Zeichnungskommunen [abs.],Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.],4
+2015,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2016,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2017,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2018,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2019,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2020,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2021,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],0
+2022,Zeichnungskommunen  [%],Zeichnungskommunen der Agenda 2030 im Enzkreis [%],14

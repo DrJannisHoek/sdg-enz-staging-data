@@ -1,100 +1,99 @@
-Year,Region,gruppe.beschaeftigt,Value
-2008,Enzkreis,Krafträder,11966
-2009,Enzkreis,Krafträder,12267
-2010,Enzkreis,Krafträder,12606
-2011,Enzkreis,Krafträder,12855
-2012,Enzkreis,Krafträder,13152
-2013,Enzkreis,Krafträder,13452
-2014,Enzkreis,Krafträder,13764
-2015,Enzkreis,Krafträder,14000
-2016,Enzkreis,Krafträder,14250
-2017,Enzkreis,Krafträder,14475
-2018,Enzkreis,Krafträder,14735
-2019,Enzkreis,Krafträder,14861
-2020,Enzkreis,Krafträder,15144
-2021,Enzkreis,Krafträder,15724
-2008,Enzkreis,Personenkraftwagen,110080
-2009,Enzkreis,Personenkraftwagen,110398
-2010,Enzkreis,Personenkraftwagen,111482
-2011,Enzkreis,Personenkraftwagen,113339
-2012,Enzkreis,Personenkraftwagen,115340
-2013,Enzkreis,Personenkraftwagen,116839
-2014,Enzkreis,Personenkraftwagen,118543
-2015,Enzkreis,Personenkraftwagen,120582
-2016,Enzkreis,Personenkraftwagen,122957
-2017,Enzkreis,Personenkraftwagen,125673
-2018,Enzkreis,Personenkraftwagen,127963
-2019,Enzkreis,Personenkraftwagen,130447
-2020,Enzkreis,Personenkraftwagen,132323
-2021,Enzkreis,Personenkraftwagen,134056
-2008,Enzkreis,Kraftomnibusse,103
-2009,Enzkreis,Kraftomnibusse,105
-2010,Enzkreis,Kraftomnibusse,112
-2011,Enzkreis,Kraftomnibusse,115
-2012,Enzkreis,Kraftomnibusse,113
-2013,Enzkreis,Kraftomnibusse,112
-2014,Enzkreis,Kraftomnibusse,107
-2015,Enzkreis,Kraftomnibusse,113
-2016,Enzkreis,Kraftomnibusse,106
-2017,Enzkreis,Kraftomnibusse,121
-2018,Enzkreis,Kraftomnibusse,129
-2019,Enzkreis,Kraftomnibusse,137
-2020,Enzkreis,Kraftomnibusse,144
-2021,Enzkreis,Kraftomnibusse,128
-2008,Enzkreis,Lastkraftwagen,4841
-2009,Enzkreis,Lastkraftwagen,4933
-2010,Enzkreis,Lastkraftwagen,4865
-2011,Enzkreis,Lastkraftwagen,4980
-2012,Enzkreis,Lastkraftwagen,5252
-2013,Enzkreis,Lastkraftwagen,5380
-2014,Enzkreis,Lastkraftwagen,5457
-2015,Enzkreis,Lastkraftwagen,5633
-2016,Enzkreis,Lastkraftwagen,5838
-2017,Enzkreis,Lastkraftwagen,6123
-2018,Enzkreis,Lastkraftwagen,6311
-2019,Enzkreis,Lastkraftwagen,6567
-2020,Enzkreis,Lastkraftwagen,6779
-2021,Enzkreis,Lastkraftwagen,7120
-2008,Enzkreis,Zugmaschinen,5795
-2009,Enzkreis,Zugmaschinen,5798
-2010,Enzkreis,Zugmaschinen,5867
-2011,Enzkreis,Zugmaschinen,5929
-2012,Enzkreis,Zugmaschinen,6021
-2013,Enzkreis,Zugmaschinen,6004
-2014,Enzkreis,Zugmaschinen,5974
-2015,Enzkreis,Zugmaschinen,5983
-2016,Enzkreis,Zugmaschinen,6051
-2017,Enzkreis,Zugmaschinen,6158
-2018,Enzkreis,Zugmaschinen,6283
-2019,Enzkreis,Zugmaschinen,6383
-2020,Enzkreis,Zugmaschinen,6425
-2021,Enzkreis,Zugmaschinen,6497
-2008,Enzkreis,Kfz je 1.000 Einwohner,683
-2009,Enzkreis,Kfz je 1.000 Einwohner,689
-2010,Enzkreis,Kfz je 1.000 Einwohner,699
-2011,Enzkreis,Kfz je 1.000 Einwohner,719
-2012,Enzkreis,Kfz je 1.000 Einwohner,731
-2013,Enzkreis,Kfz je 1.000 Einwohner,738
-2014,Enzkreis,Kfz je 1.000 Einwohner,745
-2015,Enzkreis,Kfz je 1.000 Einwohner,749
-2016,Enzkreis,Kfz je 1.000 Einwohner,759
-2017,Enzkreis,Kfz je 1.000 Einwohner,771
-2018,Enzkreis,Kfz je 1.000 Einwohner,784
-2019,Enzkreis,Kfz je 1.000 Einwohner,796
-2020,Enzkreis,Kfz je 1.000 Einwohner,807
-2021,Enzkreis,Kfz je 1.000 Einwohner,819
-2008,Land BW,Kfz je 1.000 Einwohner,634
-2009,Land BW,Kfz je 1.000 Einwohner,638
-2010,Land BW,Kfz je 1.000 Einwohner,646
-2011,Land BW,Kfz je 1.000 Einwohner,655
-2012,Land BW,Kfz je 1.000 Einwohner,682
-2013,Land BW,Kfz je 1.000 Einwohner,690
-2014,Land BW,Kfz je 1.000 Einwohner,700
-2015,Land BW,Kfz je 1.000 Einwohner,702
-2016,Land BW,Kfz je 1.000 Einwohner,705
-2017,Land BW,Kfz je 1.000 Einwohner,715
-2018,Land BW,Kfz je 1.000 Einwohner,723
-2019,Land BW,Kfz je 1.000 Einwohner,733
-2020,Land BW,Kfz je 1.000 Einwohner,744
-2021,Land BW,Kfz je 1.000 Einwohner,753
-,,,
+Year,Units,Region,Fahrzeugart,Value
+2008,Kfz-Zulassungen Enzkreis,,Krafträder,11966
+2009,Kfz-Zulassungen Enzkreis,,Krafträder,12267
+2010,Kfz-Zulassungen Enzkreis,,Krafträder,12606
+2011,Kfz-Zulassungen Enzkreis,,Krafträder,12855
+2012,Kfz-Zulassungen Enzkreis,,Krafträder,13152
+2013,Kfz-Zulassungen Enzkreis,,Krafträder,13452
+2014,Kfz-Zulassungen Enzkreis,,Krafträder,13764
+2015,Kfz-Zulassungen Enzkreis,,Krafträder,14000
+2016,Kfz-Zulassungen Enzkreis,,Krafträder,14250
+2017,Kfz-Zulassungen Enzkreis,,Krafträder,14475
+2018,Kfz-Zulassungen Enzkreis,,Krafträder,14735
+2019,Kfz-Zulassungen Enzkreis,,Krafträder,14861
+2020,Kfz-Zulassungen Enzkreis,,Krafträder,15144
+2021,Kfz-Zulassungen Enzkreis,,Krafträder,15724
+2008,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,110080
+2009,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,110398
+2010,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,111482
+2011,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,113339
+2012,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,115340
+2013,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,116839
+2014,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,118543
+2015,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,120582
+2016,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,122957
+2017,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,125673
+2018,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,127963
+2019,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,130447
+2020,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,132323
+2021,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,134056
+2008,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,103
+2009,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,105
+2010,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,112
+2011,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,115
+2012,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,113
+2013,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,112
+2014,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,107
+2015,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,113
+2016,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,106
+2017,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,121
+2018,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,129
+2019,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,137
+2020,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,144
+2021,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,128
+2008,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4841
+2009,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4933
+2010,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4865
+2011,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4980
+2012,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5252
+2013,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5380
+2014,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5457
+2015,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5633
+2016,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5838
+2017,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6123
+2018,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6311
+2019,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6567
+2020,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6779
+2021,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,7120
+2008,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5795
+2009,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5798
+2010,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5867
+2011,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5929
+2012,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6021
+2013,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6004
+2014,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5974
+2015,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5983
+2016,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6051
+2017,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6158
+2018,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6283
+2019,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6383
+2020,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6425
+2021,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6497
+2008,Kfz je 1.000 Einwohner,Land BW,,634
+2009,Kfz je 1.000 Einwohner,Land BW,,638
+2010,Kfz je 1.000 Einwohner,Land BW,,646
+2011,Kfz je 1.000 Einwohner,Land BW,,655
+2012,Kfz je 1.000 Einwohner,Land BW,,682
+2013,Kfz je 1.000 Einwohner,Land BW,,690
+2014,Kfz je 1.000 Einwohner,Land BW,,700
+2015,Kfz je 1.000 Einwohner,Land BW,,702
+2016,Kfz je 1.000 Einwohner,Land BW,,705
+2017,Kfz je 1.000 Einwohner,Land BW,,715
+2018,Kfz je 1.000 Einwohner,Land BW,,723
+2019,Kfz je 1.000 Einwohner,Land BW,,733
+2020,Kfz je 1.000 Einwohner,Land BW,,744
+2021,Kfz je 1.000 Einwohner,Land BW,,753
+2008,Kfz je 1.000 Einwohner,Enzkreis,,683
+2009,Kfz je 1.000 Einwohner,Enzkreis,,689
+2010,Kfz je 1.000 Einwohner,Enzkreis,,699
+2011,Kfz je 1.000 Einwohner,Enzkreis,,719
+2012,Kfz je 1.000 Einwohner,Enzkreis,,731
+2013,Kfz je 1.000 Einwohner,Enzkreis,,738
+2014,Kfz je 1.000 Einwohner,Enzkreis,,745
+2015,Kfz je 1.000 Einwohner,Enzkreis,,749
+2016,Kfz je 1.000 Einwohner,Enzkreis,,759
+2017,Kfz je 1.000 Einwohner,Enzkreis,,771
+2018,Kfz je 1.000 Einwohner,Enzkreis,,784
+2019,Kfz je 1.000 Einwohner,Enzkreis,,796
+2020,Kfz je 1.000 Einwohner,Enzkreis,,807
+2021,Kfz je 1.000 Einwohner,Enzkreis,,819

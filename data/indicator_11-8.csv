@@ -1,56 +1,55 @@
-Year,Region,gruppe.beschaeftigt,Value
-2011,Enzkreis,Straßenverkehrsunfälle,454.4
-2012,Enzkreis,Straßenverkehrsunfälle,444.06
-2013,Enzkreis,Straßenverkehrsunfälle,453.29
-2014,Enzkreis,Straßenverkehrsunfälle,504.32
-2015,Enzkreis,Straßenverkehrsunfälle,409.56
-2016,Enzkreis,Straßenverkehrsunfälle,420.79
-2017,Enzkreis,Straßenverkehrsunfälle,418.41
-2018,Enzkreis,Straßenverkehrsunfälle,441.92
-2019,Enzkreis,Straßenverkehrsunfälle,417.43
-2011,Land BW,Straßenverkehrsunfälle,496.31
-2012,Land BW,Straßenverkehrsunfälle,487.89
-2013,Land BW,Straßenverkehrsunfälle,481.24
-2014,Land BW,Straßenverkehrsunfälle,479.53
-2015,Land BW,Straßenverkehrsunfälle,473.37
-2016,Land BW,Straßenverkehrsunfälle,473.87
-2017,Land BW,Straßenverkehrsunfälle,470.8
-2018,Land BW,Straßenverkehrsunfälle,463.14
-2019,Land BW,Straßenverkehrsunfälle,452.49
-2011,Enzkreis,Verunglückte,442.39
-2012,Enzkreis,Verunglückte,410.22
-2013,Enzkreis,Verunglückte,403.5
-2014,Enzkreis,Verunglückte,480.57
-2015,Enzkreis,Verunglückte,402.93
-2016,Enzkreis,Verunglückte,408.63
-2017,Enzkreis,Verunglückte,406.31
-2018,Enzkreis,Verunglückte,393.66
-2019,Enzkreis,Verunglückte,400.89
-2011,Land BW,Verunglückte,454.59
-2012,Land BW,Verunglückte,445.52
-2013,Land BW,Verunglückte,433.59
-2014,Land BW,Verunglückte,447.1
-2015,Land BW,Verunglückte,446.87
-2016,Land BW,Verunglückte,442.92
-2017,Land BW,Verunglückte,440.04
-2018,Land BW,Verunglückte,438.46
-2019,Land BW,Verunglückte,425.57
-2011,Enzkreis,Getötete,3.7
-2012,Enzkreis,Getötete,3.1
-2013,Enzkreis,Getötete,2.6
-2014,Enzkreis,Getötete,7.2
-2015,Enzkreis,Getötete,3.1
-2016,Enzkreis,Getötete,3.6
-2017,Enzkreis,Getötete,3.5
-2018,Enzkreis,Getötete,4.0
-2019,Enzkreis,Getötete,4.0
-2011,Land BW,Getötete,4.59
-2012,Land BW,Getötete,4.46
-2013,Land BW,Getötete,4.37
-2014,Land BW,Getötete,4.35
-2015,Land BW,Getötete,4.44
-2016,Land BW,Getötete,3.7
-2017,Land BW,Getötete,3.67
-2018,Land BW,Getötete,3.97
-2019,Land BW,Getötete,3.94
-,,,
+Year,Units,Region,Schadensart,Value
+2011,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,454.4
+2012,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,444.06
+2013,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,453.29
+2014,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,504.32
+2015,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,409.56
+2016,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,420.79
+2017,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,418.41
+2018,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,441.92
+2019,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,417.43
+2011,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,496.31
+2012,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,487.89
+2013,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,481.24
+2014,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,479.53
+2015,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,473.37
+2016,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,473.87
+2017,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,470.8
+2018,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,463.14
+2019,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,452.49
+2011,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,442.39
+2012,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,410.22
+2013,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,403.5
+2014,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,480.57
+2015,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,402.93
+2016,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,408.63
+2017,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,406.31
+2018,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,393.66
+2019,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,400.89
+2011,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,454.59
+2012,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,445.52
+2013,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,433.59
+2014,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,447.1
+2015,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,446.87
+2016,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,442.92
+2017,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,440.04
+2018,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,438.46
+2019,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,425.57
+2011,Getötete je 100.000 Einwohner,Enzkreis,,3.7
+2012,Getötete je 100.000 Einwohner,Enzkreis,,3.1
+2013,Getötete je 100.000 Einwohner,Enzkreis,,2.6
+2014,Getötete je 100.000 Einwohner,Enzkreis,,7.2
+2015,Getötete je 100.000 Einwohner,Enzkreis,,3.1
+2016,Getötete je 100.000 Einwohner,Enzkreis,,3.6
+2017,Getötete je 100.000 Einwohner,Enzkreis,,3.5
+2018,Getötete je 100.000 Einwohner,Enzkreis,,4.0
+2019,Getötete je 100.000 Einwohner,Enzkreis,,4.0
+2011,Getötete je 100.000 Einwohner,Land BW,,4.59
+2012,Getötete je 100.000 Einwohner,Land BW,,4.46
+2013,Getötete je 100.000 Einwohner,Land BW,,4.37
+2014,Getötete je 100.000 Einwohner,Land BW,,4.35
+2015,Getötete je 100.000 Einwohner,Land BW,,4.44
+2016,Getötete je 100.000 Einwohner,Land BW,,3.7
+2017,Getötete je 100.000 Einwohner,Land BW,,3.67
+2018,Getötete je 100.000 Einwohner,Land BW,,3.97
+2019,Getötete je 100.000 Einwohner,Land BW,,3.94

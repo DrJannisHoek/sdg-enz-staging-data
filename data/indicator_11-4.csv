@@ -1,12 +1,12 @@
-Year,Region,gruppe.beschaeftigt,Value
-2016,Enzkreis,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,58.9
-2017,Enzkreis,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,69.9
-2018,Enzkreis,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,66.7
-2019,Enzkreis,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,66.7
-2020,Enzkreis,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,66.6
-2016,Land BW,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,56.1
-2017,Land BW,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,62.3
-2018,Land BW,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,66.1
-2019,Land BW,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,68.6
-2020,Land BW,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,69.7
-,,,
+Year,Region,Value
+2016,Enzkreis,58.9
+2017,Enzkreis,69.9
+2018,Enzkreis,66.7
+2019,Enzkreis,66.7
+2020,Enzkreis,66.6
+2016,Land BW,56.1
+2017,Land BW,62.3
+2018,Land BW,66.1
+2019,Land BW,68.6
+2020,Land BW,69.7
+

@@ -1,22 +1,21 @@
-Year,Region,gruppe.Anschlussgrad,Value
-2007,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.8
-2010,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2013,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2014,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2015,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2016,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2017,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2018,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2019,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2020,Enzkreis,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.9
-2007,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.1
-2010,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.3
-2013,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.4
-2014,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.4
-2015,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-2016,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-2017,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-2018,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-2019,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-2020,Land BW,Anschlussgrad der Bevölkerung an kommunale Kläranlagen,99.5
-,,,
+Year,Abwasserentsorgung,Value
+2007,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.8
+2010,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2013,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2014,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2015,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2016,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2017,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2018,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2019,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2020,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis,99.9
+2007,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.1
+2010,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.3
+2013,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.4
+2014,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.4
+2015,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5
+2016,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5
+2017,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5
+2018,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5
+2019,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5
+2020,Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW,99.5

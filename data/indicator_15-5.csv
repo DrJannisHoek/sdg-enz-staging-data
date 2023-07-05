@@ -1,15 +1,14 @@
-Year,Region,gruppe.beschaeftigt,Value
-2022,Enzkreis,Wasser- und Quellschutzgebiete,6101
-2022,Enzkreis,Naturpark,5902
-2022,Enzkreis,Erholungswald Stufe 2,4651
-2022,Enzkreis,Landschaftsschutzgebiet,3587
-2022,Enzkreis,Bodenschutz,1022
-2022,Enzkreis,Immissionsschutz,742
-2022,Enzkreis,Naturschutzgebiet,340
-2022,Enzkreis,Waldrefugien,313
-2022,Enzkreis,Klimaschutz,191
-2022,Enzkreis,Schonwald,68
-2022,Enzkreis,Sichtschutz,30
-2022,Enzkreis,Naturdenkmal,3
-2022,Enzkreis,Bannwald,3
-,,,
+Year,Schutzgebiete.Wald,Value
+2022,Wasser- und Quellschutzgebiete,6101
+2022,Naturpark,5902
+2022,Erholungswald Stufe 2,4651
+2022,Landschaftsschutzgebiet,3587
+2022,Bodenschutz,1022
+2022,Immissionsschutz,742
+2022,Naturschutzgebiet,340
+2022,Waldrefugien,313
+2022,Klimaschutz,191
+2022,Schonwald,68
+2022,Sichtschutz,30
+2022,Naturdenkmal,3
+2022,Bannwald,3

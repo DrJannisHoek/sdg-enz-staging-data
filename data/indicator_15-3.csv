@@ -1,4 +1,3 @@
-Year,Region,gruppe.beschaeftigt,Value
-2020,Enzkreis,Streuobstwiesenfläche,55
-2020,Enzkreis,übriges Kreisgebiet,521
-,,,
+Year,Nutzung,Value
+2020,Streuobstwiesenfläche Enzkreis,55
+2020,Übriges Kreisgebiet Enzkreis,521
