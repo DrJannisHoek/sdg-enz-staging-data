@@ -947,8 +947,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sozialversicherungspflichtige Beschäftigung",
-                "SvB Frauen (%)",
+                "Sozialversicherungspflichtige Beschäftigung (abs.)",
+                "Sozialversicherungspflichtige Beschäftigung (%)",
                 ""
               ]
             },
@@ -964,7 +964,9 @@
                 "Männer in Teilzeit (abs.)",
                 "Frauen in Teilzeit (abs.)",
                 "Sozialversicherungspflichtig beschäftigte Frauen [%]",
-                "Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%]",
+                "Sozialversicherungspflichtig beschäftigte Männer [%]",
+                "Svb Frauen in Teilzeit [%]",
+                "Svb Männer in Teilzeit [%]",
                 ""
               ]
             },
