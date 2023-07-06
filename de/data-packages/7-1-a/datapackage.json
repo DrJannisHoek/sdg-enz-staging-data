@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Endenergieverbrauch [kWh]",
-                "Anteil Erneuerbarer Energien [%]",
+                "Anteil erneuerbarer Energien [%]",
                 ""
               ]
             },
@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Liegenschaften Landratsamt (witterungsbereinigt)",
-                "Anteil Erneuerbarer Energien (Liegenschaften Landratsamt)",
+                "Anteil erneuerbarer Energien (Liegenschaften Landratsamt)",
                 ""
               ]
             },
