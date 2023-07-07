@@ -3297,7 +3297,7 @@
             "constraints": {
               "enum": [
                 "Haushalte",
-                "Gewerbe sonstiges",
+                "Gewerbe und Sonstiges",
                 "Industrie",
                 "Verkehr",
                 ""
